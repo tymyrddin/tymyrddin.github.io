@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "About"
+  - title: "Cause and effect"
     url: /cause-and-effect/
   - title: "Scenario planning"
     url: /scenario-planning/
   - title: "Archive"
-     url: /year-archive/
+    url: /year-archive/
   - title: "Sitemap"
-     url: /sitemap/
+    url: /sitemap/
