@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Looking forward to it"
+title                    : "Ty Myrddin"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ty Myrddin"
@@ -147,7 +147,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
+#  - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
