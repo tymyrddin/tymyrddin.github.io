@@ -1,7 +1,7 @@
 ---
-title: "Scenario planning"
-permalink: /scenario-planning/
-date: 2021-04-04T22:38:00+00:00
+title: "Nth elephant"
+permalink: /elephants/
+date: 2021-04-05T21:46:00+00:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
