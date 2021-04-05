@@ -1,6 +1,7 @@
 ---
 title: "Nth elephant"
 permalink: /elephants/
+hidden: true
 date: 2021-04-05T21:46:00+00:00
 header:
   overlay_color: "#000"
