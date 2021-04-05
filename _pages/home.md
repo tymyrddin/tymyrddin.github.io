@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banner1.png
+  overlay_image: /assets/images/banner.png
   actions:
     - label: "Banner"
       url: "https://tymyrddin.github.io/"
