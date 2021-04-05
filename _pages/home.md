@@ -23,11 +23,11 @@ feature_row:
     btn_label: "Affect more"
   - image_path: /assets/images/fifth-elephant.png
     alt: "elephant"
-    title: "The fifth elephant"
-    excerpt: "The next elephant(s) in the room, or was it elephants all the way down?"
+    title: "The nth elephant"
+    excerpt: "The next elephant(s) in the room (nearly) nobody wants to know about."
     url: "/elephants/"
     btn_class: "btn--primary"
-    btn_label: "Discover"      
+    btn_label: "Discover blind spots"      
 ---
 
 {% include feature_row %}
