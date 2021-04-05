@@ -21,7 +21,7 @@ feature_row:
     excerpt: "Most changes do not affect reality on a deeper level other than to cement the status quo."
     url: "/cause-and-effect/"
     btn_class: "btn--primary"
-    btn_label: "Affect consciousness"
+    btn_label: "Affect"
   - image_path: /assets/images/fifth-elephant.png
     alt: "elephant"
     title: "The nth elephant"
