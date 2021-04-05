@@ -6,9 +6,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner.png
-  actions:
-    - label: "Banner"
-      url: "https://tymyrddin.github.io/"
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
