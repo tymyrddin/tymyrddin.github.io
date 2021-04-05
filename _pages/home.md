@@ -7,27 +7,27 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner.png
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - image_path: /assets/images/night-watch.png
+    alt: "looking forward"
+    title: "Scenario planning"
+    excerpt: "Exercises looking up to 20 years out for flexible strategic planning."
+    url: "/scenario-planning/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    btn_label: "Guide R&D efforts"
+  - image_path: /assets/images/regiment.png
+    alt: "effects"
+    title: "Causes and effects"
+    excerpt: "Exploring and displaying the possible causes of a certain effect and vv."
+    url: "/cause-and-effect/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    btn_label: "Affect more"
+  - image_path: /assets/images/fifth-elephant.png
+    alt: "elephant"
+    title: "The fifth elephant"
+    excerpt: "The next elephant(s) in the room, or was it elephants all the way down?"
+    url: "/elephants/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Discover"      
 ---
 
 {% include feature_row %}

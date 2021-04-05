@@ -20,7 +20,7 @@ title                    : "Ty Myrddin"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ty Myrddin"
-description              : "There is never enough shelf space!"
+description              : "An imaginary universe. where rules are bent. and the unexpected happens."
 url                      : "https://tymyrddin.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "tymyrddin/tymyrddin.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
