@@ -1,6 +1,5 @@
 ---
-title: "Cause and effects"
-layout: "default"
+title: "Causes and effects"
 permalink: /cause-and-effect/
 date: 2021-04-04T22:39:00+00:00
 header:
@@ -8,5 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner.png
 ---
+
+# Causes and effects
 
 (lorem ipsum)
