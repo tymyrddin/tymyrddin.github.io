@@ -1,4 +1,5 @@
 ---
+title: "Obliviousness is key"
 layout: splash
 permalink: /
 hidden: true

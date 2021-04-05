@@ -10,6 +10,5 @@ header:
   overlay_image: /assets/images/banner.png
 ---
 
-# Causes and effects
 
 (lorem ipsum)
