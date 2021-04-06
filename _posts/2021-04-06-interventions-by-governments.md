@@ -11,7 +11,7 @@ tags:
   - Geopolitics
 ---
 
-These are some ingredients for a possible [scenario narrative]({{ site.url }}{{ site.baseurl }}scenario-planning):
+These are some ingredients for one of five possible example [scenario narratives]({{ site.url }}{{ site.baseurl }}scenario-planning):
 
 ## Plot
 * Corporations, enterprises and NGO's are targets in this scenario.

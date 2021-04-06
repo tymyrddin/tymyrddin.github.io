@@ -10,14 +10,14 @@ header:
   overlay_image: /assets/images/banner.png
 ---
 
-Scenario planning is a way of [studying tracks](https://tymyrddin.github.io/ancient-practice/) for understanding the dynamics that might shape the future. It's basic choreography:
+Scenario planning is a way of [studying tracks]({{ site.url }}{{ site.baseurl }}scenario-planning/ancient-practice/) for understanding the dynamics that might shape the future. It's basic choreography:
 
 * Pin down a [decision focus](#decision-focus) to prevent the choreography from degenerating into purposeless speculation about all infinite futures.
 * Identify [forces](#forces) that ordinarily work well outside our concerns and usually catch us unaware.
 * Identify [predetermined elements](#predetermined-elements), forces that are completely outside our control and will play out in any story we tell about the future.
 * Gather [resources](#resources) for further research of elements for developing scenario logics.
 * Develop [scenario logics](#scenario-logics) for exploring critical uncertainties and for finding desired deviations from official futures to work backwards from.
-* Flesh out [stories](#stories) for putting some meat on those bones.
+* Flesh out [stories](#narratives) for putting some meat on those bones.
 
 ## Decision focus
 
@@ -43,7 +43,7 @@ _The lines between state-sponsored actors and privately-driven actors in hacking
 
 ## Resources
 
-For listing more driving forces for a particular organisation and context, explore for example, [systematic hacking](https://github.com/tymyrddin/orchard/tree/main/trees), hacking forensics, [adversary-centric threat modelling](https://github.com/tymyrddin/orchard/tree/main/threat-modelling), and research into current digital events.Scenario planning is a way of [studying tracks] for understanding the dynamics that might shape the future. The basic choreography:
+For listing more driving forces for a particular organisation and context, explore for example, [systematic hacking](https://github.com/tymyrddin/orchard/tree/main/trees), hacking forensics, [adversary-centric threat modelling](https://github.com/tymyrddin/orchard/tree/main/threat-modelling), attack patterns, linguistic patterns, and research into current digital events. 
 
 ## Scenario logics
 
@@ -58,14 +58,12 @@ The logics spans up spaces to think things through, to do more research, and to 
 * What-if ...?
 * Determine possible deviations from the official future to work backwards from. 
 
-## Stories
+## Narratives
 
-A good set of scenarios will contain two to five different narratives. More than five scenarios tend to get confused with one another. Three scenarios run the danger that people will try to pick the most moderate or most apparently plausible and ignore the other two.
+A good set of scenarios will contain two to five different narratives. More than five scenarios tend to get confused with one another. Three scenarios run the danger that people will try to pick the most moderate or most apparently plausible (or profitable)and ignore the other two, while the scenarios are not mutually exclusive.
 
-## Examples
-
-* Obliviousness and congruence
-* Surveillance society
-* Interventions by governments
-* Hacker groups rule
-* Self-organising (protection) societies
+* [Obliviousness and congruence]({{ site.url }}{{ site.baseurl }}scenario-planning/2021-04-06-obliviousness-and-congruence)
+* [Surveillance society]({{ site.url }}{{ site.baseurl }}scenario-planning/2021-04-06-surveillance-society)
+* [Interventions by governments]({{ site.url }}{{ site.baseurl }}scenario-planning/2021-04-06-interventions-by-governments)
+* [Hacker groups rule]({{ site.url }}{{ site.baseurl }}scenario-planning/2021-04-06-hacker-groups-rule)
+* [Self-organising (protection) societies]({{ site.url }}{{ site.baseurl }}scenario-planning/2021-04-06-self-organising societies)
