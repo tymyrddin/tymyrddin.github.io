@@ -41,6 +41,16 @@ _Every organization in the world, whether in the public or private sector, depen
 
 _The lines between state-sponsored actors and privately-driven actors in hacking groups and in re-identification practices are increasingly becoming blurred. The impact of exploit proliferation as threat actors use commodity tools such as (open source) penetration-testing software and poisoned update packages to breach networks is likely to be immense._
 
+## Predetermined elements
+
+From our perspective, some forces can be called “predetermined” (meaning they are completely outside our control and will play out in any story we tell about the future). Predetermined elements are those that can be predicted accurately because they change very slowly or seemingly not at all, or do change, even rapidly, but in the same way as before.
+
+For example:
+
+_The loss of control by governments to collectives is driven by a deep dependency state in organisations and individuals, increasing inequality, and the geo-political factor of progressive depletion of easier-to-extract fossil fuels. None of which we can expect to change any time soon._
+
+For the purpose of finding more predetermined elements easily, we can research predetermined (human) patterns in the past from our own experiences, in stories, myths and legends, music, poetry, prose, scientific analyses, in books, and in documentaries. 
+
 ## Resources
 
 For listing more driving forces for a particular organisation and context, explore for example, [systematic hacking](https://github.com/tymyrddin/orchard/tree/main/trees), hacking forensics, [adversary-centric threat modelling](https://github.com/tymyrddin/orchard/tree/main/threat-modelling), attack patterns, linguistic patterns, and research into current digital events. 
