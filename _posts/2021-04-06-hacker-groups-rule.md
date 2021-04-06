@@ -11,7 +11,7 @@ tags:
   - APT
 ---
 
-These are some ingredients for one of five possible example [scenario narratives]({{ site.url }}{{ site.baseurl }}scenario-planning):
+These are some ingredients for one of five possible example [scenario narratives]({{ site.url }}{{ site.baseurl }}/scenario-planning):
 
 ## Plot
 * Autonomous collectives, cartel-paid mercenary and nation-state-sponsored hacker groups grow, expand and escalate.

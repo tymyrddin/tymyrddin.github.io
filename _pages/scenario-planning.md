@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/banner.png
 ---
 
-Scenario planning is a way of [studying tracks]({{ site.url }}{{ site.baseurl }}scenario-planning/ancient-practice/) for understanding the dynamics that might shape the future. It's basic choreography:
+Scenario planning is a way of [studying tracks]({{ site.url }}{{ site.baseurl }}/scenario-planning/ancient-practice/) for understanding the dynamics that might shape the future. It's basic choreography:
 
 * Pin down a [decision focus](#decision-focus) to prevent the choreography from degenerating into purposeless speculation about all infinite futures.
 * Identify [forces](#forces) that ordinarily work well outside our concerns and usually catch us unaware.
@@ -62,8 +62,8 @@ The logics spans up spaces to think things through, to do more research, and to 
 
 A good set of scenarios will contain two to five different narratives. More than five scenarios tend to get confused with one another. Three scenarios run the danger that people will try to pick the most moderate or most apparently plausible (or profitable)and ignore the other two, while the scenarios are not mutually exclusive.
 
-* [Obliviousness and congruence]({{ site.url }}{{ site.baseurl }}scenario-planning/2021-04-06-obliviousness-and-congruence)
-* [Surveillance society]({{ site.url }}{{ site.baseurl }}scenario-planning/2021-04-06-surveillance-society)
-* [Interventions by governments]({{ site.url }}{{ site.baseurl }}scenario-planning/2021-04-06-interventions-by-governments)
-* [Hacker groups rule]({{ site.url }}{{ site.baseurl }}scenario-planning/2021-04-06-hacker-groups-rule)
-* [Self-organising (protection) societies]({{ site.url }}{{ site.baseurl }}scenario-planning/2021-04-06-self-organising societies)
+* [Obliviousness and congruence]({{ site.url }}{{ site.baseurl }}/scenario-planning/2021-04-06-obliviousness-and-congruence)
+* [Surveillance society]({{ site.url }}{{ site.baseurl }}/scenario-planning/2021-04-06-surveillance-society)
+* [Interventions by governments]({{ site.url }}{{ site.baseurl }}/scenario-planning/2021-04-06-interventions-by-governments)
+* [Hacker groups rule]({{ site.url }}{{ site.baseurl }}/scenario-planning/2021-04-06-hacker-groups-rule)
+* [Self-organising (protection) societies]({{ site.url }}{{ site.baseurl }}/scenario-planning/2021-04-06-self-organising societies)

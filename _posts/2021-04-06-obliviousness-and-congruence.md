@@ -8,9 +8,12 @@ tags:
   - Scenario planning
   - Obliviousness
   - Elephants
+  - Limitations
+  - Finite
+  - Earth
 ---
 
-These are some ingredients for one of five possible example [scenario narratives]({{ site.url }}{{ site.baseurl }}scenario-planning):
+These are some ingredients for one of five possible example [scenario narratives]({{ site.url }}{{ site.baseurl }}/scenario-planning):
 
 ## Plot
 
