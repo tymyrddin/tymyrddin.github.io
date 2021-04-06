@@ -6,8 +6,8 @@ categories:
 tags:
   - Causes and effects
   - Elephants
-  - Debt
-  - Oil
+  - Inequality
+  - Commodification
   - Geopolitics
   - Blindspot
 ---
