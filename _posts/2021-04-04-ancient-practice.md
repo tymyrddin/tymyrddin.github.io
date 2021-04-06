@@ -1,3 +1,15 @@
+---
+title: "Ancient practices"
+modified: 2021-04-04T15:57:02+00:00
+categories:
+  - Scenario-planning
+tags:
+  - Past
+  - Predetermined element
+  - Force
+  - Cognitive
+---
+
 Way back when, [say 3.3 million years ago](https://www.nature.com/articles/nature14464), in what is now called the Early Stone Age of Africa, a group of young male lions is on the prowl. The group of Lomekwians studying tracks only a few kilometers away are too far to smell or see, and do not exist for the lions.
 
 The Lomekwians, by studying tracks, are not only aware of the existence of the group of lions nearby, but also of a wounded animal, and that could mean a near future with food for the group.
