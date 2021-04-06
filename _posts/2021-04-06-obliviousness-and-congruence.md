@@ -8,7 +8,7 @@ tags:
   - Scenario planning
   - Obliviousness
   - Elephants
-  - Limitations
+  - Resources
   - Finite
   - Earth
 ---

@@ -76,4 +76,4 @@ A good set of scenarios will contain two to five different narratives. More than
 * [Surveillance society]({{ site.url }}{{ site.baseurl }}/scenario-planning/surveillance-society)
 * [Interventions by governments]({{ site.url }}{{ site.baseurl }}/scenario-planning/interventions-by-governments)
 * [Hacker groups rule]({{ site.url }}{{ site.baseurl }}/scenario-planning/hacker-groups-rule)
-* [Self-organising (protection) societies]({{ site.url }}{{ site.baseurl }}/scenario-planning/self-organising societies)
+* [Self-organising (protection) societies]({{ site.url }}{{ site.baseurl }}/scenario-planning/self-organising-societies)
