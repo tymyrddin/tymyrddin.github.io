@@ -4,7 +4,6 @@ modified: 2021-04-04T15:57:02+00:00
 categories:
   - Scenario-planning
 tags:
-  - Past
   - Predetermined element
   - Force
   - Cognitive
