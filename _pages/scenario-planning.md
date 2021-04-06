@@ -55,14 +55,14 @@ The logics spans up spaces to think things through, to do more research, and to 
 
 * Research to make sure these are all critical uncertainties.
 * Enumerate likely effects.
-* What-if?
+* What-if ...?
 * Determine possible deviations from the official future to work backwards from. 
 
 ## Stories
 
-A good set of scenarios will contain two to five different narratives. More than five scenarios tend to get confused with one another. Three scenarios run the danger that people will try to pick the most moderate or most apparently plausible and forget about the other two. Four is a good number — neither too many nor too few.
+A good set of scenarios will contain two to five different narratives. More than five scenarios tend to get confused with one another. Three scenarios run the danger that people will try to pick the most moderate or most apparently plausible and ignore the other two.
 
-## Example
+## Examples
 
 * Obliviousness and congruence
 * Surveillance society
