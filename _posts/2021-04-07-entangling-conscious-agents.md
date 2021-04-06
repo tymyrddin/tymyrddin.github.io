@@ -6,7 +6,7 @@ header:
     id: 6eWG7x_6Y5U
     provider: youtube
 categories:
-  - Blindspot
+  - Elephants
 tags:
   - Causes and effects
   - Elephants
