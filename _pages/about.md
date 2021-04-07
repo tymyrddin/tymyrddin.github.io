@@ -15,7 +15,7 @@ If you are looking for third-party independents for security research and analys
 
 ## Who we are
 
-We are a group of varying composition. Some are old hands, some want to learn pentesting/red teaming, others want to find (new) solutions to (new) problems. All believe in [open security](https://github.com/tymyrddin/orchard) (instead of job security, but we would like to be able to pay our bills). 
+We are a group of varying composition. Some are old hands, some want to learn pentesting/red teaming, others want to find (new) solutions to (new) problems. All believe in [open security](https://github.com/tymyrddin/orchard) (instead of job security, but we would like to be able to pay our bills) and all love learning. 
 
 We're currently out in space for building sites with JavaScript and/or Ruby, and researching and doing some data science with Python. 
 
