@@ -16,3 +16,5 @@ In order to start seeing our blind spots, we need to become more aware and reali
 
 If we use the metaphor of a tree, we can believe the trunk of the tree represents the foundation of our belief system and that it was formed during early experiences in life. If we use [elephants or turtles]({{ site.url }}{{ site.baseurl }}/elephants/entangling-conscious-agents), we believe we will never be able to see reality as it is, but it can be fun trying ...
 
+We chose elephants on a turtle flying through space, because it all starts with making time-space in our headset, and because on earth there are other [elephants]({{ site.url }}{{ site.baseurl }}/categories/#elephants) in the room people are trying to ignore, like humanities' ravenous runs on resources, legalised by the arrogation of earth's resources and subsequent commodification, painful inequality, and [fear of death]({{ site.url }}{{ site.baseurl }}/elephants/immortality-inc) underlying it all.
+

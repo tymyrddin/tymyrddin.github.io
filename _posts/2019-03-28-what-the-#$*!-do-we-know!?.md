@@ -1,10 +1,6 @@
 ---
 title: "What tнē #$*! D̄ө ωΣ (k)πow!?"
 modified: 2019-03-28T16:17:00+00:00
-header:
-  video:
-    id: pCWvRI8G5s4
-    provider: youtube
 categories:
   - Elephants
 tags:
@@ -46,4 +42,6 @@ Since some “mental events” are large enough information structures to be ade
 ## #$*!
 
 What the Bleep Do We Know!? (stylized as What tнē #$*! D̄ө ωΣ (k)πow!? and What the #$*! Do We Know!?) is a 2004 American film that combines documentary-style interviews, computer-animated graphics, and a narrative that posits a spiritual connection between quantum physics and consciousness. The plot follows the fictional story of a photographer as she encounters emotional and existential obstacles in her life and begins to consider the idea that individual and group consciousness can influence the material world. Her experiences are offered by the filmmakers to illustrate the film's thesis about quantum physics and consciousness. 
+
+{% include video id="pCWvRI8G5s4" provider="youtube" %}
 
