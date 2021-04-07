@@ -23,7 +23,6 @@ We're currently out in space for building sites with JavaScript and/or Ruby, and
 
 * (W)HRD, Land, Nature and Earth rights defenders.
 * Small NGO organisations which are working to protect freedoms as described in the ICCPR and/or digital privacy as described in the GDPR, or in [these additional articles](https://you.wemove.eu/campaigns/for-new-fundamental-rights-in-europe).
-* 
 * Small businesses and independents with a focus on autonomy enhancing products and services, for example on passing on permaculture practices or on supporting equally privileged, equipotent participants in collaborative goals.
 
 ## Price
