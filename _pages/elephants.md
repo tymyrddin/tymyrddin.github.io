@@ -14,7 +14,7 @@ We have a tendency to believe that we see reality and that what we think is true
 
 In order to start seeing our blind spots, we need to become more aware and realise that our inner thought world resembles a tree, or going down a rabbit hole, or that it is turtles all the way down, or elephants all the way down, or 4 elephants standing on a turtle which is flying through space ... 
 
-_Great A'Tuin, the World Turtle, is the gigantic turtle upon whose back the Discworld was carried through space. The Disc does not rest directly on A'Tuin; instead, it rests on the shoulders of four immense elephants, Berilia, Tubul, Great T'Phon and Jerakeen, who stand atop the turtle's shell ... Many things remain unknown about Great A'Tuin, including its gender and desires ..._
+_Great A'Tuin, the World Turtle, is the gigantic turtle upon whose back the Discworld is carried through space. The Disc does not rest directly on A'Tuin; instead, it rests on the shoulders of four immense elephants, Berilia, Tubul, Great T'Phon and Jerakeen, who stand atop the turtle's shell ... Many things remain unknown about Great A'Tuin, including its gender and desires ..._
 
 If we use the metaphor of a tree, we can believe the trunk of the tree represents the foundation of our belief system and that it was formed during early experiences in life. If we use [elephants and turtles]({{ site.url }}{{ site.baseurl }}/elephants/entangling-conscious-agents), we believe we will never be able to see reality as it is, but it can be fun trying ...
 
