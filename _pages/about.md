@@ -13,7 +13,15 @@ toc: true
 
 If you are looking for third-party independents for security research and analysis or for [audits, pentesting, red teaming or colourful campaigning](https://github.com/tymyrddin/orchard/wiki/Types-of-pentesting), you have come to the right place! 
 
-We also learn fast and are updating our (relatively) ancient programming and computer science skills for the current internet time-space. We're currently out in space for building sites with JavaScript and/or Ruby, and Data Science with Python.
+We are a group of varying composition. Some are old hands, some want to learn hacking, others want to find solutions for new problems.Some are old hands, some want to learn pentesting/red teaming, others want to find solutions to new problems. All do it on an independent basis.
+
+Our preferred clients are:
+
+* (W)HRD, Land, Nature and Earth rights defenders.
+* Small NGO organisations which are working to protect freedoms as described in the ICCPR and/or digital privacy as described in the GDPR.
+* Small businesses and independents with a focus on autonomy enhancing products and services, for example on passing on permaculture practices or on supporting equally privileged, equipotent participants in collaborative goals.
+
+We're currently out in space for building sites with JavaScript and/or Ruby, and researching and doing some Data Science with Python.
 
 If you wish to know more, [contact us](https://tymyrddin.space/#contact-us).
 
