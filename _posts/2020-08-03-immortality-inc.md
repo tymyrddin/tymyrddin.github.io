@@ -13,11 +13,11 @@ tags:
 
 _Enlightenment is ego’s ultimate disappointment. ~ Chögyam Trungpa_
 
-Would you like to live forever? Some billionaires, already invincible in every other way, have decided that they also deserve not to die. Today several biotech companies, fueled by Silicon Valley fortunes, are devoted to “life extension” — or as some put it, to solving “the problem of death.” ~ The Men Who Want to Live Forever, Dara Horn, New York Times, Jan 2018
-
-## Likely effects
+Would you like to live forever? Some billionaires, already invincible in every other way, have decided that they also deserve not to die. Today several biotech companies, fueled by Silicon Valley fortunes, are devoted to “life extension” — or as some put it, to solving “the problem of death.” ~ [The Men Who Want to Live Forever, Dara Horn, New York Times, Jan 2018](https://www.nytimes.com/2018/01/25/opinion/sunday/silicon-valley-immortality.html)
 
 So what if we become immortals?
+
+## Likely effects
 
 * Immortality would probably exacerbate the already destructive carelessness with which we engage with the natural order even more. Death is an essential component of the cycle of life and we would run the very serious risk of (increasing) human overpopulation.
 * As our mean lifespan increased, more diseases appeared, because we didn't die before they appeared. We have no idea what will reveal itself, but for certain something will. No boredom for doctors, health and medicine researchers and biologists. I wonder for how long?
