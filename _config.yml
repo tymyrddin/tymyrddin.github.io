@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Ty Myrddin"
   avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "We are (regularly) **oblivious** persons."
+  bio              : " "
   location         : "France and New Zealand"
   email            :
   links:
@@ -251,7 +251,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       show_date: true
       read_time: true
       comments: # true
