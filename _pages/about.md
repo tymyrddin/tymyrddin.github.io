@@ -13,7 +13,7 @@ toc: true
 
 If you are looking for third-party independents for security research and analysis or for [audits, pentesting, red teaming or colourful campaigning](https://github.com/tymyrddin/orchard/wiki/Types-of-pentesting), you have come to the right place! 
 
-We are a group of varying composition. Some are old hands, some want to learn hacking, others want to find solutions for new problems.Some are old hands, some want to learn pentesting/red teaming, others want to find solutions to new problems. All do it on an independent basis.
+We are a group of varying composition. Some are old hands, some want to learn pentesting/red teaming, others want to find solutions to new problems. All do it on an independent basis.
 
 Our preferred clients are:
 
