@@ -12,7 +12,7 @@ toc: true
 feature_row:
   - image_path: /assets/images/pyramids.png
     alt: "Pyramids"
-    title: "JavaScript Client-Server application"
+    title: "JavaScript application"
     excerpt: "The odds are stacked heavily against designs that just work."
     url: "https://github.com/tymyrddin/stacked"
     btn_class: "btn--primary"
@@ -27,10 +27,10 @@ feature_row:
   - image_path: /assets/images/truth.png
     alt: "Truth"
     title: "Search engine in ruby"
-    excerpt: "Yet another one"
+    excerpt: "There is nothing that cannot be found on the Internet somewhere: Crawl, index, query"
     url: "https://github.com/tymyrddin/afander"
     btn_class: "btn--primary"
-    btn_label: "Crawl, index, query"      
+    btn_label: "Find"      
 ---
 
 We're currently out in space for learning (Mind you, we only spend time on it when we feel like it) ... 
