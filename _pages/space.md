@@ -33,6 +33,6 @@ feature_row:
     btn_label: "Find"      
 ---
 
-We're currently out in space for learning (Mind you, we only spend time on it when we feel like it) ... 
+What we're currently out in space for (Mind you, we only spend time on it when we feel like it) 
 
 {% include feature_row %}
