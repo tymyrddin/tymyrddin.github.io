@@ -26,8 +26,8 @@ feature_row:
     btn_label: "Affected"
   - image_path: /assets/images/truth.png
     alt: "Truth"
-    title: "Search engine in ruby"
-    excerpt: "There is nothing that cannot be found on the Internet somewhere: Crawl, index, query"
+    title: "Scrape engine in ruby"
+    excerpt: "There is nothing that cannot be analysed on the Internet. It's mind-blowing."
     url: "https://github.com/tymyrddin/afander"
     btn_class: "btn--primary"
     btn_label: "Find"      
