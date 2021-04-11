@@ -35,4 +35,7 @@ On the doctrine of natural law:
 On evolutionary biology
 * Alas Poor Darwin: Arguments Against Evolutionary Psychology, Hilary Rose and Steven Rose 
 
+## Thomas Friedman and Yuval Noah Harari About The Future of Humanity
+
+{% include video id="5chp-PRYq-w" provider="youtube" %}
 
