@@ -16,7 +16,9 @@ No doubt Yuval Noah Harari is a good writer. I read his books and was impressed 
 
 _"Humans suffer, animals suffer, but nations do not suffer"_
 
-Yet I also have some critiques on his works. In his books (and interviews), he also regularly gives plausible, yet to my knowledge incorrect (or debated) explanations of the major events in human history and their impacts on the world. And it is always important to investigate further and prove my own thinking wrong. New books on my list:
+Yuval Noah Harari's books do not really contain new theories, and are having a huge impact on people's thinking and having a look at some of the Elephants in the room. Way to go. Yet I also have some critiques on his works. In his books (and interviews), he also regularly gives plausible, yet to my knowledge incorrect (or debated) explanations of the major events in human history and their impacts on the world. And it is always important to investigate further and prove my own thinking wrong. 
+
+Books on my list to read (and further investigate):
 
 Science and history (supposedly more grounded):
 * The Red Queen: Sex and the Evolution of Human Nature, Matt Ridley 
