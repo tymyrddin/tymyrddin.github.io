@@ -10,10 +10,9 @@ tags:
   - Blindspot
   - Cognitive
 ---
+No doubt Yuval Noah Harari is a good writer. I read his books and was impressed by how he explains the importance of empires and that the agricultural and industrial revolutions were, at best, mixed blessings. And in this interview he discusses the myths of money and patriarchy, two of the elephants in the room.
 
 {% include video id="UTchioiHM0U" provider="youtube" %}
-
-No doubt Yuval Noah Harari is a good writer. I read his books and was impressed by how he explains the importance of empires and that the agricultural and industrial revolutions were, at best, mixed blessings. And in this interview he discusses the myths of money and patriarchy, two of the elephants in the room. 
 
 _"Humans suffer, animals suffer, but nations do not suffer"_
 
