@@ -24,11 +24,14 @@ Science and history (supposedly more grounded):
 * The Red Queen: Sex and the Evolution of Human Nature, Matt Ridley 
 * The Origin of Virtue, Matt Ridley
 * Nature via Nurture: Genes, Experience and What Makes Us Human, Matt Ridley 
+
 Development of virtue, cooperation, and less physical violence:
 * The Moral Animal: Why We Are, the Way We Are: The New Science of Evolutionary Psychology, Robert Wright
 * The Evolution of God, Robert Wright
+
 On the doctrine of natural law:
 * Hardwired Behavior: What Neuroscience Reveals about Morality, Laurence Tancredi
+
 On evolutionary biology
 * Alas Poor Darwin: Arguments Against Evolutionary Psychology, Hilary Rose and Steven Rose 
 
