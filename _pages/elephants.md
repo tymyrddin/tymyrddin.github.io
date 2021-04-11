@@ -18,5 +18,5 @@ _Great A'Tuin, the World Turtle, is the gigantic turtle upon whose back the Disc
 
 If we use the metaphor of a tree, we can believe the trunk of the tree represents the foundation of our belief system and that it was formed during early experiences in life. If we use elephants and turtles, we believe we will never be able to see reality as it is, but it can be fun trying. Hence we chose the latter, because "it" all starts with creating time-space, in which we develop our virtuality headset. 
 
-Meanwhile, on Earth, there are other, related yet non-galactic [elephants]({{ site.url }}{{ site.baseurl }}/categories/#elephants) in the room. Elephants which people are trying to ignore, for example climate change, or humanities' ravenous runs on resources and its underlying fear of death, the subsequent injustices and inequalities, and wars, to just mention a few.
+Meanwhile, on Earth, there are related yet non-galactic [elephants]({{ site.url }}{{ site.baseurl }}/categories/#elephants) in the room. Elephants which people are trying to ignore, for example climate change, or humanities' ravenous runs on resources and its underlying fear of death, the subsequent injustices and inequalities, and wars, to just mention a few.
 
