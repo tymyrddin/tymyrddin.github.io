@@ -17,5 +17,5 @@ Targets of this campaign, inferred by the content of phishing emails include exe
 
 The Inception malware poses as a WhatsApp app update, and was packaged as a Debian installer package that “impersonates a Cydia installer, and can only be installed on a jailbroken phone.” The attack has evolved (from its first appearance in 2013, when it was named “Red October” by Kaspersky Labs), now posing as the increasingly popular WhatsApp rather than Microsoft's Skype.
 
-Depending on device, the malware collects unique device identifiers such as device's serial and phone number, carrier information and activity, such as calls logs and contacts, memory use and other status information and the names of apps iTunes has installed. To reach potential victims, the attackers devised MMS phishing campaigns through at least 60 mobile networks across the globe.
+Depending on device, Windows PCs and Android, BlackBerry and iOS devices, the malware collects unique device identifiers such as device's serial and phone number, carrier information and activity, such as calls logs and contacts, memory use and other status information and the names of apps iTunes has installed. To reach potential victims, the attackers devised MMS phishing campaigns through at least 60 mobile networks across the globe. Victim counts were very low and mostly in Russia and Kasazkhstan. 
 
