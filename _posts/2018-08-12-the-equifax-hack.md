@@ -16,7 +16,7 @@ From the There-is-much-much-more-to-it Dept.
 
 The company stated records containing Social Security Numbers, birth dates, addresses, and in some cases driver's license numbers were accessed, 209,000 consumers also had their credit card data exposed and for 182,000 consumers the breach also included “certain dispute documents with personal identifying information”.
 
-* Equifax launched a website named equifaxsecurity2017.com for those potentially impacted.
+* Equifax launched a website named [equifaxsecurity2017.com](https://www.equifaxsecurity2017.com/) for those potentially impacted.
 * Chairman and Chief Executive Officer, Richard F. Smith made an apology: “This is clearly a disappointing event for our company, and one that strikes at the heart of who we are and what we do. I apologize to consumers and our business customers for the concern and frustration this causes.”
 * The company has hired a forensics firm to help with the investigation and offer guidance on preventing such a data breach from happening again.
 * Chairman and Chief Executive Officer, Richard F. Smith: “I’ve told our entire team that our goal can’t be simply to fix the problem and move on. Confronting cybersecurity risks is a daily fight. While we’ve made significant investments in data security, we recognize we must do more. And we will.”
