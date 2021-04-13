@@ -12,7 +12,7 @@ tags:
 
 From the There-is-much-much-more-to-it Dept.
 
- Equifax, one of the largest credit bureaus in the U.S., said that an application vulnerability on one of their websites led to a data breach that exposed about 143 million consumers. The breach was discovered on July 29, but the company says that it likely started in mid-May. In October 2017, Equifax raised its estimate of the number of impacted consumers to 145.5 million. Then, on March 1, 2018, the company raised the number by another 2.4 million, bringing the tally to 147.9 million.
+Equifax, one of the largest credit bureaus in the U.S., said that an application vulnerability on one of their websites led to a data breach that exposed about 143 million consumers. The breach was discovered on July 29, but the company says that it likely started in mid-May. In October 2017, Equifax raised its estimate of the number of impacted consumers to 145.5 million. Then, on March 1, 2018, the company raised the number by another 2.4 million, bringing the tally to 147.9 million.
 
 The company stated records containing Social Security Numbers, birth dates, addresses, and in some cases driver's license numbers were accessed, 209,000 consumers also had their credit card data exposed and for 182,000 consumers the breach also included “certain dispute documents with personal identifying information”.
 
