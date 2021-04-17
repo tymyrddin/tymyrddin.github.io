@@ -9,7 +9,6 @@ tags:
   - Inequality
   - Cognitive
   - Blindspot
-  - Inequality
   - Prejudice
 ---
 
