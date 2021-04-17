@@ -14,8 +14,6 @@ tags:
 
 The earliest use of the word "commodification" in English attested in the Oxford English Dictionary dates from 1975. Use of the concept of commodification became common with the rise of critical discourse analysis in semiotics, in turn a result of wave after wave of transformation of goods, services, ideas and people into commodities, or objects of trade. 
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/polyp.png)
-
 Capitalism has to convert everything into commodities to keep growing …
 
 - [Nature](#nature)
