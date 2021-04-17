@@ -15,7 +15,7 @@ tags:
 
 Neoliberalism places property beyond the reach of democracy.
 
-_[Neoliberalism] rules all but ensure that governments act in the interests of capital, since, if businesses do not like a certain country’s policies (say, a proposal that corporations pay their fair share of taxes), they can disrupt the economy by abruptly withdrawing from that country. Preserving the rights of capital is the goal, even when that means sacrificing democratic demands. That is why our world is a more neoliberal one than it once was, and why it matters. However fractious and internally contradictory neoliberal thought may be, and however overused it can be as a term, it is describing something real._
+_Neoliberalism rules all but ensure that governments act in the interests of capital, since, if businesses do not like a certain country’s policies (say, a proposal that corporations pay their fair share of taxes), they can disrupt the economy by abruptly withdrawing from that country. Preserving the rights of capital is the goal, even when that means sacrificing democratic demands. That is why our world is a more neoliberal one than it once was, and why it matters. However fractious and internally contradictory neoliberal thought may be, and however overused it can be as a term, it is describing something real._
 
 ## Abstract wealth
 
