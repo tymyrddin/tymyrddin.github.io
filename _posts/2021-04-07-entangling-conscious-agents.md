@@ -2,7 +2,7 @@
 title: "Entangling conscious agents"
 modified: 2021-04-07T00:11:00+00:00
 categories:
-  - Elephants
+  - Cause-and-effect
 tags:
   - Causes and effects
   - Elephants

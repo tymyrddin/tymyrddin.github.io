@@ -47,5 +47,5 @@ Like so:
 
 ## Examples
 
-* [Drilling into debt]({{ site.url }}{{ site.baseurl }}/cause-and-effect/drilling-into-debt)
-* [Left hemisphere dominance]({{ site.url }}{{ site.baseurl }}/cause-and-effect/left-hemisphere-dominance)
+Examples of its uses can be found in [cause and effects]({{ site.url }}{{ site.baseurl }}/categories/#cause-and-effect)
+

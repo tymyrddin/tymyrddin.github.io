@@ -2,7 +2,7 @@
 title: "Myths we need to survive"
 modified: 2021-04-11T16:17:15+49:00
 categories:
-  - Elephants
+  - Cause-and-effect
 tags:
   - Causes and effects
   - Elephants
