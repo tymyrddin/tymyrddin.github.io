@@ -10,6 +10,7 @@ tags:
   - Cognitive
   - Blindspot
   - Law
+  - War
 ---
 
 Around 500 years ago indigenous peoples in the Americas, Oceania, Asia and Africa began to experience change, a kind of change they had not experienced before. Europeans arrived and began to lay claim to their lands and resources, frequently slaughtering their people, including women and children, if they stood in their way. For those who survived, Europeans brought disease and slavery.
