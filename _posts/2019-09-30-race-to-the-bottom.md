@@ -1,5 +1,5 @@
 ---
-title: "Neoliberalism"
+title: "Race to the bottom"
 modified: 2019-09-30T13:30:00+00:00
 categories:
   - Cause-and-effect
@@ -10,6 +10,7 @@ tags:
   - Blindspot
   - Poverty
   - Commodification
+  - Law
 ---
 
 Neoliberalism places property beyond the reach of democracy.
@@ -46,7 +47,7 @@ That part of it is a competitive race to the bottom that seems to go something l
 
 ## Overlooked
 
-This race leads to ever greater government handouts to capital and its owners, wealthy folk, multinational corporations, global banks, and so on – paid for by the sweat of everyone else. In the race to the bottom there seems to be no limit to which owners of capital would like to free-ride off the public goods provided by society. It is the nature of ideologies to see some things clearly and place other things out of view — to serve up a combination of useful concepts and to conceal self-interest.
+This race to the bottom leads to ever greater government handouts to capital and its owners, wealthy folk, multinational corporations, global banks, and so on – paid for by the sweat of everyone else. In the race to the bottom there seems to be no limit to which owners of capital would like to free-ride off the public goods provided by society. It is the nature of ideologies to see some things clearly and place other things out of view — to serve up a combination of useful concepts and to conceal self-interest.
 
 _Sets of ideas that become influential can usually do a great deal of the latter. The point is surely not that neoliberalism is wrong about everything: It makes sense to seek to avoid hyperinflation, for example, and it is reasonable to note that price fluctuations in market economies provide information to consumers and business owners about how to behave—if apples become scarce, and their price goes up, consumers can substitute, say, cheaper oranges. And it certainly is possible, too, for political decisions to mangle an economy so that markets cease to perform their socially useful work. Venezuela, where the economy contracted 13 percent last year, as people suffered through shortages of medicine and food, is perhaps the most tragic example at the present moment._
 
