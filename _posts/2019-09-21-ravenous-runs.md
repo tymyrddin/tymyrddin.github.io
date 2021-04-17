@@ -1,6 +1,6 @@
 ---
 title: "Ravenous runs"
-modified: 2019-09-21T14:40:00+00:00
+modified: 2021-04-17T21:37:00+00:00
 categories:
   - Cause-and-effect
 tags:
@@ -18,6 +18,7 @@ Capitalism has to convert everything into commodities to keep growing …
 
 - [Nature](#nature)
 - [Land](#land)
+- [Labour](#labour)
 - [Minerals](#minerals)
 - [Oil and gas](#oil-and-gas)
 - [Water](#water)
@@ -38,6 +39,14 @@ We are not equally responsible, and those that continue on this path to make the
 ## Land
 
 The state wants land to be titled to facilitate its commodification while the local peasantry stands to lose from this very commodification. 
+
+## Labour
+
+At the heart of labour commodification is centuries of Western political and economic thought. First Hobbes then Locke formulated their respective liberal economic commitments with interventions on labour value, followed by Adam Smith and Edmund Burke expressing value in terms of labour commodification.
+
+_Labour is a commodity like every other, and rises or falls according to the demand … The impossibility of the subsistence of a man who carries his labour to a market is totally beside the question … The only question is, what is it worth to the buyer? ~ Burke_
+
+The outcome of this has been nothing short of nightmarish. More on that in [The Bloody Life of Labour Power Commodification and the Fugitive Movement of the Disloyal We, Adrian A. Smith](https://twailr.com/the-bloody-life-of-labour-power-commodification-and-the-fugitive-movement-of-the-disloyal-we/)
 
 ## Minerals
 
