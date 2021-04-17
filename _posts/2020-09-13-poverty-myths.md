@@ -22,7 +22,7 @@ Lets start with some myths:
 
 ## Stigmatisation
 
-This is a world of opportunities available to all. As long as one works hard, he or she can accomplish much, if not everything. Anyone wanting to avoid poverty, can do that. Those who find themselves in poverty, have only themselves to blame. Poverty results from laziness, from making poor decisions, from counterproductive attitudes, from lack of education, etcetera. [Not true]({{ site.url }}{{ site.baseurl }}/the-divide), this is blaming of the victims.
+This is a world of opportunities available to all. As long as one works hard, he or she can accomplish much, if not everything. Anyone wanting to avoid poverty, can do that. Those who find themselves in poverty, have only themselves to blame. Poverty results from laziness, from making poor decisions, from counterproductive attitudes, from lack of education, etcetera. [Not true]({{ site.url }}{{ site.baseurl }}/cause-and-effect/the-divide), this is blaming of the victims.
 
 When believing that, someone in poverty or homelessness may feel embarrassed and maybe even ashamed. A result of stigma and disgrace. In reality, poverty is mostly caused by loss of jobs, by health emergencies, inadequate schools, low wages, and many other societal and economic factors, all not under their control. Collective action is required to fight poverty, but when a group is stigmatised like the impoverished are, the general public often disassociates itself from that group. It's them, not us.
 
