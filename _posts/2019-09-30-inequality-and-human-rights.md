@@ -62,7 +62,7 @@ To what extent does what we get paid confer ​‘worth’? The [New Economics F
 
 ## Getting out
 
-_The battle is about to start. Nobody knows how it will end. Which side will you be on?/_ ~ Gran Therborn
+_The battle is about to start. Nobody knows how it will end. Which side will you be on?_ ~ Gran Therborn
 
 Making the best of our culturally conditioned habits of self-valuation isn’t easy. It invites the rejection of the contingent-worth logic of self-esteem entrenched in Western society (“I’m only as good as my last achievement or success” or “a good deed is a good me and a bad deed is a bad me”) in favour of self-acceptance, and that is hard work which requires practice, practice, practice.
 
