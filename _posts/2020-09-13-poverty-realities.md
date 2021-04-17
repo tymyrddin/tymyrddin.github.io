@@ -9,6 +9,7 @@ tags:
   - Cognitive
   - Blindspot
   - Pandemic
+  - Poverty
 ---
 
 On the lives of billions of humans across the planet who are paying the price for the exploitation of the globe ([done mostly by “developed” countries]({{ site.url }}{{ site.baseurl }}/cause-and-effect/the-divide)):

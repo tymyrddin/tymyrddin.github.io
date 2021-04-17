@@ -9,6 +9,9 @@ tags:
   - Inequality
   - Cognitive
   - Blindspot
+  - Inequality
+  - Poverty
+  - Prejudice
 ---
 
 _“Since 1960, the income gap between the North and South has roughly tripled in size. Today 4.3 billion people, 60 per cent of the world's population, live on less than $5 per day. The richest eight people now control the same amount of wealth as the poorest half of the world combined.”_

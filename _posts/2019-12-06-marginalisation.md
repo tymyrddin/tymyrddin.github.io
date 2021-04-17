@@ -10,6 +10,8 @@ tags:
   - Virtualisation
   - Headset
   - Blindspot
+  - Inequality
+  - Prejudice
 ---
 
 The left hemisphere prefers the impersonal to the personal, a tendency instantiated in the structure of a technologically driven and bureaucratically administered society, in which the impersonal replaces the personal. This can lead to depersonalisation of relationships, with emphasis on uniformity and equality, not as just one desirable to be balanced with others, but as the ultimate desirable, transcending all others. Individualities would be ironed out and identification happens by categorisation: socio-economic group, ethnicity, sexes, gender, religion, caste, ability, etc.

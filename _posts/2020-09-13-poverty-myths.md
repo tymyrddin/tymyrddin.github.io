@@ -9,6 +9,7 @@ tags:
   - Cognitive
   - Blindspot
   - Pandemic
+  - Poverty
 ---
 The current greatest challenge: _“Holding the hands of middle-class people, coddling them, softening my words and critiques in order to ease them oh-so-gently into an understanding that the homeless person screaming profanities at them is suffering from the same system that makes them middle-class.”_ ~ [The Spirit of Poverty](https://rhydwildermuth.com/2015/04/14/the-spirit-of-poverty/)
 
