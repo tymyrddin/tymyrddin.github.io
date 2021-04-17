@@ -11,3 +11,92 @@ tags:
   - Poverty
   - Commodification
 ---
+
+The earliest use of the word "commodification" in English attested in the Oxford English Dictionary dates from 1975. Use of the concept of commodification became common with the rise of critical discourse analysis in semiotics, in turn a result of wave after wave of transformation of goods, services, ideas and people into commodities, or objects of trade. 
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/polyp.png)
+
+Capitalism has to convert everything into commodities to keep growing …
+
+- [Nature](#nature)
+- [Land](#land)
+- [Minerals](#minerals)
+- [Oil and gas](#oil-and-gas)
+- [Water](#water)
+- [Organs](#organs)
+- [Culture](#culture)
+- [Movements](#movements)
+
+## Nature
+
+Taken for granted in all discussions is the assumption that nature or the environment is something that can be commodified. One of the oldest assumptions, since the first time someone claimed land as theirs. The structure of the current economic system is such that it seeks to commodify everything, including all land and natural resources. Few people seem to notice that in most modernist worldviews nature does not have a right to exist for itself (anthropocentric mindset) or is just something for humans to use to maximise our “happiness” (utilitarian mindset).
+
+Nature is not produced by humans and it includes us as a part of itself. When we sell the right to harm the natural environment, we are selling something sacred and awe-some that does not belong to us (eco-centric mindset). Sadly, the utilitarian view is largely in control, and activists have to resort to proving “economic value” in order to protect what remains of wild and unrepresented nature.
+
+We are not equally responsible, and those that continue on this path to make their profits are not really held accountable, but all inhabitants of planet Earth have to bear the consequences. 
+
+## Land
+
+The state wants land to be titled to facilitate its commodification while the local peasantry stands to lose from this very commodification. 
+
+## Minerals
+
+In 1978, when potato-sized mineral nodules (ferro manganese concretions) were still resting undisturbed on the ocean floor, these became the subject of a “unique” attempt at international economic cooperation. “Developed” countries were (and are) protective of their advanced technology and capital resources, while “underdeveloped” countries were (and are) suspicious of the aims and motives of the industrialised states capable of deep seabed mineral extraction. And not without cause.
+
+Behind the scenes, watching (with a hand in the intrigue) were several multinational corporations, members of international consortia ready to begin mining operations …
+
+* In 2000 it was reported that the first attempt to exploit deep-sea manganese nodules ended in failure as a result of the collapse of world metal prices, the onerous provisions imposed by the UN Conference on the Law of the Sea (UNCLOS), and the overoptimistic assumptions about the viability of nodule mining. Attention then focused on cobalt-rich manganese crusts from seamounts. Since the mid-1980s, a number of new players have committed themselves to long-term programs to establish the viability of mining deep-sea manganese nodules. These programs require heavy subsidy by host governments. Gold-rich submarine hydrothermal deposits located at convergent plate margins are now emerging as a more promising prospect for mining than deep-sea manganese deposits. ~ Lessons learned from Deep-Sea Mining, Science 28 Jul 2000
+* In 2014, NGOs from Australia, Canada and India called for an international moratorium on deep seabed mining in light of the International Seabed Authority’s (ISA) issuing of 7 exploration licences for deep seabed mining in international waters. Oceana called on the European Commission to adopt a moratorium on deep-sea mining.
+* In 2018, European Parliament called on the Commission and the member states to support an international moratorium on commercial deep-sea mining exploitation licenses until such time as the effects of deep-sea mining on the marine environment, biodiversity and human activities at sea have been studied and researched sufficiently and all possible risks are understood.”
+* 2019, the South Pacific Ocean is the World’s Laboratory for the Experiment of Deep Sea Mining. With over 1.5 million square kilometres of ocean floor already under exploration leasehold the world’s first licence to operate a deep sea mine has been granted in Papua New Guinea to Canadian company Nautilus Minerals. There is a high level of uncertainty about the risks deep seabed mining poses to marine environments and communities. The story continues ...
+
+## Oil and gas
+
+Under the 1982 United Nations Convention on the Law of the Sea, coastal nations have exclusive rights to underwater resources up to 200 miles from their own shore. They can extend that claim by proving the seabed in a particular area is an extension of their continental shelf. Russia, Denmark, and Canada are all seeking to claim ownership of the Lomonosov Ridge — a 1,200-mile underwater mountain range that runs through the Arctic Ocean. The US has been left out of this jockeying since the Senate has refused to ratify the treaty, fearing it would cede American sovereignty to the UN. “Until we ratify that treaty, we will remain on the sidelines [in the Arctic],” said Heather Conley, a fellow at Washington’s Center for Strategic & International Studies. In case boundary disputes cannot be settled peacefully, Canada and Russia are preparing to defend their claims by military means.
+
+There is more than that ridge. Canada, the US, Russia, Norway and Greenland will all attempt to exploit the region's resources.
+
+* October 2016, Temperatures in the Arctic are rising twice as fast as the rest of the world and the sea ice is melting due to the carbon emissions in the atmosphere. This is allowing companies to search for fossil fuels in the Arctic - which is believed to hold 13 percent of the world's undiscovered oil. In July 2015, Shell began a controversial journey to the Arctic. Its mission was to drill and explore in the Chuckchi and Beaufort seas, hoping to find that untapped potential. The stakes were high for the company - and the environment. But what are the potential risks of oil drilling in the Arctic? And what would happen in the event of an Arctic spill?
+* The Arctic holds thirteen percent of the world's undiscovered oil and thirty percent of its untapped natural gas, which is trillions of dollars of potential profit. And that means issues of sovereignty, security, environment, and trade are intersecting at colossal pace. What is the potential environmental impact of resource extraction in the Arctic, and what might that mean for the people who live there?
+
+## Water
+
+The commodification of water refers to the process of transforming water, especially freshwater or “blue gold”, from a public good into an economic good that can be arrogated, appropriated and traded. Because of the waste problems, freshwater is becoming a vital and scarce resource for the society and the environment, just like the gold in the Wild West, it becomes the object of competition.
+
+## Organs
+
+In the case of organ commodification, the discussion already revolves around the sale of organs in terms of discrimination against the poor, the commodification of a good based on its financial market value, and possible unsafe outcomes; the effects of offering financial incentives to encourage civic sacrifice; how donors perceive their altruistic sacrifice; organ donation as civic duty through paired exchanges, donor chains, national policies to give preference to those who opt into an organ donor network, incentives that provide compensation short of direct payment, and spaces that acknowledge the sacrifices of donors; and how to begin to relieve the organ shortage crisis in the West.
+
+In [The Global Organ Shortage, T. Randolph Beard, David Kaserman, and Rigmar Osterkamp](https://stanford.universitypressscholarship.com/view/10.11126/stanford/9780804784092.001.0001/upso-9780804784092) surveyed and evaluated the in 2013 available literature on organ shortage and potential solutions. They conclude that compensating organ donors, both living and cadaveric, is by far the best way of increasing supply. And they did not restrict their analysis to compensation; they also looked at changes in default donor rules (shifting to presumed consent, as in people having to opt-out instead of opt-in), improved collection procedures (the Spanish model), organ chains and swaps (oh, dear, I can see a meat market), and demand management (avoiding obesity and dialysis in the case of kidney disease, both to a large extent being the result of stimulated consumerism).
+
+## Culture
+
+Within the artist resides connection to source that rejects what is diseased within the soul of humanity. The artist courageously holds the lamp of truth in the darkness when all other luminaries have absconded into the void. ~ [The Commodification of Art, Jason Holland](https://dissidentvoice.org/2018/02/the-commodification-of-art/)
+
+* Art fairs, auctions and galleries have produced a veritable marketplace for hot commodities and much of the art world has become the playground of the rich, status seeking new millionaires and billionaires.
+* Andy Warhol, Keith Haring, Brian Donnelly (KAWS), Ron English and Shepard Fairey have triumphed in appropriating and subverting pop culture figures, icons and cartoons in their artwork, and have used these mediated images to produce consumer goods such as toys, clothing, sneakers, etc.
+* The majority of art released by major media companies, as well as by so-called art gate keepers, is selling themselves out to what they believe will create maximum profits with little regard to any attempt at anything other than hitting that quarterly projection.
+    * _Art fairs are not places where aesthetic or intellectual fields of value are created. Art fairs are competitive fields where the destruction of aesthetic and intellectual values takes place for the benefit of consumptive value._ ~ Todd Levin
+    * _Art fairs constitute their own mini-economy, and are now tournaments of value, or status contests. At stake is not only a simple economic transaction, but the establishment of the perceived rank of artists importance, as well as the status and fame of the collectors who can afford, and claim access to, the art work that is for sale._ ~ Olav Vethuis
+
+In order to fully understand the extent to which popular culture today is commodified, it is essential to recognise the developments of capital not as distinct phenomena, but as part of a continual process of accumulation, expansion and consequent abstraction.
+
+_Capital is a process and not a thing. It is a process of reproduction of social life through commodity production, in which all of us in the advanced capitalist world are heavily implicated. Its internalised rules of operation are such as to ensure that it is a dynamic and revolutionary mode of social organization, restlessly and ceaselessly transforming the society within which it is embedded. The process masks and fetishizes, achieves growth through creative destruction, creates new wants and needs, exploits the capacity for human labour and desire, transforms spaces, and speeds up the pace of life_ ~ [The Condition of Postmodernity: An Enquiry into the Origins of Cultural Change, David Harvey](https://www.goodreads.com/book/show/106389.The_Condition_of_Postmodernity)
+
+## Movements
+
+This is no longer a story of front groups and infiltration. Activists are increasingly marginalised and becoming vulnerable to abuse. And activists' hard works are marketable without accountability. Some (if not most) movements are losing their voices for real change because members of such a “movement” are not promoting the movements message but rather participating in a fashion statement. Only a few seem to be foolhardy enough to apply the message to themselves. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
