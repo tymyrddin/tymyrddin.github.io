@@ -25,7 +25,9 @@ Capitalism has to convert everything into commodities to keep growing …
 - [Water](#water)
 - [Organs](#organs)
 - [Culture](#culture)
+- [History](#history)
 - [Movements](#movements)
+- [Atmosphere](#atmosphere)
 
 ## Nature
 
@@ -83,9 +85,26 @@ In order to fully understand the extent to which popular culture today is commod
 
 _Capital is a process and not a thing. It is a process of reproduction of social life through commodity production, in which all of us in the advanced capitalist world are heavily implicated. Its internalised rules of operation are such as to ensure that it is a dynamic and revolutionary mode of social organization, restlessly and ceaselessly transforming the society within which it is embedded. The process masks and fetishizes, achieves growth through creative destruction, creates new wants and needs, exploits the capacity for human labour and desire, transforms spaces, and speeds up the pace of life_ ~ [The Condition of Postmodernity: An Enquiry into the Origins of Cultural Change, David Harvey](https://www.goodreads.com/book/show/106389.The_Condition_of_Postmodernity)
 
+## History
+
+In a globalizing world, references to the past as a way of identity formation have become more and more important. [Even history seems to be commodified](https://www.hsozkult.de/event/id/event-86318). That makes for a profitable and marketable business. And one size fits all.
+
 ## Movements
 
 This is no longer a story of front groups and infiltration. Activists are increasingly marginalised and becoming vulnerable to abuse. And activists' hard works are marketable without accountability. Some (if not most) movements are losing their voices for real change because members of such a “movement” are not promoting the movements message but rather participating in a fashion statement. Only a few seem to be foolhardy enough to apply the message to themselves. 
+
+## Atmosphere
+
+Next one up is our atmosphere and carbon trading. CO2 is the newest commodity that can be traded. I wish to note that it is part of total control and another victory for market economy and utilitarian worldviews. Commodification spreading to nature as a whole.
+
+A carbon economy, with a market for the trading of carbon permits, where states, corporations, or even individuals would be given a certain allocation of permissible carbon emissions and where permits could be sold or traded. I can see it coming:
+
+* Pollution being allowed as long as one is able to pay for it? Duh? And where does that money go, to restoring the environment?
+* Another round of rich countries taking advantage of poor, underdeveloped countries.
+* Manipulation by states and corporations.
+* Non-paying polluters being fined for actions that have an adverse effect on the environment. And where does that money go, to restoring the environment?
+
+Everybody happily dancing down the yellow brick road of life yet, singing commercial jingles? 
 
 
 
