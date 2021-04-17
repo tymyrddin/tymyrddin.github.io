@@ -11,7 +11,7 @@ tags:
   - Pandemic
 ---
 
-On the lives of billions of humans across the planet who are paying the price for the exploitation of the globe ([done mostly by “developed” countries](the-divide)):
+On the lives of billions of humans across the planet who are paying the price for the exploitation of the globe ([done mostly by “developed” countries]({{ site.url }}{{ site.baseurl }}/the-divide)):
 
 - [Conflict](#conflict)
 - [Hunger](#hunger)
