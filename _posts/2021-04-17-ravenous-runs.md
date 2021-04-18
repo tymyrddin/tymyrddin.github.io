@@ -23,6 +23,7 @@ Capitalism has to convert everything into commodities to keep growing …
 - [Minerals](#minerals)
 - [Oil and gas](#oil-and-gas)
 - [Education](#education)
+- [Knowledge and data](#knowledge-and-data)
 - [Water](#water)
 - [Organs](#organs)
 - [Culture](#culture)
@@ -88,6 +89,10 @@ Market relevance is becoming a key orientating criterion for the selection of di
 Commodified education wants to produce education at the lowest possible cost and sell it at the highest possible price. These institutions are not primarily there to serve a human need but to make money – they are businesses out to maximise profits.
 
 _In spelling out what is wrong with the digital diploma mills of today, it is important to spell out what is meant by both “education” and “commodification,” since these terms are often used with little precision. To begin with, education must be distinguished from training (which is arguably more suitable for distance delivery) because the two are so often conflated. In essence, training involves the honing of a person’s mind so that that mind can be used for the purposes of someone other than that person. Training thus typically entails a radical divorce between knowledge and the self. Here knowledge is usually defined as a set of skills or a body of information designed to be put to use, to become operational, only in a context determined by someone other than the trained person; in this context the assertion of self is not only counterproductive, it is subversive to the enterprise. Education is the exact opposite of training in that it entails not the disassociation but the utter integration of knowledge and the self, in a word, self-knowledge. Here knowledge is defined by and, in turn, helps to define, the self. Knowledge and the knowledgeable person are basically inseparable._ ~ Digital Diploma Mills: The Automation of Higher Eduction, David F. Noble
+
+## Knowledge and data
+
+The knowledge and data science society is characterised by knowledge and data becoming a commodity that can be traded and priced. The associated business services  are representative for such an economy, since their main input and output is  directly related to knowledge and/or the data itself. 
 
 ## Water
 
