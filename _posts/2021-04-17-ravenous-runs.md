@@ -50,13 +50,15 @@ At the heart of labour commodification is centuries of Western political, legisl
 
 _Labour is a commodity like every other, and rises or falls according to the demand … The impossibility of the subsistence of a man who carries his labour to a market is totally beside the question … The only question is, what is it worth to the buyer? ~ Burke_
 
-The outcome of this has been nothing short of nightmarish. The commodification of people and nature, the construction and manipulation of antagonisms and enemies, and the politics of fear begins with an interpretation of violence as a tendency built into “a hegemonic order characterised by the concentration of private power and wealth”. More on that in [The Bloody Life of Labour Power Commodification and the Fugitive Movement of the Disloyal We, Adrian A. Smith](https://twailr.com/the-bloody-life-of-labour-power-commodification-and-the-fugitive-movement-of-the-disloyal-we/)
+The outcome of this has been nothing short of nightmarish. More on that in [The Bloody Life of Labour Power Commodification and the Fugitive Movement of the Disloyal We, Adrian A. Smith](https://twailr.com/the-bloody-life-of-labour-power-commodification-and-the-fugitive-movement-of-the-disloyal-we/)
 
 ## Nature
 
 Humans had become commoditised through selling their 'labour' and nature has been commoditised in myriad ways: privately owned land, farm animals, wildlife, genetic code, and more …
 
 Taken for granted in all discussions is the assumption that nature or the environment is something that can be commodified. One of the oldest assumptions, since the first time someone claimed land as theirs. The structure of the current economic system is such that it seeks to commodify everything, including all land and natural resources. Few people seem to notice that in most modernist worldviews nature does not have a right to exist for itself (anthropocentric mindset) or is just something for humans to use to maximise our “happiness” (utilitarian mindset).
+
+The commodification of people and nature, the construction and manipulation of antagonisms and enemies, and the politics of fear begins with an interpretation of violence as a tendency built into “a hegemonic order characterised by the concentration of private power and wealth”.
 
 Nature is not produced by humans and it includes us as a part of itself. When we sell the right to harm the natural environment, we are selling something sacred and awe-some that does not belong to us (eco-centric mindset). Sadly, the utilitarian view is largely in control, and activists have to resort to proving “economic value” in order to protect what remains of wild and unrepresented nature.
 
