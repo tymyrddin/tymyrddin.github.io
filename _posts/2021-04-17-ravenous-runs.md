@@ -16,37 +16,50 @@ The earliest use of the word "commodification" in English attested in the Oxford
 
 Capitalism has to convert everything into commodities to keep growing …
 
-- [Nature](#nature)
 - [Land](#land)
+- [Legislation](#legislation)
 - [Labour](#labour)
+- [Nature](#nature)
 - [Minerals](#minerals)
 - [Oil and gas](#oil-and-gas)
+- [Education](#education)
 - [Water](#water)
 - [Organs](#organs)
 - [Culture](#culture)
 - [History](#history)
 - [Movements](#movements)
+- [Self](#self)
 - [Atmosphere](#atmosphere)
 
+## Land
+
+The state wants land to be titled to facilitate its commodification while the local peasantry stands to lose from this very commodification.
+
+## Legislation
+
+From its outset legislation was intertwined with the commodification of land. This continued in colonisation practices. European traders paid rent to local authorities for the sites of their trading stations, and the exploitation of minerals. Land had acquired exchange value. Land ordinances and laws changed the meanings of property and the language used in the various legislative instruments concerning property introduced new interpretations and conceptualizations of property.
+
+The introduction of cash crops meant that farmers and other individuals wanted assurances of returns over longer periods, providing an impetus for landownership and alienation. Shortages of land stimulated the “macro-movements of farmers” into suitable areas. Legal ideas, the concepts of freehold and mortgage, and a monetary system, created a new landscape for the articulation of ownership, rights, alienation, and acquisition. The rapid changes in the meaning and practices associated with land matters correlated with the growing importance of urban land and the intensity with which people fought over it.
+
+Nothing has changed much there, except that the legalisation itself has also been commodified by secret ballots, secret trade agreements and lobbying practices. In commodification of legislation, the highest bidder can easily purchase entry into a government along with the various perks and influence that come with it.
+
+## Labour
+
+At the heart of labour commodification is centuries of Western political, legislative and economic thought. First Hobbes then Locke formulated their respective liberal economic commitments with interventions on labour value, followed by Adam Smith and Edmund Burke expressing value in terms of labour commodification.
+
+_Labour is a commodity like every other, and rises or falls according to the demand … The impossibility of the subsistence of a man who carries his labour to a market is totally beside the question … The only question is, what is it worth to the buyer? ~ Burke_
+
+The outcome of this has been nothing short of nightmarish. The commodification of people and nature, the construction and manipulation of antagonisms and enemies, and the politics of fear begins with an interpretation of violence as a tendency built into “a hegemonic order characterised by the concentration of private power and wealth”. More on that in [The Bloody Life of Labour Power Commodification and the Fugitive Movement of the Disloyal We, Adrian A. Smith](https://twailr.com/the-bloody-life-of-labour-power-commodification-and-the-fugitive-movement-of-the-disloyal-we/)
+
 ## Nature
+
+Humans had become commoditised through selling their 'labour' and nature has been commoditised in myriad ways: privately owned land, farm animals, wildlife, genetic code, and more …
 
 Taken for granted in all discussions is the assumption that nature or the environment is something that can be commodified. One of the oldest assumptions, since the first time someone claimed land as theirs. The structure of the current economic system is such that it seeks to commodify everything, including all land and natural resources. Few people seem to notice that in most modernist worldviews nature does not have a right to exist for itself (anthropocentric mindset) or is just something for humans to use to maximise our “happiness” (utilitarian mindset).
 
 Nature is not produced by humans and it includes us as a part of itself. When we sell the right to harm the natural environment, we are selling something sacred and awe-some that does not belong to us (eco-centric mindset). Sadly, the utilitarian view is largely in control, and activists have to resort to proving “economic value” in order to protect what remains of wild and unrepresented nature.
 
 We are not equally responsible, and those that continue on this path to make their profits are not really held accountable, but all inhabitants of planet Earth have to bear the consequences. 
-
-## Land
-
-The state wants land to be titled to facilitate its commodification while the local peasantry stands to lose from this very commodification. 
-
-## Labour
-
-At the heart of labour commodification is centuries of Western political and economic thought. First Hobbes then Locke formulated their respective liberal economic commitments with interventions on labour value, followed by Adam Smith and Edmund Burke expressing value in terms of labour commodification.
-
-_Labour is a commodity like every other, and rises or falls according to the demand … The impossibility of the subsistence of a man who carries his labour to a market is totally beside the question … The only question is, what is it worth to the buyer? ~ Burke_
-
-The outcome of this has been nothing short of nightmarish. More on that in [The Bloody Life of Labour Power Commodification and the Fugitive Movement of the Disloyal We, Adrian A. Smith](https://twailr.com/the-bloody-life-of-labour-power-commodification-and-the-fugitive-movement-of-the-disloyal-we/)
 
 ## Minerals
 
@@ -67,6 +80,14 @@ There is more than that ridge. Canada, the US, Russia, Norway and Greenland will
 
 * October 2016, Temperatures in the Arctic are rising twice as fast as the rest of the world and the sea ice is melting due to the carbon emissions in the atmosphere. This is allowing companies to search for fossil fuels in the Arctic - which is believed to hold 13 percent of the world's undiscovered oil. In July 2015, Shell began a controversial journey to the Arctic. Its mission was to drill and explore in the Chuckchi and Beaufort seas, hoping to find that untapped potential. The stakes were high for the company - and the environment. But what are the potential risks of oil drilling in the Arctic? And what would happen in the event of an Arctic spill?
 * The Arctic holds thirteen percent of the world's undiscovered oil and thirty percent of its untapped natural gas, which is trillions of dollars of potential profit. And that means issues of sovereignty, security, environment, and trade are intersecting at colossal pace. What is the potential environmental impact of resource extraction in the Arctic, and what might that mean for the people who live there?
+
+## Education
+
+Market relevance is becoming a key orientating criterion for the selection of discourses, their relation to each other, their forms and their research. Promotion of private sector is increasingly seen as the solution to the problems and failings of public education.
+
+Commodified education wants to produce education at the lowest possible cost and sell it at the highest possible price. These institutions are not primarily there to serve a human need but to make money – they are businesses out to maximise profits.
+
+_In spelling out what is wrong with the digital diploma mills of today, it is important to spell out what is meant by both “education” and “commodification,” since these terms are often used with little precision. To begin with, education must be distinguished from training (which is arguably more suitable for distance delivery) because the two are so often conflated. In essence, training involves the honing of a person’s mind so that that mind can be used for the purposes of someone other than that person. Training thus typically entails a radical divorce between knowledge and the self. Here knowledge is usually defined as a set of skills or a body of information designed to be put to use, to become operational, only in a context determined by someone other than the trained person; in this context the assertion of self is not only counterproductive, it is subversive to the enterprise. Education is the exact opposite of training in that it entails not the disassociation but the utter integration of knowledge and the self, in a word, self-knowledge. Here knowledge is defined by and, in turn, helps to define, the self. Knowledge and the knowledgeable person are basically inseparable._ ~ Digital Diploma Mills: The Automation of Higher Eduction, David F. Noble
 
 ## Water
 
@@ -100,16 +121,20 @@ In a globalizing world, references to the past as a way of identity formation ha
 
 This is no longer a story of front groups and infiltration. Activists are increasingly marginalised and becoming vulnerable to abuse. And activists' hard works are marketable without accountability. Some (if not most) movements are losing their voices for real change because members of such a “movement” are not promoting the movements message but rather participating in a fashion statement. Only a few seem to be foolhardy enough to apply the message to themselves. 
 
+## Self
+
+_The commodification of self would seem to be a misnomer. If a commodity is a product, something that can be bought and sold, then in what sense can the self be commodified? Without any claim to being exhaustive, I want to discuss two possible meanings. A first is that self-understanding is mediated by the consumption of goods and images. In this sense, self-definition depends on the appropriation of the traits of commodities. We know who we are and we judge the quality of our inner experience through identification with the things we buy. A second meaning of self-commodification involves the reorganization of our personal lives and relationships on the model of market relations. This adaptation is well illustrated by the recent practice of “personal branding,” a strategy of cultivating a name and image of ourselves that we manipulate for economic gain. Both of these meanings of self-commodification concern the terms in which we define ourselves and our well-being, and each has been facilitated by the loosening of self-definitions from specific social roles and obligations._ ~ [The Commodification of Self, Joseph E. Davis, 2003](https://hedgehogreview.com/issues/the-commodification-of-everything/articles/the-commodification-of-self)
+
 ## Atmosphere
 
 Next one up is our atmosphere and carbon trading. CO2 is the newest commodity that can be traded. I wish to note that it is part of total control and another victory for market economy and utilitarian worldviews. Commodification spreading to nature as a whole.
 
 A carbon economy, with a market for the trading of carbon permits, where states, corporations, or even individuals would be given a certain allocation of permissible carbon emissions and where permits could be sold or traded. I can see it coming:
 
-* Pollution being allowed as long as one is able to pay for it? Duh? And where does that money go, to restoring the environment?
-* Another round of rich countries taking advantage of poor, underdeveloped countries.
-* Manipulation by states and corporations.
-* Non-paying polluters being fined for actions that have an adverse effect on the environment. And where does that money go, to restoring the environment?
+* Pollution being allowed as long as one is able to pay for it? Great! And where does that money go, to restoring the environment?
+* Another round of rich countries taking advantage of poor, underdeveloped countries?
+* Manipulation by states and corporations?
+* Non-paying polluters being fined for actions that have an adverse effect on the environment. Another awesome measure. And where does that money go, to restoring the environment?
 
 Everybody happily dancing down the yellow brick road of life yet, singing commercial jingles? 
 
