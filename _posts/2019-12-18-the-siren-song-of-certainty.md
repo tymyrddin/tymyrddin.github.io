@@ -6,7 +6,6 @@ categories:
 tags:
   - Causes and effects
   - Elephants
-  - Inequality
   - Cognitive
   - Blindspot
   - Consciousness
