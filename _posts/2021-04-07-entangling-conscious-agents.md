@@ -9,6 +9,7 @@ tags:
   - Headset
   - Blindspot
   - Cognitive
+  - Consciousness
 ---
 
 Most of us believe we perceive reality as it generally is, with perhaps some slight distortions. But mathematical models based on natural selection suggest that our strongest intuitions may be false. 

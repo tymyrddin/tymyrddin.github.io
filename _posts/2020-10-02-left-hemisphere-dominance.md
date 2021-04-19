@@ -10,6 +10,7 @@ tags:
   - Virtualisation
   - Headset
   - Blindspot
+  - Consciousness
 ---
 
 Two hemispheres, with a structural asymmetry. The left hemisphere has been instrumental in all that humankind has achieved. It is a wonderful servant, and a very poor master. The right hemisphere, though it is not dependent on the left hemisphere in the same way that the left is on the right, needs the left hemisphere to achieve its full potential, to become its authentic self. The left hemisphere is dependent on the right hemisphere to ground its world and to be lead back to life, and can be in denial about that. What if we as a society approach everything as if it were a task for the left hemisphere? What if the left hemisphere becomes so dominant that it suppresses the right hemisphere's world altogether? What has happened to the world so far, and to us as humans, through viewing the world increasingly as a mechanism?

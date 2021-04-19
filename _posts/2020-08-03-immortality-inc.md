@@ -9,6 +9,7 @@ tags:
   - Headset
   - Blindspot
   - Cognitive
+  - Consciousness
 ---
 
 _Enlightenment is ego’s ultimate disappointment. ~ Chögyam Trungpa_

@@ -7,6 +7,7 @@ tags:
   - Predetermined element
   - Force
   - Cognitive
+  - Consciousness
 ---
 
 Way back when, [say 3.3 million years ago](https://www.nature.com/articles/nature14464), in what is now called the Early Stone Age of Africa, a group of young male lions is on the prowl. The group of Lomekwians studying tracks only a few kilometers away are too far to smell or see, and do not exist for the lions.

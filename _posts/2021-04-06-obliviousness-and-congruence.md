@@ -9,6 +9,7 @@ tags:
   - Obliviousness
   - Elephants
   - Resources
+  - Consciousness
 ---
 
 These are some ingredients for one of five possible example [scenario narratives]({{ site.url }}{{ site.baseurl }}/scenario-planning):
