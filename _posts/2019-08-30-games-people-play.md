@@ -11,9 +11,9 @@ tags:
   - Consciousness
 ---
 
-[![image alt ><]({{ site.url }}{{ site.baseurl }}/assets/images/games-people-play.png)](https://archive.org/details/gamespeopleplay000bern)
-
 The games in Games People Play give a deeper understanding of our own social interactions as well as our possible motives in such transactions. Great grounding and fun to roleplay.
+
+[![image alt ><]({{ site.url }}{{ site.baseurl }}/assets/images/games-people-play.png)](https://archive.org/details/gamespeopleplay000bern)
 
 Berne defined games as:
 
