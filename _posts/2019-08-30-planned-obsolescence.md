@@ -2,7 +2,7 @@
 title: "Planned obsolescence"
 modified: 2019-08-30T21:08:00+00:00
 categories:
-  - Cause-and-effect
+  - Elephants
 tags:
   - Causes and effects
   - Elephants
