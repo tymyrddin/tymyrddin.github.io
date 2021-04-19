@@ -10,7 +10,7 @@ tags:
   - Consumerism
 ---
 
-Environmental and climate change concerns have led to energy-efficient networking research. To gain some insights into whether this makes sense and what we can possibly do, I have used the method from The Energy and Emergy of the Internet by Barath Raghavan and Justin Ma. The Internet architecture makes assessing its components hard to do. The problem is compounded by new developments in the Internet architecture, mostly to do with functional off-loading, for example of mobile traffic to Wi-Fi, femtocell and Integrated Mobile Broadcast and video traffic via the development of CDN's.
+Environmental and climate change concerns have led to energy-efficient networking research. To gain some insights into whether this makes sense and what we can possibly do, I have used the method from [The Energy and Emergy of the Internet by Barath Raghavan and Justin Ma](https://www.icsi.berkeley.edu/pubs/networking/energyandemergy11.pdf). The Internet architecture makes assessing its components hard to do. The problem is compounded by new developments in the Internet architecture, mostly to do with functional off-loading, for example of mobile traffic to Wi-Fi, femtocell and Integrated Mobile Broadcast and video traffic via the development of CDN's.
 
 Raghavan and Ma's tables have been adapted for the new developments and updated with (inferred) data from Internet statistics. Though crude, this suffices for gaining insight from asking more questions in a global context. For estimates regarding worldwide energy and electricity consumption, IEA reports were used and the significant data visualised.
 
@@ -20,6 +20,7 @@ Raghavan and Ma's tables have been adapted for the new developments and updated 
   - [Running the internet](#running-the-internet)
   - [Maintening the internet](#maintening-the-internet)
   - [Energy required to maintain and run the Internet](#energy-required-to-maintain-and-run-the-internet)
+- [Further resources](#further-resources)
 
 ## How much energy and electricity is consumed worldwide in total?
 
@@ -126,4 +127,8 @@ Notes:
 ### Energy required to maintain and run the Internet
 
 The minimum total power that was required to run (wall socket power) and maintain (embody) the internet in 2017 was guesstimated to be somewhere between ~131 GW + ~167 GW = ~298 GW and ~204 GW + ~288 GW = ~492 GW.
+
+## Further resources
+
+* [Networking in the Long Emergency, Barath Raghavan and Justin Ma](https://www.icsi.berkeley.edu/pubs/networking/networkinglongemergency11.pdf)
 
