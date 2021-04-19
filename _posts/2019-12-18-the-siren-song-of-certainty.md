@@ -13,7 +13,7 @@ tags:
 ---
 Certainty blocks us from really seeing and observing, but [Uncertainty Is An Impossible Sell](http://wmbriggs.com/post/14912/). Sad, and maybe true. Sad because the siren song of certainty tempts people into wasteful spending and poorly informed decision-making and makes it tougher for honest people to compete in the marketplace of paid work and ideas.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/thinking-fast-and-slow.png)
+![Thinking fast and slow]({{ site.url }}{{ site.baseurl }}/assets/images/thinking-fast-and-slow.png)
 
 [Daniel Kahneman](https://us.macmillan.com/books/9780374533557):
 
