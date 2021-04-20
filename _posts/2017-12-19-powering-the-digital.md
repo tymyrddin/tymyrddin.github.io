@@ -12,7 +12,7 @@ tags:
 
 Environmental and climate change concerns have led to energy-efficient networking research. To gain some insights into whether this makes sense and what we can possibly do, I have used the method from [The Energy and Emergy of the Internet by Barath Raghavan and Justin Ma](https://www.icsi.berkeley.edu/pubs/networking/energyandemergy11.pdf). The Internet architecture makes assessing its components hard to do. The problem is compounded by new developments in the Internet architecture, mostly to do with functional off-loading, for example of mobile traffic to Wi-Fi, femtocell and Integrated Mobile Broadcast and video traffic via the development of CDN's.
 
-Raghavan and Ma's tables have been adapted for the new developments and updated with (inferred) data from Internet statistics. Though crude, this suffices for gaining insight from asking more questions in a global context. For estimates regarding worldwide energy and electricity consumption, IEA reports were used and the significant data visualised.
+Raghavan and Ma's tables have been adapted for the new developments and updated with (inferred) [data from Internet sites](#resources). Though crude, this suffices for gaining insight from asking more questions in a global context. For estimates regarding worldwide energy and electricity consumption, IEA reports were used and the significant data visualised.
 
 - [How much energy and electricity is consumed worldwide in total?](#how-much-energy-and-electricity-is-consumed-worldwide-in-total)
 - [How much energy is required to construct, and run and maintain the internet?](#how-much-energy-is-required-to-construct-and-run-and-maintain-the-internet)
@@ -133,5 +133,6 @@ The minimum total power that was required to run (wall socket power) and maintai
 * [Networking in the Long Emergency, Barath Raghavan and Justin Ma](https://www.icsi.berkeley.edu/pubs/networking/networkinglongemergency11.pdf)
 *  [Internet live stats](http://www.internetlivestats.com/)
 *  [Internet world stats](https://www.internetworldstats.com/stats.htm)
+*  [Cisco Annual Internet Report (2018-2023)](https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html)
 
 
