@@ -15,10 +15,10 @@ With the sophistication of the brain circuitry adapted to the human capacity for
 
 [Newspeak](https://web.archive.org/web/20130217000821/http://www.newspeakdictionary.com/ns-prin.html) is the language of Oceania, a fictional totalitarian state and the setting of the novel Nineteen Eighty-Four. Bleedingedgespeak is the language of the world now, a not-so-fictional-yet-globalised-virtual state.
 
-* The A vocabulary of Bleedingedgespeak contains everyday words and phrases.
-* The B vocabulary contains all words with political or ideological significance.
-* The C vocabulary encompasses words that relate specifically to science and to technical fields and disciplines.
-* The D vocabulary with words for aesthetic areas such as music, art, dance and literature.
+* The [A vocabulary](#a-vocabulary) of Bleedingedgespeak contains everyday words and phrases.
+* The [B vocabulary](#b-vocabulary) contains all words with political or ideological significance.
+* The [C vocabulary](#c-vocabulary) encompasses words that relate specifically to science and to technical fields and disciplines.
+* The [D vocabulary](#d-vocabulary) with words for aesthetic areas such as music, art, dance and literature.
 
 ## A vocabulary
 
