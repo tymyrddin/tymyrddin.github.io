@@ -16,9 +16,9 @@ Raghavan and Ma's tables have been adapted for the new developments and updated 
 
 - [How much energy and electricity is consumed worldwide in total?](#how-much-energy-and-electricity-is-consumed-worldwide-in-total)
 - [How much energy is required to construct, and run and maintain the internet?](#how-much-energy-is-required-to-construct-and-run-and-maintain-the-internet)
-  - [Construction](#construction)
+  - [Constructing the internet](#constructing-the-internet)
   - [Running the internet](#running-the-internet)
-  - [Maintening the internet](#maintening-the-internet)
+  - [Maintaining the internet](#maintaining-the-internet)
   - [Energy required to maintain and run the Internet](#energy-required-to-maintain-and-run-the-internet)
 - [Further resources](#further-resources)
 
@@ -55,7 +55,7 @@ Raghavan and Ma's tables have been adapted for the new developments and updated 
 
 To answer this question, a non-exhaustive list of weighted components was used and because there is no single authoritative authority, the following are informed estimates and inferred guesstimates that will be updated and improved over time as new data emerges.
 
-### Construction
+### Constructing the internet
 
 |Device |Estimated amount |Unit emergy |Total potential emergy |Weight ||Estimated Internet emergy ||
 | --- | :-- | :-- | :-- | :-- | --- |:-- | :-- | 
@@ -100,7 +100,7 @@ Notes:
 |Copper            |  6.000.000.000 km|  0|  0  |  0|  0.1  |  0.5  |  0|  0| 
 |                  |                  |       |        |   |   |    **Totals**|  131 GW|  204 GW|
 
-### Maintening the internet
+### Maintaining the internet
 
 To answer the question “How much energy is required to maintain the internet?”, data from constructing the internet is used with replacement timespan estimates. 
 
