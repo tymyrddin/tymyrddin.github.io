@@ -23,6 +23,7 @@ Raghavan and Ma's tables have been adapted for the new developments and updated 
 - [Resources](#resources)
   - [Emergy](#emergy)
   - [Internet statistics](#internet-statistics)
+  - [Mobile](#mobile)
   - [Cloud and data centers](#cloud-and-data-centers)
   - [Routers](#routers)
   - [Cables](#cables)
@@ -150,10 +151,16 @@ The minimum total power that was required to run (wall socket power) and maintai
 *  [Internet world stats](https://www.internetworldstats.com/stats.htm)
 *  [Cisco Annual Internet Report (2018-2023)](https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html)
 
+### Mobile
+
+* [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/)
+* [Ericsson Mobility Reports](https://www.ericsson.com/en/mobility-report)
+
 ### Cloud and data centers
 
 * [How dirty is your data? A Look at the Energy Choices That Power Cloud Computing (pdf), Greenpeace, 2014](https://wayback.archive-it.org/9650/20200406044849/http://p3-raw.greenpeace.org/international/Global/international/publications/climate/2011/Cool%20IT/dirty-data-report-greenpeace.pdf)
 * [Estimating total power consumption by servers in the US and the world (pdf), Jonathan G. Koomey, AMD, 2007](https://www.researchgate.net/publication/228365136_Estimating_Total_Power_Consumption_by_Servers_in_the_US_and_the_World)
+* [Datacenter knowledge](https://www.datacenterknowledge.com/)
 
 ### Routers
 
