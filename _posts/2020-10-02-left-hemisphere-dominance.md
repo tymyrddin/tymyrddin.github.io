@@ -91,7 +91,7 @@ Two hemispheres, with a structural asymmetry. The left hemisphere has been instr
 * Complete failure of common sense (way too intuitive, and relies on both hemispheres working together) and autonomy (relies on the right hemisphere).
 * Anger and aggressive behaviour increases (no more balance with empathic skills).
 * Loss of insight, coupled with an unwillingness to take responsibility, reinforcing tendencies to dangerously unwarranted optimism.
-* Rise in intolerance and inflexibility, and an unwillingness to change one's mind(set).
+* Rise in intolerance and inflexibility, and an unwillingness to change one's [mind(set)]({{ site.url }}{{ site.baseurl }}/cause-and-effect/mindsets).
 
 ### Consumerism
 
