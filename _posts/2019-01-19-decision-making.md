@@ -1,6 +1,6 @@
 ---
 title: "Decision making"
-modified: 2019-19-01T08:53:00+00:00
+modified: 2019-01-19T08:53:00+00:00
 categories:
   - Cause-and-effect
 tags:
