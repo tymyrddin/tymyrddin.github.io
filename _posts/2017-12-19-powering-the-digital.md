@@ -21,6 +21,13 @@ Raghavan and Ma's tables have been adapted for the new developments and updated 
   - [Maintaining the internet](#maintaining-the-internet)
   - [Energy required to maintain and run the Internet](#energy-required-to-maintain-and-run-the-internet)
 - [Resources](#resources)
+  - [Emergy](#emergy)
+  - [Internet statistics](#internet-statistics)
+  - [Cloud and data centers](#cloud-and-data-centers)
+  - [Routers](#routers)
+  - [Cables](#cables)
+  - [Smart city](#smart-city)
+  - [Energy](#energy)
 
 ## How much energy and electricity is consumed worldwide in total?
 
@@ -130,9 +137,40 @@ The minimum total power that was required to run (wall socket power) and maintai
 
 ## Resources
 
-* [Networking in the Long Emergency, Barath Raghavan and Justin Ma](https://www.icsi.berkeley.edu/pubs/networking/networkinglongemergency11.pdf)
+### Emergy
+
+* [On the materials basis of modern society, T. E. Graedel, E. M. Harper, N. T. Nassar, and Barbara K. Reck, 2013](https://www.pnas.org/content/112/20/6295)
+* [The Energy and Emergy of the Internet (pdf), Barath Raghavan and Justin Ma, 2011](https://www.icsi.berkeley.edu/pubs/networking/energyandemergy11.pdf)
+* [Networking in the Long Emergency, Barath Raghavan and Justin Ma, 2011](https://www.icsi.berkeley.edu/pubs/networking/networkinglongemergency11.pdf)
+* [Supporting information for – Energy intensity of computer manufacturing: hybrid assessment combining process and economic input-output methods, AACM, 2004](https://pubs.acs.org/doi/suppl/10.1021/es035152j/suppl_file/es035152jsi20040820_075507.pdf)
+
+### Internet statistics
+
 *  [Internet live stats](http://www.internetlivestats.com/)
 *  [Internet world stats](https://www.internetworldstats.com/stats.htm)
 *  [Cisco Annual Internet Report (2018-2023)](https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html)
 
+### Cloud and data centers
 
+* [How dirty is your data? A Look at the Energy Choices That Power Cloud Computing (pdf), Greenpeace, 2014](https://wayback.archive-it.org/9650/20200406044849/http://p3-raw.greenpeace.org/international/Global/international/publications/climate/2011/Cool%20IT/dirty-data-report-greenpeace.pdf)
+* [Estimating total power consumption by servers in the US and the world (pdf), Jonathan G. Koomey, AMD, 2007](https://www.researchgate.net/publication/228365136_Estimating_Total_Power_Consumption_by_Servers_in_the_US_and_the_World)
+
+### Routers
+
+* [The Energy Intensity of the Internet: Edge and Core Networks, D. Schien, V.C. Coroama, L.M. Hilty, and C. Preist, 2014](http://publicationslist.org/data/lorenz.hilty/ref-230/2014_Schien_Coroama_Hilty_Preist_Energy_Intensity_Internet_Edge_Core.pdf)
+* [Measuring the Degree Distribution of Routers in the Core Internet, Matthieu Latapy, Elie Rotenberg, Christophe Crespelle, Fabien Tarissan, 2014](https://hal.archives-ouvertes.fr/hal-01208359/document)
+
+### Cables
+
+* [Submarine Cable Map](https://www.submarinecablemap.com/)
+* [This map shows the explosive growth of underwater cables that power the global internet, Christopher Groskopf, October, 2016](https://qz.com/657898/this-map-shows-the-explosive-growth-of-underwater-cables-the-power-the-global-internet/)
+* [The internet has been quietly rewired, and video is the reason why, Joon Ian Wong, October 2016](https://qz.com/742474/how-streaming-video-changed-the-shape-of-the-internet/)
+* [FOA](https://www.thefoa.org/)
+
+### Smart city
+
+* [5G small cell forum](https://www.smallcellforum.org/)
+
+### Energy
+
+* [Current World Energy Demand, Ethical World Energy Demand, Depleted Uranium and the Centuries to Come (pdf), Nadir, 2014](https://bravenewclimate.files.wordpress.com/2014/12/nnadir_worldenergy.pdf)
