@@ -20,7 +20,7 @@ Raghavan and Ma's tables have been adapted for the new developments and updated 
   - [Running the internet](#running-the-internet)
   - [Maintaining the internet](#maintaining-the-internet)
   - [Energy required to maintain and run the Internet](#energy-required-to-maintain-and-run-the-internet)
-- [Further resources](#further-resources)
+- [Resources](#resources)
 
 ## How much energy and electricity is consumed worldwide in total?
 
@@ -128,7 +128,10 @@ Notes:
 
 The minimum total power that was required to run (wall socket power) and maintain (embody) the internet in 2017 was guesstimated to be somewhere between ~131 GW + ~167 GW = ~298 GW and ~204 GW + ~288 GW = ~492 GW.
 
-## Further resources
+## Resources
 
 * [Networking in the Long Emergency, Barath Raghavan and Justin Ma](https://www.icsi.berkeley.edu/pubs/networking/networkinglongemergency11.pdf)
+*  [Internet live stats](http://www.internetlivestats.com/)
+*  [Internet world stats](https://www.internetworldstats.com/stats.htm)
+
 
