@@ -27,10 +27,6 @@ Diagrams of effects (DOE) visualize a record that we can use to compare what we 
   * If there are two parallel lines on the arrow, it means a delayed response.
 * If the diagram contains that if A increases → B increases and if B increases → A increases, it is called a self-reinforcing system, and will continue to grow (or decline) until some system limit comes into play and ends the self-reinforcing action (and sometimes the entire system).
 
-Like so:
-
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/gut-and-head-invertedcolours.png)
-
 ### Basic choreography
 
 * Brainstorm all the measurable and observable factors in the context.

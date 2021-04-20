@@ -17,9 +17,9 @@ Information warfare may involve collection of tactical information, assurance(s)
 
 Information warfare is closely linked to psychological warfare. In the big, and often also, in the small. Therefore researching the patterns of psychological warfare is easy. One can simply observe them in oneself and in ones own circles. For example, the myth of technological sufficiency that many depending on the system seem to believe in, identifies technology as the critical factor to solve any issue. Yet more technology is not likely to end any large scale (political) warfare. 
 
-[![alt]({{ site.url }}{{ site.baseurl }}/assets/images/mapping-and-quantifying-political-information-warfare1.png)](https://labs.rs/en/mapping-and-quantifying-political-information-warfare/)
+[![alt]({{ site.url }}{{ site.baseurl }}/assets/images/mapping-and-quantifying-political-information-warfare1.png#center)](https://labs.rs/en/mapping-and-quantifying-political-information-warfare/)
 
-[![alt]({{ site.url }}{{ site.baseurl }}/assets/images/mapping-and-quantifying-political-information-warfare2.png)](https://labs.rs/en/mapping-and-quantifying-political-information-warfare-2/)
+[![alt]({{ site.url }}{{ site.baseurl }}/assets/images/mapping-and-quantifying-political-information-warfare2.png#center)](https://labs.rs/en/mapping-and-quantifying-political-information-warfare-2/)
 
 ## The new black bag is digital
 
