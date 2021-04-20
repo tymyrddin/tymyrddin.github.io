@@ -1,6 +1,6 @@
 ---
 title: "Powering the digital (2017)"
-modified: 2019-12-19T13:54:00+00:00
+modified: 2017-12-19T13:54:00+00:00
 categories:
   - Elephants
 tags:
