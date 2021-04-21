@@ -6,7 +6,6 @@ categories:
 tags:
   - Causes and effects
   - Elephants
-  - Blindspot
   - Cognitive
 ---
 Modern life is enabled by the use of materials in its technologies. Each material is used for purposes to which it is exquisitely fitted, and as a result some of us on this planet have experienced a steady increase in product performance. This materials complexity has increased in the past half-century and elemental life cycle analyses can characterize rates of recycling and loss. If materials availability constraints occur, those that depend on those products might find themselves in deep shit. 

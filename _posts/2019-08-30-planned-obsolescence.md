@@ -6,7 +6,6 @@ categories:
 tags:
   - Causes and effects
   - Elephants
-  - Blindspot
   - Consumerism
 ---
 “Planned obsolescence” is the term used to describe the development of products with a planned limited lifespan. It all started in Germany: in the 1920s, people came up with the idea of ​​making products that deliberately break down by themselves at a certain point in time and thus have to be thrown away. At that time, a global corporate cartel made a joint agreement to limit the life of light bulbs, [the Phoebus cartel](https://spectrum.ieee.org/tech-history/dawn-of-electronics/the-great-lightbulb-conspiracy). A light bulb is to break after 1000 hours of use.

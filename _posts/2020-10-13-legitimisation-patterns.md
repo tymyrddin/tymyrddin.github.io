@@ -8,7 +8,6 @@ tags:
   - Elephants
   - Inequality
   - Cognitive
-  - Blindspot
   - Law
 ---
 Legitimate power is based on a structural relationship (or rather the acceptance of economic stratification or other forms of hierarchy) between the influencing agent and the target. Implicitly, or explicitly, the agent says, “I have a right (the position) to ask you to do this and you have an obligation (the position) to comply”.

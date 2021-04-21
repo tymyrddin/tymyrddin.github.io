@@ -7,9 +7,8 @@ tags:
   - Causes and effects
   - Elephants
   - Headset
-  - Blindspot
   - Cognitive
-  - Conscioussness
+  - Consciousness
 ---
 
 The problem of mental causation is a conceptual issue in the philosophy of mind, surrounding the idea of mind as an immaterial substance. Ever since Descartes advanced the notion of a radical substance dualism where the mind and body are two fundamentally distinct things, the mind (immaterial) and the body (material), there has been an ongoing argument against the notion that an immaterial mind cannot interact with a material body. 

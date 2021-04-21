@@ -7,7 +7,6 @@ tags:
   - Causes and effects
   - Elephants
   - Headset
-  - Blindspot
   - Cognitive
   - Consciousness
 ---

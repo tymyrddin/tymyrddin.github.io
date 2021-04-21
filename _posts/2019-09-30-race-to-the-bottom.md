@@ -7,7 +7,6 @@ tags:
   - Causes and effects
   - Elephants
   - Inequality
-  - Blindspot
   - Poverty
   - Commodification
   - Law

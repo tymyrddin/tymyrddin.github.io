@@ -6,7 +6,6 @@ categories:
 tags:
   - Elephants
   - Trolls
-  - Blindspots
   - Cognitive
   - Headset
 ---

@@ -6,7 +6,6 @@ categories:
 tags:
   - Causes and effects
   - Elephants
-  - Blindspot
   - Consumerism
 ---
 A [Visualisation of Decision Architecture: "Helping" Users Make Better Decisions](https://www.uxmatters.com/mt/archives/2010/11/decision-architecture-helping-users-make-better-decisions.php) as used in marketing and sales practices in the [Century of the Self]({{ site.url }}{{ site.baseurl }}/cause-and-effect/century-of-the-self): 

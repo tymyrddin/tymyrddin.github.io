@@ -8,12 +8,12 @@ tags:
   - Scenario planning
   - Elephants
   - Cognitive
-  - Blindspot
   - Commodification
   - War
   - Law
   - Inequality
   - Poverty
+  - Bubbles
 ---
 Globalisation of [ravenous runs of commodification]({{ site.url }}{{ site.baseurl }}/cause-and-effect/ravenous-runs) seems to cause a multitude of interconnected fatal consequences: a large destruction of the natural world and erosion of established cultures, social disintegration, a breakdown of democracy, more rapid and extensive deterioration of the environment, the spread of new diseases, and increasing poverty and alienation. And our road to it was most likely quite opportunistically developed and then due to success, repeated. 
 

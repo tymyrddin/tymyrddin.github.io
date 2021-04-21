@@ -5,7 +5,6 @@ categories:
   - Elephants
 tags:
   - Elephants
-  - Blindspots
   - Cognitive
   - Headset
   - Linguistics

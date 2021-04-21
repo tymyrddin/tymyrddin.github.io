@@ -6,7 +6,6 @@ categories:
 tags:
   - Causes and effects
   - Elephants
-  - Blindspot
   - Consumerism
 ---
 Winter is coming and [Collapse OS](https://collapseos.org/) aims to soften the blow. It is a z80 kernel and a collection of programs, tools and documentation that allows you to assemble an OS. The goal of the project is to be as self-contained as possible. With a copy of this project, a capable and creative person can build and install Collapse OS without external resources (like the internet) on a machine of her design, built from scavenged parts with low-tech tools.

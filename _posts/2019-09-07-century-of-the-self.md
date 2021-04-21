@@ -8,7 +8,6 @@ tags:
   - Scenario planning
   - Elephants
   - Cognitive
-  - Blindspot
   - Commodification
   - Consumerism
 ---

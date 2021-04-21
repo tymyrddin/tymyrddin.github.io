@@ -9,7 +9,6 @@ tags:
   - Inequality
   - Commodification
   - Geopolitics
-  - Blindspot
 ---
 
 Visualisation of key findings in [Drilling into Debt (pdf)](https://www.irfannooruddin.org/uploads/3/0/9/6/30962817/drillingintodebt.pdf) of 2005, showing 4 important reinforcing feedback loops: 

@@ -8,7 +8,6 @@ tags:
   - Elephants
   - Inequality
   - Cognitive
-  - Blindspot
   - Prejudice
 ---
 

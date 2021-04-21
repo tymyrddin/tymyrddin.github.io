@@ -9,7 +9,6 @@ tags:
   - Expansion
   - Virtualisation
   - Headset
-  - Blindspot
   - Inequality
   - Prejudice
 ---

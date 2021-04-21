@@ -7,7 +7,7 @@ tags:
   - Causes and effects
   - Elephants
   - Cognitive
-  - Blindspot
+  - Headset
   - Consciousness
 ---
 Certainty blocks us from really seeing and observing, but [Uncertainty Is An Impossible Sell](http://wmbriggs.com/post/14912/). Sad, and maybe true. Sad because the siren song of certainty tempts people into wasteful spending and poorly informed decision-making and makes it tougher for honest people to compete in the marketplace of paid work and ideas.

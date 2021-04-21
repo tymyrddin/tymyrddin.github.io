@@ -6,7 +6,6 @@ categories:
 tags:
   - Causes and effects
   - Elephants
-  - Blindspot
   - Consumerism
 ---
 The space around our planet is not a desolate, empty place, it is filled with millions pieces of man-made debris from old rockets, abandoned satellites and missile shrapnel ([Satellite database](https://www.ucsusa.org/resources/satellite-database)). In the sixties and seventies both the U.S. and the Soviet Union tested a lot of anti-satellite weapons, accidents with booster stages and satellites happen, and discarded bits left over from separations, frozen clouds of water and pieces of paint all remain in orbit.
