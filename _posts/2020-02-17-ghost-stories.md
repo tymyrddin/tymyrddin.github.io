@@ -28,4 +28,4 @@ Ironically, Facebook is the biggest and worst example of how business models arr
 
 The intrusive activities and long-term business models of "data science" are Silicon Valley’s very own(ed) ghost protocol. 
 
-![Memetics]({{ site.url }}{{ site.baseurl }}/assets/images/online-memetics.png#center)
+![Memetics]({{ site.url }}{{ site.baseurl }}/assets/images/memetics.png#center)
