@@ -6,9 +6,7 @@ categories:
 tags:
   - Causes and effects
   - Scenario planning
-  - Obliviousness
   - Elephants
-  - Resources
   - Consciousness
 ---
 
