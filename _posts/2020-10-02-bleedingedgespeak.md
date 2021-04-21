@@ -10,6 +10,7 @@ tags:
   - Headset
   - Linguistics
   - Humour
+  - Roleplay
 ---
 With the sophistication of the brain circuitry adapted to the human capacity for more congruent linguistic expression, we can assist ourselves and others by making words and meanings that help make conversations easier and more comfortable. But, don't take my word for it.
 
