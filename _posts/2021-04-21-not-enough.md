@@ -13,6 +13,8 @@ tags:
 
 The [GDPR]({{ site.url }}{{ site.baseurl }}/elephants/gdpr) is not enough, and that is not only because of the tremendous struggle to implement its rules. It actually legitimises the entire information industry by making it a grey area. 
 
+It came into force May 25 at midnight 2018 and is supposed to give users a free choice, whether they agree to data usage or not. The opposite feeling spread on the screens of many users: tons of “consent boxes” popped up online or in applications, often combined with a threat that the service can no longer be used if users do not consent. On the first day of GDPR noyb.eu filed four complaints against Google (Android), Facebook, WhatsApp and Instagram over “forced consent”. 
+
 _Politics no longer seems to be able to cope with six of the greatest challenges of our time: destruction of the environment, digitalisation, the power of algorithms, systematic lies in politics, unchecked globalisation and threats to the rule of law. We all want to live in an environment that is healthy and protected. We want to use the internet in a way determined by us, without being scrutinised and manipulated, we want to be able to trust intelligent machines and not be threatened by them. We have seen that the prerequisite of our democracy is truth and not lies, and we want to end the exploitation of people in a globalised world. The old constitutions of Europe have no clear answers for the enormous upheavals of recent years._
 
 ## We Demand Six New Fundamental Rights
