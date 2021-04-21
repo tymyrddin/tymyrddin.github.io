@@ -16,7 +16,7 @@ Around 500 years ago indigenous peoples in the Americas, Oceania, Asia and Afric
 
 Not long after these genocidal patterns began, some European theologians and jurists questioned the legality and morality of the onslaught in writings intended to shape encounters with the peoples of the “New World”, but although they argued that the indigenous were the true owners of their lands, they were also children of their time and space, and their writings were filled with cultural biases, providing conceptual support for colonial patterns by their theories of “just war”. 
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/leviathan.png)
+![Leviathan]({{ site.url }}{{ site.baseurl }}/assets/images/leviathan.png)
 
 _Just war theory poses that war, while terrible (but less so with the right conduct), is not always the worst option. Important responsibilities, undesirable outcomes, or preventable atrocities may justify war._
 
