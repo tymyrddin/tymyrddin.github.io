@@ -7,8 +7,6 @@ tags:
   - Causes and effects
   - Scenario planning
   - Cartels
-  - Malware
-  - APT
 ---
 
 These are some ingredients for one of five possible example [scenario narratives]({{ site.url }}{{ site.baseurl }}/scenario-planning):

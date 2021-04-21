@@ -7,9 +7,6 @@ tags:
   - Causes and effects
   - Scenario planning
   - Surveillance
-  - Identity theft
-  - Ransomware
-  - Suppression
   - Elephants
 ---
 
