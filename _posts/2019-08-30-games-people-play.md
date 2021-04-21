@@ -9,6 +9,8 @@ tags:
   - Cognitive
   - Blindspot
   - Consciousness
+  - Humour
+  - Roleplay
 ---
 
 The games in Games People Play give a deeper understanding of our own social interactions as well as our possible motives in such transactions. Great grounding and fun to roleplay.
