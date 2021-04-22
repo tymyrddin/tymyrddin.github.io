@@ -21,7 +21,7 @@ Rather tricky these distinctions, as they are not mutually exclusive depending o
 
 Hierarchical structures tend to resemble pyramids, with the highest levels of power and authority at the very top and are known causes of loss of resilience and unequal socialisation. What problems can distributed solutions solve? And which not? In which contexts and for what do distributed solutions make sense? 
 
-## Internet problems
+## Internet frontier
 
 The internet is heterarchical in its overall design, and hierarchical in its details. Communication is distributed, but content is not. The internet suffers from canonical/authority issues due to economic and structural incentives that have made/evolved it that way.
 
