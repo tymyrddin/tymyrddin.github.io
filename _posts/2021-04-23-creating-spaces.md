@@ -6,7 +6,7 @@ categories:
 tags:
   - Causes and effects
   - Elephants
-  - Cognitive
+  - Scenario logics
   - Trends
 ---
  _“This is space. It's sometimes called the final frontier (Except that of course you can't have a final frontier, because there'd be nothing for it to be a frontier to, but as frontiers go, it's pretty penultimate . . .)”_ ~ Terry Pratchett, Moving Pictures 
