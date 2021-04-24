@@ -1,5 +1,5 @@
 ---
-title: "Restaurant"
+title: "Restaurant at end of universe"
 layout: splash
 permalink: /restaurant/
 hidden: true
