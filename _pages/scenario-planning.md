@@ -53,7 +53,7 @@ For the purpose of finding more predetermined elements easily, we can research p
 
 ## Resources
 
-For listing more driving forces for a particular organisation and context, explore for example, [systematic hacking](https://github.com/tymyrddin/orchard/tree/main/trees), hacking forensics, [adversary-centric threat modelling](https://github.com/tymyrddin/orchard/tree/main/threat-modelling), attack patterns, linguistic patterns, and research into current digital events. 
+For listing more driving forces for a particular organisation and context, explore for example, [systematic hacking](https://github.com/tymyrddin/orchard/tree/main/trees), [digital forensics](https://tymyrddin.wiki/forensics/start), [adversary-centric threat modelling](https://github.com/tymyrddin/orchard/tree/main/threat-modelling), [attack patterns](https://github.com/tymyrddin/orchard/blob/main/trees/README.md), [linguistic patterns]({{ site.url }}{{ site.baseurl }}/tags/#linguistics), and research into current [digital trends]({{ site.url }}{{ site.baseurl }}/tags/#trends). 
 
 ## Scenario logics
 
@@ -72,4 +72,4 @@ A good set of scenarios will contain two to five different narratives. More than
 
 ## Examples
 
-Examples of its uses can be found in [cause and effects]({{ site.url }}{{ site.baseurl }}/categories/#scenario-planning)
+Examples of its uses can be found in [scenario planning]({{ site.url }}{{ site.baseurl }}/categories/#scenario-planning)
