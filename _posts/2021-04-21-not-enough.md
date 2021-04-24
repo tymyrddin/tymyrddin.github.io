@@ -11,7 +11,7 @@ tags:
   - Law
 ---
 
-The [GDPR]({{ site.url }}{{ site.baseurl }}/elephants/gdpr) is not enough, and that is not only because of the tremendous struggle to implement its rules. It actually legitimises the entire information industry by making it a grey area. 
+The [GDPR]({{ site.url }}{{ site.baseurl }}/elephants/gdpr) and [ICCPR]({{ site.url }}{{ site.baseurl }}/elephants/iccpr) are not enough, and that is not only because of the tremendous struggle to implement their rules. The GDPR for example, actually [legitimises]({{ site.url }}{{ site.baseurl }}/elephants/legitimisation-patterns) the entire information industry by making it a grey area. 
 
 It came into force May 25 at midnight 2018 and is supposed to give users a free choice, whether they agree to data usage or not. The opposite feeling spread on the screens of many users: tons of “consent boxes” popped up online or in applications, often combined with a threat that the service can no longer be used if users do not consent. On the first day of GDPR noyb.eu filed four complaints against Google (Android), Facebook, WhatsApp and Instagram over “forced consent”. 
 
