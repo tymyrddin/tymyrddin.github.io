@@ -23,14 +23,14 @@ feature_row:
     excerpt: "Sentiment analysis, key phrase extraction, named entity recognition, language detection ..."
     url: "https://github.com/tymyrddin/qyrvunth"
     btn_class: "btn--primary"
-    btn_label: "Affected"
+    btn_label: "Qyrvunth"
   - image_path: /assets/images/truth.png
     alt: "Truth"
     title: "Scrape engine in ruby"
     excerpt: "There is nothing that cannot be analysed on the Internet. It's mind-blowing."
     url: "https://github.com/tymyrddin/afander"
     btn_class: "btn--primary"
-    btn_label: "Find"      
+    btn_label: "Afander"      
 ---
 
 When we feel like it we spend time in the restaurant at the end of the universe and dabble some, meet some others dabbling too. To turn the tables we must first understand exactly how it is done.
