@@ -33,6 +33,6 @@ feature_row:
     btn_label: "Find"      
 ---
 
-What we're currently out in space for (Mind you, we only spend time on it when we feel like it) 
+When we feel like it we spend time in the restaurant at the end of the universe and dabble some, meet some others dabbling too. To turn the tables we must first understand exactly how it is done.
 
 {% include feature_row %}

@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "About"
-    url: https://tymyrddin.space/
   - title: "Space"
-    url: /space/
+    url: https://tymyrddin.space/
+  - title: "Turtle"
+    url: https://tymyrddin.wiki/
+  - title: "Restaurant"
+    url: /restaurant/
   - title: "Archive"
     url: /year-archive/
   - title: "Sitemap"
