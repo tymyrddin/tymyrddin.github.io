@@ -28,7 +28,7 @@ Ofcourse there are those who want pleasurable and mutual consensual sexuality to
 
 With 'yes means yes' we imply that every person has the power to say what they want when it comes to consent. This ignores the reality that [people say 'yes' sometimes out of fear, and sometimes as a result of coercion]({{ site.url }}{{ site.baseurl }}/elephants/legitimisation-patterns/). 
 
-How about no forcing or coercion of will on another, period.
+How about no forcing of will or coercion to push will on others, period.
 
 ## General Data Protection Regulation
 
