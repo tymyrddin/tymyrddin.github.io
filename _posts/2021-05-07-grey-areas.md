@@ -10,7 +10,7 @@ tags:
   - Trends
 ---
 
-The creation of legal grey areas, per three examples, using the example of sexual consent for clarity and because that is where the concept originated and is expanding from in every day life for digital consent:
+The creation of legal grey areas, per three examples, using the example of sexual consent for clarity and because that is where the "consent" concept originated and is expanding from in every day life for digital consent:
 
 - [Sexual consent](#sexual-consent)
 - [General Data Protection Regulation](#general-data-protection-regulation)
@@ -22,9 +22,9 @@ I don't think "sexual consent" exists other than as a legal term. If I "consente
 
 If the other person "did not reasonably believe" that I consented and continued to engage in sexual behaviour despite me saying "no", he or she committed a sexual offence.
 
-This makes rape victims the key element in the issues surrounding consent and where common notions of victim-blaming often come into play: "The clothing she wore was an invitation", "She was drunk", "We live together", and "We've had sex before", etc. As far as I know, wearing clothes, having a drink, living together with someone, or having mutually consenting sex, are criminal activities.
+This makes rape victims the key element in the issues surrounding consent and where common notions of victim-blaming often come into play: "The clothing she wore was an invitation", "She was drunk", "We live together", and "We've had sex before", etc. As far as I know, wearing clothes, having a drink, living together with someone, or having mutually consenting sex, are not criminal activities.
 
-Ofcourse there are those who want pleasurable and mutual consensual sexuality to move away from the old "no means no" mindset towards the concept of "affirmative consent": "yes means yes". Affirmative consent is not just about getting permission, but about making sex based on mutual desire and enthusiasm. A wonderful ideal to strive for. But re-inventing the wheel by using "yes means yes" instead of "no means no" does not remove the grey area.
+Ofcourse there are those who want pleasurable and mutual consensual sexuality to move away from the old "no means no" mindset towards the concept of "affirmative consent": "yes means yes" because if promises more pushing of will. Affirmative consent is not just about getting permission, but about making sex based on mutual desire and enthusiasm. A wonderful ideal to strive for. But re-inventing the wheel by using "yes means yes" instead of "no means no" does not remove the grey area.
 
 With 'yes means yes' we imply that every person has the power to say what they want when it comes to consent. This ignores the reality that [people say 'yes' sometimes out of fear, and sometimes as a result of coercion]({{ site.url }}{{ site.baseurl }}/elephants/legitimisation-patterns/). 
 
