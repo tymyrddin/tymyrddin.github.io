@@ -18,7 +18,7 @@ The creation of legal grey areas, per three examples, using the example of sexua
 
 ## Sexual consent
 
-I don't think "sexual consent" exists other than as a legal term. If I "consented", which means "I voluntarily agreed to engage in a certain sexual activity". Further let's assume I had both the freedom and capacity to consent, then the question is whether I agreed to the activity by choice, not by coercion or force. A grey area.
+I don't think "sexual consent" exists other than as a legal term. If I "consent", it means "I voluntarily agree to engage in a certain sexual activity". Further let's assume I had both the freedom and capacity to consent, then the question is whether I agree to the activity by choice, not by coercion or force. A grey area.
 
 If the other person "did not reasonably believe" that I consented and continued to engage in sexual behaviour despite me saying "no", he or she committed a sexual offence.
 
