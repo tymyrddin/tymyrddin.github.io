@@ -42,7 +42,7 @@ Hours after the GDPR came into force users were confronted with consent-or-be-go
 
 And as a "side note", the legislation was purely for the private sector in order to "protect the public". What about the public institutions funded by taxes from the people that are protected under the GDPR? What impact does the GDPR have on  governing institutions? What do governments in Europe have to do because of the GDPR? 
 
-Apparently nothing: __ "under EU law, the right to privacy and the right to protection of personal data are two distinct fundamental human rights."__
+Apparently nothing: __"under EU law, the right to privacy and the right to protection of personal data are two distinct fundamental human rights."__
 
 The European Parliament distances itself from national authorities collecting and processing citizens private data by allocating all such activities to the nation alone, __The Court of Justice of the EU does not have jurisdiction over cases that involve surveillance conducted by national authorities in order to safeguard the internal security of the EU Members.__ 
 
@@ -62,8 +62,9 @@ A user’s browser, a tool to interact with the internet, is supposed to be sacr
 
 And when the FLoC data set is big enough, [deanonymisation will become easy](https://github.com/tymyrddin/orchard/tree/main/threat-modelling/DA-threat-model). For example, cohorts of users sharing the same location data, shop in the same neighbourhood, are active in the same time zone, [can be easily be grouped together](https://github.com/tymyrddin/orchard/blob/main/threat-modelling/DA-threat-model/attack-vectors/Classification-analysis.md) by demographics, and if the data is combined with other tracking mechanisms such as social media analytics or data sets purchased from [data brokers](https://github.com/tymyrddin/orchard/blob/main/threat-modelling/DA-threat-model/adversaries/Data-brokers.md), fingerprinting users based on age, class, ethnicity, political parties becomes trivial.
 
-[Google announced](https://developer.chrome.com/blog/privacy-sandbox-update-2021-jan/) that in Chrome version 89 they will forcibly enable and trial their FLoC data-collection initiative without the consent of users or webmasters.
+[Google announced](https://developer.chrome.com/blog/privacy-sandbox-update-2021-jan/) that in Chrome version 89 they will forcibly enable and trial their FLoC data-collection initiative without the consent of users or webmasters. 
 
-Our options are reduced to “You either have old tracking or new tracking”, and minimally has [users, webserver adminstrators and webmasters jump through hoops](https://github.com/tymyrddin/orchard/blob/main/mitigations/data/FLoC.md)
+Our options are reduced to “You either have old tracking or new tracking”?
+Nope, [users, webserver adminstrators and webmasters can jump through hoops](https://github.com/tymyrddin/orchard/blob/main/mitigations/data/FLoC.md), again. 
 
-How about no tracking, period.
+It is annoying, very annoying, these constant attacks on our privacy. How about no tracking, period.
