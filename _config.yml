@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : " " # site tagline that appears below site title in masthead
 name                     : "Ty Myrddin"
 description              : "An imaginary universe. where rules are bent. and the unexpected happens."
-url                      : "https://tymyrddin.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.tymyrddin.blog" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "tymyrddin/tymyrddin.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/unseen-university-library" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -102,7 +102,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:info@tymyrddin.space"
+      # url: "mailto:nina@tymyrddin.space"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://tymyrddin.space"
