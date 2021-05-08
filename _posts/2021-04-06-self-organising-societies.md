@@ -11,7 +11,7 @@ tags:
   - Roleplay
 ---
 
-These are some ingredients for one of five possible example [scenario narratives]({{ site.url }}{{ site.baseurl }}/scenario-planning) and [Yet Another Alpha Complex]({{ site.url }}{{ site.baseurl }}/scenario-planning/yaac)
+These are some ingredients for one of five possible example [scenario narratives]({{ site.url }}{{ site.baseurl }}/scenario-planning) and [Yet Another Alpha Complex](https://tymyrddin.wiki/theatre/alpha-complex).
 
 ## Plot
 
