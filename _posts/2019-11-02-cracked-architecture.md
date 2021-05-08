@@ -15,5 +15,7 @@ _To put it bluntly, metadata is hidden data that can fuck you over. Fuck you ove
 
 [![Data flow, March 7, 2015, 11 minute read]({{ site.url }}{{ site.baseurl }}/assets/images/data-flow.png#center)](https://labs.rs/en/invisible-infrastructures-data-flow/)
 
-* Censorship can be carried out by the government as well as private groups and corporations. [And we can try to circumvent censorship](https://github.com/tymyrddin/orchard/blob/main/mitigations/data/Circumventing-censorship.md).
-* Likewise surveillance is carried out by just about everybody, and we can [avoid surveillance as best as we can](https://github.com/tymyrddin/orchard/blob/main/mitigations/data/Avoiding-surveillance.md).
+Surveillance and censorship go hand in hand, what else would surveillance be for other than to keep subjects obedient.
+
+* Surveillance is carried out by just about everybody, parents, teachers, neighbours, organised private groups, corporations and governments, and we are not helpless, we can [avoid surveillance as best as we can](https://github.com/tymyrddin/orchard/blob/main/mitigations/data/Avoiding-surveillance.md).
+* Likewise, censorship can be carried out by everybody as well. [And we can try to circumvent censorship](https://github.com/tymyrddin/orchard/blob/main/mitigations/data/Circumventing-censorship.md) as long as we also protect ourselves from prying eyes on what we are doing.
