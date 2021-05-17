@@ -34,7 +34,7 @@ How about no forcing of will or coercion to push will on others, period.
 
 Digital consent follows similar patterns.
 
-The GDPR (General Data Protection Regulation) is, in summary, a series of protocols that creates rules for businesses that do business in Europe on how to process and maintain data collected from European residents. At first glance, the GDPR champions the rights of and consent of everyday internet users and targets a supposed grey-area black hat tactics that have exploited unsuspecting people browsing the internet.
+The [GDPR (General Data Protection Regulation)]({{ site.url }}{{ site.baseurl }}/elephants/gdpr) is, in summary, a series of protocols that creates rules for businesses that do business in Europe on how to process and maintain data collected from European residents. At first glance, the GDPR champions the rights of and consent of everyday internet users and targets a supposed grey-area black hat tactics that have exploited unsuspecting people browsing the internet.
 
 But it wasn't a grey area, it was a black area, and by regulating the collection of data it actually legitimises the processing and maintenance of data from European residents and creates a grey area in which users can give consent or opt-in or opt-out, and have to apply to have their data removed and/or to be forgotten. 
 
