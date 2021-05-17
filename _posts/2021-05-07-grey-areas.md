@@ -65,6 +65,6 @@ And when the FLoC data set is big enough, [deanonymisation will become easy](htt
 [Google announced](https://developer.chrome.com/blog/privacy-sandbox-update-2021-jan/) that in Chrome version 89 they will forcibly enable and trial their FLoC data-collection initiative without the consent of users or webmasters. 
 
 Our options are reduced to “You either have old tracking or new tracking”?
-Not entirely, because [users]((https://github.com/tymyrddin/orchard/blob/main/mitigations/data/browsing/FLoC.md)) and [webserver adminstrators and webmasters](https://github.com/tymyrddin/orchard/blob/main/mitigations/data/webapplication/FLoC.md) can jump through hoops, again. 
+Not entirely, because [users](https://github.com/tymyrddin/orchard/blob/main/mitigations/data/browsing/FLoC.md) and [webserver adminstrators and webmasters](https://github.com/tymyrddin/orchard/blob/main/mitigations/data/webapplication/FloCed-sites.md) can jump through hoops, again. 
 
 It is annoying, very annoying, these constant attacks on our privacy. How about no tracking, period.
