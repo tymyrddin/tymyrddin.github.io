@@ -7,7 +7,6 @@ tags:
   - Causes and effects
   - Scenario planning
   - Governments
-  - Interventions
   - Geopolitics
 ---
 

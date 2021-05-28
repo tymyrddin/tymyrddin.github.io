@@ -6,7 +6,6 @@ categories:
 tags:
   - Causes and effects
   - Scenario planning
-  - Social media
   - Bubbles
   - Roleplay
 ---

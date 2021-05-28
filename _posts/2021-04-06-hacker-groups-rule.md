@@ -6,7 +6,6 @@ categories:
 tags:
   - Causes and effects
   - Scenario planning
-  - Cartels
 ---
 
 These are some ingredients for one of five possible example [scenario narratives]({{ site.url }}{{ site.baseurl }}/scenario-planning):

@@ -4,9 +4,7 @@ modified: 2021-05-07T00:14:00+00:00
 categories:
   - Elephants
 tags:
-  - Consent
   - Elephants
-  - Privacy
   - Trends
 ---
 

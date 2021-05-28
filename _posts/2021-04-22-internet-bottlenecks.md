@@ -9,7 +9,6 @@ tags:
   - Security
   - Internet
   - Trends
-  - Bottlenecks
 ---
 There is an accelerating growth of connection requests from mobile devices and IoT devices. What to expect if this continues?
 

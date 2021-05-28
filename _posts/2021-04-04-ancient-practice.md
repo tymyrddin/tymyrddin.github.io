@@ -5,7 +5,6 @@ categories:
   - Scenario-planning
 tags:
   - Predetermined element
-  - Force
   - Cognitive
   - Consciousness
 ---
