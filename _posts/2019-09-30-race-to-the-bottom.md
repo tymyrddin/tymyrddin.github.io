@@ -34,7 +34,8 @@ The Troubled Asset Relief Program (TARP) is a 2008 program of the US, the latest
 ## Mechanisms
 
 The mechanisms used are Quantitative easing, High frequency trading, Credit rating, Bail-outs and Bail-ins … Bail-ins happen for example when a bank confiscates private property in its own possession, to indemnify itself for losses it has suffered. It is a totally lawless theft of assets, as there is no principle of law (of any kind) which could authorise such a seizure of private property. As with much of this financial-crime jargon, it is simply another gibberish euphemism, like “quantitative easing” or “derivatives”. Continuing listing the mechanisms … Wash trade, Free market (that isn't really free), and High speed trading.
-Governments
+
+## Governments
 
 That part of it is a competitive race to the bottom that seems to go something like this:
 
