@@ -12,7 +12,7 @@ Note that these have to do with physiological and anatomical differences, are ge
 
 ## Corpus callosum
 
-The corpus callosum and its relation to sexe has been a subject of debate in the scientific and lay communities for over a century and is chock-full with [motivated reasoning]({{ site.url }}{{ site.baseurl }}/cause-and-effect/mindsets/#motivated-reasoning).
+The corpus callosum and its relation to sexe has been a subject of debate in the scientific and lay communities for over a century and is chock-full with [motivated reasoning](https://tymyrddin.wiki/theatre/mindsets#motivated_reasoning).
 
 * R. B. Bean suggested in 1906 that “exceptional size of the corpus callosum may mean exceptional intellectual activity” and that there were measurable differences between men and women. He went on to claim differences in the size of the callosum across different races. His research was refuted by F. Mall, the director of the same laboratory.
 * Holloway and Utamsing suggested sexe related difference in human brain morphology in 1982, relating to differences in cognitive ability. Based on that, Time published an article in 1992 suggesting that, because the corpus is “often wider in the brains of women than in those of men, it may allow for greater cross-talk between the hemispheres — possibly the basis for women’s intuition".
