@@ -66,3 +66,5 @@ Our options are reduced to “You either have old tracking or new tracking”?
 Not entirely, because [users](https://github.com/tymyrddin/orchard/blob/main/mitigations/data/browsing/FLoC.md) and [webserver adminstrators and webmasters](https://github.com/tymyrddin/orchard/blob/main/mitigations/data/webapplication/FloCed-sites.md) can jump through hoops, again. 
 
 It is annoying, very annoying, these constant attacks on our privacy. How about no tracking, period.
+
+And as a "side note": Wouldn't it be good if algorithms that keep users engaged for maximising revenues by recommending (political, sensasionalist, hateful, false) content, simply did not exist? 
