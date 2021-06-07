@@ -15,7 +15,7 @@ More seriously (and I promise no vampire jokes) ...
 
 - [Stakeholder analysis](#stakeholder-analysis)
 - [Stakeholder synthesis](#stakeholder-synthesis)
-- [Making such changes happen](#making-such-changes-happen)
+- [Making magic](#making-magic)
 - [Common problems](#common-problems)
   - [Lack of congruence](#lack-of-congruence)
   - [Stakeholder legitimacy](#stakeholder-legitimacy)
@@ -34,7 +34,7 @@ In multi-fiduciary type of stakeholder theories all stakeholders are considered 
 
 First line contractors must receive fair compensations for their work and the risks they take, and subcontractors must also be able to run their own businesses and cooperatives, the concerns of the government must be met, and the (social) media must receive transparency from the organisation as far as is reasonable. Often forgotten are local communities and environment as stakeholders.
 
-## Making such changes happen
+## Making magic
 
 Stakeholders in a market will expect some form of compensation for their contribution within the organisation for such a change program, for example they will expect better working conditions and/or more diversity within the organisation, a better income, or having more choices and/or being more involved in decision making. Expectations can vary between individuals and cooperatives (and individuals within cooperatives). Where changes may affect people within the organisation and the possibility of "underpay" is perceived, the result can cause sufficient discomfort. This can be enough for people to switch allegiances or alter their expectations for making the magic happen.
 
