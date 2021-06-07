@@ -26,11 +26,9 @@ More seriously (and I promise no vampire jokes) ...
 
 Stakeholder analysis is about the identification of who is impacted by which decisions. Even if one thinks all "stakeholders" are properly identified (impossible), the analysis is most likely academic, and can hide the fact that there may be no real interest in the stakeholders or the impact on them of decisions made.
 
-## Stakeholder synthesis
-
-Stakeholder’s synthesis supposedly takes the interests of "all stakeholders" into account.
-
 In strategic models, stakeholders who hold the highest degree of influence in the organisation are identified and inducted into decision-making processes. These stakeholders are acknowledged to the extent that they affect shareholders (for example governmental markets), but the interests of the stakeholders themselves remain secondary. Decisions are made to serve shareholder interests before anyone else’s, a strongly biased process.
+
+## Stakeholder synthesis
 
 In multi-fiduciary type of stakeholder theories all stakeholders are considered to be fiduciaries in the organisation. A government may invest money in a market, and its contractors invest time and energy. A problem may occur when some people seem to have reservations about treating those who do not invest money in the organisation in the same manner as those who do.
 
