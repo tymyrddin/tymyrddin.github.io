@@ -32,7 +32,7 @@ In strategic models, stakeholders who hold the highest degree of influence in th
 
 In multi-fiduciary type of stakeholder theories all stakeholders are considered to be fiduciaries in the organisation. A government may invest money in a market, and its contractors invest time and energy. A problem may occur when some people seem to have reservations about treating those who do not invest money in the organisation in the same manner as those who do.
 
-First line contractors must receive fair compensations for their work and the risks they take, and subcontractors must also be able to run their own businesses and cooperatives, the concerns of the government must be met, and the (social) media must receive transparency from the organisation as far as is reasonable.
+First line contractors must receive fair compensations for their work and the risks they take, and subcontractors must also be able to run their own businesses and cooperatives, the concerns of the government must be met, and the (social) media must receive transparency from the organisation as far as is reasonable. Often forgotten are local communities and environment as stakeholders.
 
 ## Making such changes happen
 
