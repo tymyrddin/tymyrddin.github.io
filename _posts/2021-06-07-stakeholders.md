@@ -43,7 +43,7 @@ Stakeholders in a market will expect some form of compensation for their contrib
 And even if that doesn't happen there are still some common problems that can occur.
 
 ### Lack of congruence
-A lack of congruence can create its own set of stakeholder problems. If some people are focused on getting as many people as possible to use the market’s possibilities, while first line contractors have a mission to focus on the quality of service and one-on-one relationships, the first will want to do more promotion to get a wider variety of clients and/or subcontractors (for reducing dependency risks), while the latter will want to stay focused on outreach to get the right types of projects from the market.
+A lack of congruence can create its own set of stakeholder problems. If some people are focused on getting as many people as possible to use the market’s possibilities, while first line contractors have a mission to focus on the quality of service and one-on-one relationships, the first will want to do more promotion to get a wider variety of clients and/or subcontractors (for reducing dependency risks), while the latter will want to stay focused on outreach to get the right types of projects from the existing market.
 
 ### Stakeholder legitimacy
 When a specific stakeholder's activities are not in line with an organisation’s values and norms, there can be a stakeholder legitimacy problem. This type of problem often occurs during a single isolated event that does not align with the organisation's mission.
