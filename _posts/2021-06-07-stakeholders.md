@@ -9,9 +9,9 @@ tags:
   - Congruence
 ---
 
-Stakeholders are those without whom an organisation would not exist, and all of the stakeholders have to find their seat at the table. Just keep your eye on developing meaningful relationships to discover expectations, needs, wants and desires. Then work backwards from there while solving problems when they occur. Sounds simple doesn't it? It isn't.
+Stakeholders are those without whom an organisation would not exist, and all of the stakeholders have to find their seat at the table. Just keep your eye on developing meaningful relationships to discover expectations, needs, wants and desires. Then work backwards from there while solving problems when they occur. Sounds simple doesn't it? It isn't. The models are flawed, and so are people (with respect to your models). 
 
-The models are flawed, and so are people (with respect to your models). More seriously (and I promise no vampire jokes) ...
+More seriously (and I promise no vampire jokes) ...
 
 - [Stakeholder analysis](#stakeholder-analysis)
 - [Stakeholder synthesis](#stakeholder-synthesis)
@@ -20,7 +20,7 @@ The models are flawed, and so are people (with respect to your models). More ser
   - [Lack of congruence](#lack-of-congruence)
   - [Stakeholder legitimacy](#stakeholder-legitimacy)
   - [Organisational legitimacy](#organisational-legitimacy)
-  - [Generational differences](#generational-differences)
+  - [Differences](#differences)
 
 ## Stakeholder analysis
 
@@ -53,8 +53,10 @@ When a specific stakeholder's activities are not in line with an organisation’
 ### Organisational legitimacy
 In an organisational legitimacy problem, the organisation as a whole violates the norms and values of its external stakeholders. This can impact the market and the reputation of the organisation, as well as all the other people supported by it.
 
-### Generational differences
-The generational gap and differing expectations and motivations can create problems. Previous generations saw commitment to an organisation as a long-term relationship, and took part in additional activities out of a sense of duty. Younger generations may wish to get involved in short-term commitments and could be much more motivated by what they can gain from the experience. Each stakeholder’s approach and commitment will be different and this can cause some conflicts.
+### Differences
+The generational gap and differing expectations and motivations can create problems. Older generations may have seen commitment to an organisation as a long-term relationship, and taking part in additional activities out of a sense of duty. Younger generations may wish to get involved in short-term commitments and could be much more motivated by what they can gain from that experience. 
+
+And not just generational differences may play a role. In a world that is changing rapidly, people may even have to reinvent themselves and their skills multiple times in a life time. Each stakeholder’s approach and commitment will be different and this is another potential source of conflicts.
 
 [More to follow]
 
