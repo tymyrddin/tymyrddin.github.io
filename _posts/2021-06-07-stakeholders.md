@@ -2,7 +2,7 @@
 title: "Stakeholder problems"
 modified: 2021-06-07T11:01:00+00:00
 categories:
-  - Elephants
+  - Scenario-planning
 tags:
   - Cognitive
   - Consciousness
