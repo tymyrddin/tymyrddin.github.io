@@ -52,7 +52,7 @@ When a specific stakeholder's activities are not in line with an organisation’
 In an organisational legitimacy problem, the organisation as a whole violates the norms and values of its external stakeholders. This can impact the market and the reputation of the organisation, as well as all the other people supported by it.
 
 ### Differences
-The generational gap and differing expectations and motivations can create problems. Older generations may have seen commitment to an organisation as a long-term relationship, and taking part in additional activities out of a sense of duty. Younger generations may wish to get involved in short-term commitments and could be much more motivated by what they can gain from that experience. 
+The generational gap and differing expectations and motivations can create problems. Older generations may have seen commitment to an organisation as a long-term relationship, and take part in additional activities out of a sense of duty to the whole. Younger generations may wish to get involved in short-term commitments and could be much more motivated by what they can gain from that experience. 
 
 And not just generational differences may play a role. In a world that is changing rapidly, people may even have to reinvent themselves and their skills multiple times in a life time. Each stakeholder’s approach and commitment will be different and this is another potential source of conflicts.
 
