@@ -16,7 +16,6 @@ More seriously (and I promise no vampire jokes) ...
 - [Stakeholder analysis](#stakeholder-analysis)
 - [Stakeholder synthesis](#stakeholder-synthesis)
 - [Making magic](#making-magic)
-- [Common problems](#common-problems)
   - [Lack of congruence](#lack-of-congruence)
   - [Stakeholder legitimacy](#stakeholder-legitimacy)
   - [Organisational legitimacy](#organisational-legitimacy)
@@ -41,9 +40,7 @@ Often forgotten are external stakeholders such as users, local communities and e
 
 Stakeholders in a market will expect some form of compensation for their contribution within the organisation for such a change program, for example they will expect better working conditions and/or more diversity within the organisation, a better income, or having more choices and/or being more involved in decision making. Expectations can vary between individuals and cooperatives (and individuals within cooperatives). Where changes may affect people within the organisation and the possibility of "underpay" is perceived, the result can cause sufficient discomfort. This can be enough for people to switch allegiances or alter their expectations for making the magic happen.
 
-## Common problems
-
-And even if that doesn't happen there are still some common problems that can occur.
+There are some common problems that can occur.
 
 ### Lack of congruence
 A lack of congruence can create its own set of stakeholder problems. If some people are focused on getting as many people as possible to use the market’s possibilities, while first line contractors have a mission to focus on the quality of service and one-on-one relationships, the first will want to do more promotion to get a wider variety of clients and/or subcontractors (for reducing dependency risks), while the latter will want to stay focused on outreach to get the right types of projects from the existing market.
