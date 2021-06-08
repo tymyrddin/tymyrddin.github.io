@@ -34,7 +34,7 @@ In multi-fiduciary type of stakeholder theories all stakeholders are considered 
 
 First line contractors must receive fair compensations for their work and the risks they take, and subcontractors must also be able to run their own businesses and cooperatives, the concerns of the government must be met, and the (social) media must receive transparency from the organisation as far as is reasonable. 
 
-Often forgotten are external stakeholders such as users, local communities and environment as stakeholders.
+Often forgotten are external stakeholders such as users, local communities and environment.
 
 ## Making magic
 
