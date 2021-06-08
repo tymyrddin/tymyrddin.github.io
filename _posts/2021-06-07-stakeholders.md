@@ -61,7 +61,7 @@ Each stakeholder’s approach and commitment will be different and this is anoth
 
 ## On stakeholder modelling
 
-The stakeholder model is more than 30 years old, and broadly accepted as a tool to explore the interests of an organisation's constituency and can be helpful for detecting
+Stakeholder modelling is a tool to explore the interests of an organisation's constituency and can be helpful for detecting
 
 * Unclear concepts of stakeholders
 * Potential failures in properly identifying legitimate stakeholders
