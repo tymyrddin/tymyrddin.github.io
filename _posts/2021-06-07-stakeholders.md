@@ -21,6 +21,7 @@ More seriously (and I promise no vampire jokes) ...
   - [Stakeholder legitimacy](#stakeholder-legitimacy)
   - [Organisational legitimacy](#organisational-legitimacy)
   - [Differences](#differences)
+- [On stakeholder modelling](#on-stakeholder-modelling)
 
 ## Stakeholder analysis
 
@@ -58,4 +59,14 @@ And not just generational differences may play a role. In a world that is changi
 
 Each stakeholder’s approach and commitment will be different and this is another potential source of conflicts.
 
-[More to follow]
+## On stakeholder modelling
+
+The stakeholder model is more than 30 years old, and broadly accepted as a tool to explore the interests of an organisation's constituency and can be helpful for detecting
+
+* Unclear concepts of stakeholders
+* Potential failures in properly identifying legitimate stakeholders
+* A lack of principles that stakeholders can use to align their interests.
+* ...
+
+And it is only that, a model.
+
