@@ -9,13 +9,23 @@ main:
 
 # side
 side:
-  - title: Categories
+  - title: Congruence
     children: 
     - title: "Scenario planning"
       image: /assets/images/night-watch.png
       image_alt: "Night watch"
       text: "Exercises looking up to 20 years out for flexible strategic planning."
       url: /scenario-planning/
+    - title: "Causes and effects"
+      image: /assets/images/regiment.png
+      image_alt: "Regiment"
+      text: "Most changes do not affect reality on a deeper level other than to cement the status quo."
+      url: /cause-and-effect/
+    - title: "The nth elephant"
+      image: /assets/images/fifth-elephant.png
+      image_alt: "Fifth Elephant"
+      text: "The next elephant(s) in the room that (nearly) nobody wants to know about."
+      url: /elephants/
 
   - title: Sites
     children:
@@ -23,3 +33,5 @@ side:
         url: https://tymyrddin.space/
       - title: "A'Tuin"
         url: https://tymyrddin.wiki/
+      - title: "Recipes"
+        url: https://nowaste.recipes/
