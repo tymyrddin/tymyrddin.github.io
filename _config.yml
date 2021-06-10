@@ -266,9 +266,6 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: "side"
 
-sidebar:
-  - title: "Scenario planning"
-    image: /assets/images/night-watch.png
-    image_alt: "Night watch"
-    text: "Exercises looking up to 20 years out for flexible strategic planning."

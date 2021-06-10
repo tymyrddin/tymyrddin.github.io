@@ -10,3 +10,11 @@ main:
     url: /year-archive/
   - title: "Sitemap"
     url: /sitemap/
+
+  # side
+  - title: Categories
+  - children: 
+    - title: "Scenario planning"
+      image: /assets/images/night-watch.png
+      image_alt: "Night watch"
+      text: "Exercises looking up to 20 years out for flexible strategic planning."
