@@ -3,6 +3,7 @@ title: "Causes and effects"
 layout: splash
 permalink: /cause-and-effect/
 hidden: true
+author_profile: true
 date: 2021-04-04T22:39:00+00:00
 header:
   overlay_color: "#000"
