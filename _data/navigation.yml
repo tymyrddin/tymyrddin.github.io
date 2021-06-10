@@ -1,9 +1,5 @@
 # main links
 main:
-  - title: "Space"
-    url: https://tymyrddin.space/
-  - title: "A'tuin"
-    url: https://tymyrddin.wiki/
   - title: "Restaurant at end of universe"
     url: /restaurant/
   - title: "Archive"
@@ -11,10 +7,27 @@ main:
   - title: "Sitemap"
     url: /sitemap/
 
-  # side
+# side
+side:
   - title: Categories
-  - children: 
+    children: 
     - title: "Scenario planning"
       image: /assets/images/night-watch.png
       image_alt: "Night watch"
       text: "Exercises looking up to 20 years out for flexible strategic planning."
+      url: /scenario-planning/
+
+  - title: Sites
+    children:
+      - title: "Space"
+        url: https://tymyrddin.space/
+      - title: "A'tuin"
+        url: https://tymyrddin.wiki/
+      - title: "Navigation"
+        url: /docs/navigation/
+      - title: "UI Text"
+        url: /docs/ui-text/
+      - title: "Authors"
+        url: /docs/authors/
+      - title: "Layouts"
+        url: /docs/layouts/
