@@ -96,19 +96,24 @@ analytics:
 author:
   name             : "Ty Myrddin"
   avatar           : "/assets/images/avatar2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Every seed contains an entire orchard"
+  bio              : "Restaurant at end of universe"
   location         : "France and New Zealand"
-  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:nina@tymyrddin.space"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "Space"
+      icon: "fas fa-fw fa-external-link"
       # url: "https://tymyrddin.space"
+    - label: "A'Tuin"
+      icon: "fas fa-fw fa-external-link"
+      # url: "https://tymyrddin.wiki"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/tymyrddin"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url: "https://gitlab.com/ninabarzh"
 
 # Site Footer
 footer:
