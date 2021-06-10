@@ -1,6 +1,6 @@
 ---
 title: "Obliviousness"
-layout: posts
+layout: splash
 permalink: /
 hidden: true
 header:

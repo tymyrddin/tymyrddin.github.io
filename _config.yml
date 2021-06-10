@@ -99,21 +99,21 @@ author:
   bio              : "Restaurant at end of universe"
   location         : "France and New Zealand"
   links:
-    - label: "Email"
+    - label: "Contact"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:nina@tymyrddin.space"
+      url: "https://tymyrddin.space/#contact"
     - label: "Space"
       icon: "fas fa-fw fa-external-link"
-      # url: "https://tymyrddin.space"
+      url: "https://tymyrddin.space"
     - label: "A'Tuin"
       icon: "fas fa-fw fa-external-link"
-      # url: "https://tymyrddin.wiki"
+      url: "https://tymyrddin.wiki"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/tymyrddin"
+      url: "https://github.com/tymyrddin"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url: "https://gitlab.com/ninabarzh"
+      url: "https://gitlab.com/ninabarzh"
 
 # Site Footer
 footer:
