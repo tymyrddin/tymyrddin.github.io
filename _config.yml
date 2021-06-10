@@ -251,6 +251,10 @@ compress_html:
 # Defaults
 defaults:
   # _posts
+  - header:
+    overlay_color: "#000"
+    overlay_filter: "0.5"
+    overlay_image: /assets/images/banner.png
   - scope:
       path: ""
       type: posts
