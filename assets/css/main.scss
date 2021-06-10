@@ -17,7 +17,3 @@ img[src*='#center'] {
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-.sidebar {
-    background-color: #b9e0d6;
-}
