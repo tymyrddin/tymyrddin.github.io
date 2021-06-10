@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Restaurant at end of universe"
-    url: /restaurant/
   - title: "Archive"
     url: /year-archive/
   - title: "Sitemap"
@@ -17,7 +15,7 @@ side:
       url: /cause-and-effect/
     - title: "The nth elephant"
       url: /elephants/
-      
+
   - title: Sites
     children:
       - title: "Space"
