@@ -9,9 +9,9 @@ tags:
   - Congruence
 ---
 
-Stakeholders are those without whom an organisation would not exist, and all of the stakeholders have to find their seat at the table. Just keep your eye on developing meaningful relationships to discover expectations, needs, wants and desires. Then work backwards from there while solving problems when they occur. Sounds simple doesn't it? It isn't. The models are flawed, and so are people (with respect to your models). 
+Stakeholders are those without whom an organisation would not exist, and all of the stakeholders have to find their seat at the table. Just keep your eye on developing meaningful relationships to discover expectations, needs, wants and desires. Then work backwards from there while solving problems when they occur. Sounds simple doesn't it? 
 
-More seriously (and I promise no vampire jokes) ...
+It isn't. The models are flawed, and so are people (with respect to your models). More seriously (and I promise no vampire jokes) ...
 
 - [Stakeholder analysis](#stakeholder-analysis)
 - [Stakeholder synthesis](#stakeholder-synthesis)
