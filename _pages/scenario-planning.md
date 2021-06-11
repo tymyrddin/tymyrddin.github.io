@@ -1,6 +1,6 @@
 ---
 title: "Scenario planning"
-layout: splash
+layout: single
 permalink: /scenario-planning/
 hidden: true
 author_profile: true

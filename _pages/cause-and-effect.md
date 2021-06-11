@@ -1,6 +1,6 @@
 ---
 title: "Causes and effects"
-layout: splash
+layout: single
 permalink: /cause-and-effect/
 hidden: true
 author_profile: true

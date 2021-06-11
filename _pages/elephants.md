@@ -1,6 +1,6 @@
 ---
 title: "Nth elephant"
-layout: splash
+layout: single
 permalink: /elephants/
 hidden: true
 author_profile: true
