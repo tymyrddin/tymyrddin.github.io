@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "About"
-    url: https://tymyrddin.space/
+  - title: "Home"
+    url: /
   - title: "Restaurant at end of Universe"
     url: /restaurant/
   - title: "Archive"
