@@ -5,6 +5,7 @@ permalink: /elephants/
 hidden: true
 author_profile: true
 date: 2021-04-05T21:46:00+00:00
+classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
