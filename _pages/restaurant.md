@@ -9,6 +9,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner.png
+excerpt: "When we feel like it we spend time in the restaurant at the end of the universe and dabble some, meet some others dabbling too. To turn the tables we must first understand exactly how it is done."
 toc: true
 feature_row:
   - image_path: /assets/images/pyramids.png
@@ -33,7 +34,5 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Afander"      
 ---
-
-When we feel like it we spend time in the restaurant at the end of the universe and dabble some, meet some others dabbling too. To turn the tables we must first understand exactly how it is done.
 
 {% include feature_row %}
