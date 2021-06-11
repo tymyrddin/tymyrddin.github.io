@@ -2,8 +2,12 @@
 permalink: /terms/
 title: "Terms and Privacy Policy"
 last_modified_at: 2021-04-04T22:00:00+00:00
-toc: true
+author_profile: true
 classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/banner.png
 ---
 
 ## Privacy Policy
