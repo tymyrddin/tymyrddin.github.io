@@ -2,18 +2,10 @@
 main:
   - title: "About"
     url: https://tymyrddin.space/
+  - title: "Restaurant at end of Universe"
+    url: /restaurant/
   - title: "Archive"
     url: /year-archive/
   - title: "Sitemap"
     url: /sitemap/
 
-# sidebar
-side:
-  - title: Sites
-    children:
-      - title: "Space"
-        url: https://tymyrddin.space/
-      - title: "A'Tuin"
-        url: https://tymyrddin.wiki/
-      - title: "Cooking"
-        url: https://nowaste.recipes/

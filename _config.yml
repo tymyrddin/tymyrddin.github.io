@@ -102,6 +102,15 @@ author:
     - label: "Contact"
       icon: "fas fa-fw fa-envelope-square"
       url: "https://tymyrddin.space/#contact"
+    - label: "Space"
+      icon: "fas fa-fw fa-link"
+      url: https://tymyrddin.space/
+    - label: "A'Tuin"
+      icon: "fas fa-fw fa-link"
+      url: https://tymyrddin.wiki/
+    - label: "Cooking"
+      icon: "fas fa-fw fa-link"
+      url: https://nowaste.recipes/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tymyrddin"
@@ -256,8 +265,6 @@ defaults:
       comments: # true
       share: true
       related: true
-      sidebar:
-        nav: "side"
       header:
         overlay_color: "#000"
         overlay_filter: "0.5"
