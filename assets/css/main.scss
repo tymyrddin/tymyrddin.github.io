@@ -17,3 +17,7 @@ img[src*='#center'] {
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.archive__subtitle {
+    font-size: 1.563em;
+}
