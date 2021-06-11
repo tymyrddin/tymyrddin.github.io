@@ -9,6 +9,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner.png
+excerpt: "Systems thinking revolves around understanding correlations, causes and effects and is more than just a handy collection of tools and methods to explore complex systems with – it is also an underlying philosophy, an awareness ..."
 ---
 
 ![Regiment]({{ site.url }}{{ site.baseurl }}/assets/images/regiment.png#center)

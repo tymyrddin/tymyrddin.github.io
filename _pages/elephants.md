@@ -9,6 +9,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner.png
+excerpt: "We have a tendency to believe that we see reality and that what we think is true,  and we have difficulty seeing the self-created paradigms through which we view our world. As a result ..."
 ---
 
 ![Fifth-Elephant]({{ site.url }}{{ site.baseurl }}/assets/images/fifth-elephant.png#center)
