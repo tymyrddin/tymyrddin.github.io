@@ -18,6 +18,6 @@ First and foremost, I will never share your email address or any other personal 
 
 ### Log Files
 
-This site does not use log files to help learn about when, from where, and how often traffic flows to this site. But, it is hosted as github pages, therefore also read the[GitHub Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement)
+This site does not use log files to help learn about when, from where, and how often traffic flows to this site. But, it is hosted as github pages, therefore also read the [GitHub Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement)
 
 Afaik, none of the information gathered is linked to anything that is personally identifiable.
