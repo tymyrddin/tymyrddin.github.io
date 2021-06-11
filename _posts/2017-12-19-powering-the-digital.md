@@ -9,7 +9,9 @@ tags:
   - Consumerism
 ---
 
-Environmental and climate change concerns have led to energy-efficient networking research. To gain some insights into whether this makes sense and what we can possibly do, I have used the method from [The Energy and Emergy of the Internet by Barath Raghavan and Justin Ma](https://www.icsi.berkeley.edu/pubs/networking/energyandemergy11.pdf). The Internet architecture makes assessing its components hard to do. The problem is compounded by new developments in the Internet architecture, mostly to do with functional off-loading, for example of mobile traffic to Wi-Fi, femtocell and Integrated Mobile Broadcast and video traffic via the development of CDN's.
+Environmental and climate change concerns have led to energy-efficient networking research. To gain some insights into whether this makes sense and what we can possibly do, I have used the method from [The Energy and Emergy of the Internet by Barath Raghavan and Justin Ma](https://www.icsi.berkeley.edu/pubs/networking/energyandemergy11.pdf). 
+
+The Internet architecture makes assessing its components hard to do. The problem is compounded by new developments in the Internet architecture, mostly to do with functional off-loading, for example of mobile traffic to Wi-Fi, femtocell and Integrated Mobile Broadcast and video traffic via the development of CDN's.
 
 Raghavan and Ma's tables have been adapted for the new developments and updated with (inferred) [data from Internet sites](#resources). Though crude, this suffices for gaining insight from asking more questions in a global context. For estimates regarding worldwide energy and electricity consumption, IEA reports were used and the significant data visualised.
 
