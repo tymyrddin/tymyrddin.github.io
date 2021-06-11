@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/banner.png
 ---
 
-![Regiment]({{ site.url }}{{ site.baseurl }}/assets/images/regiment.png)
+![Regiment]({{ site.url }}{{ site.baseurl }}/assets/images/regiment.png#center)
 
 Systems thinking revolves around understanding correlations, causes and effects and is more than just a handy collection of tools and methods to explore complex systems with – it is also an underlying philosophy, an awareness of the role of structure (our own headset) in creating what we face, of that which gets often overlooked, of powerful patterns operating on us, and of consequences of our actions. 
 

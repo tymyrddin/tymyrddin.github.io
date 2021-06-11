@@ -1,21 +1,20 @@
 # main links
 main:
+  - title: "About"
+    url: https://tymyrddin.space/
+    children: 
+      - title: "Scenario planning"
+        url: /scenario-planning/
+      - title: "Causes and effects"
+        url: /cause-and-effect/
+      - title: "The nth elephant"
+        url: /elephants/
   - title: "Archive"
     url: /year-archive/
   - title: "Sitemap"
     url: /sitemap/
 
 # sidebar
-side:
-  - title: Congruence
-    children: 
-    - title: "Scenario planning"
-      url: /scenario-planning/
-    - title: "Causes and effects"
-      url: /cause-and-effect/
-    - title: "The nth elephant"
-      url: /elephants/
-
   - title: Sites
     children:
       - title: "Space"

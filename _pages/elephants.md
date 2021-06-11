@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/banner.png
 ---
 
-![Fifth-Elephant]({{ site.url }}{{ site.baseurl }}/assets/images/fifth-elephant.png)
+![Fifth-Elephant]({{ site.url }}{{ site.baseurl }}/assets/images/fifth-elephant.png#center)
 
 We have a tendency to believe that we see reality and that what we think is true,  and we have difficulty seeing the self-created paradigms through which we view our world. As a result, we have blind spots that prevent us from seeing things as clearly as we would like (while we think we do).
 
