@@ -1,10 +1,10 @@
 ---
-permalink: /terms/
 title: "Terms and Privacy Policy"
 layout: splash
-date: 2021-04-04T22:00:00+00:00
+permalink: /terms/
 hidden: true
 author_profile: true
+date: 2021-04-04T22:00:00+00:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
