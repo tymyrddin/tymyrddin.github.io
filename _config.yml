@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Ty Myrddin"
   avatar           : "/assets/images/avatar2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Restaurant at end of universe"
+  bio              : "It is often said that before you die your life passes before your eyes. It is in fact true. It’s called living."
   location         : "France and New Zealand"
   links:
     - label: "Contact"
