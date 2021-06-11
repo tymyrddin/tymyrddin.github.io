@@ -17,7 +17,7 @@ The privacy of our visitors is extremely important. This Privacy Policy outlines
 
 First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
 
-### Log Files
+## Log Files
 
 This site does not use log files to help learn about when, from where, and how often traffic flows to this site. But, it is hosted as github pages, therefore also read the [GitHub Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement)
 
