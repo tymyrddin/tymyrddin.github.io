@@ -2,6 +2,7 @@
 permalink: /terms/
 title: "Terms and Privacy Policy"
 last_modified_at: 2021-04-04T22:00:00+00:00
+layout: posts
 author_profile: true
 classes: wide
 header:
