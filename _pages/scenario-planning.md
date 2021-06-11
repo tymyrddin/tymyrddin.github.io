@@ -11,6 +11,8 @@ header:
   overlay_image: /assets/images/banner.png
 ---
 
+![Night-Watch]({{ site.url }}{{ site.baseurl }}/assets/images/night-watch.png)
+
 Scenario planning is a way of [studying tracks]({{ site.url }}{{ site.baseurl }}/scenario-planning/ancient-practice/) for understanding the dynamics that might shape the future. It's basic choreography:
 
 * Pin down a [decision focus](#decision-focus) to prevent the choreography from degenerating into purposeless speculation about all infinite futures.

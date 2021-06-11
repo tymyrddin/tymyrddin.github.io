@@ -11,6 +11,8 @@ header:
   overlay_image: /assets/images/banner.png
 ---
 
+![Fifth-Elephant]({{ site.url }}{{ site.baseurl }}/assets/images/fifth-elephant.png)
+
 We have a tendency to believe that we see reality and that what we think is true,  and we have difficulty seeing the self-created paradigms through which we view our world. As a result, we have blind spots that prevent us from seeing things as clearly as we would like (while we think we do).
 
 In order to start seeing our blind spots, we need to become more aware and realise that our inner thought world resembles a tree, or going down a rabbit hole, or that it is turtles all the way down, or elephants all the way down, or 4 elephants standing on a turtle which is flying through space ... 
