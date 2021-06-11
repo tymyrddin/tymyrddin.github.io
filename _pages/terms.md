@@ -1,6 +1,6 @@
 ---
 title: "Terms and Privacy Policy"
-layout: splash
+layout: default
 permalink: /terms/
 hidden: true
 author_profile: true
