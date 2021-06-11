@@ -2,10 +2,12 @@
 main:
   - title: "Home"
     url: /
-  - title: "Restaurant at end of Universe"
+  - title: "Restaurant"
     url: /restaurant/
   - title: "Archive"
     url: /year-archive/
   - title: "Sitemap"
     url: /sitemap/
+  - title: "Terms & Conditions"
+    url: /terms/
 
