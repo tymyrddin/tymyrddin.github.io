@@ -97,6 +97,7 @@ author:
   name             : "Ty Myrddin"
   avatar           : "/assets/images/avatar2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   location         : "France and New Zealand"
+  bio              : " "
   links:
     - label: "Contact"
       icon: "fas fa-fw fa-envelope-square"
