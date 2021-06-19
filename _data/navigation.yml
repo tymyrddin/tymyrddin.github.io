@@ -2,8 +2,6 @@
 main:
   - title: "Home"
     url: /
-  - title: "Restaurant"
-    url: /restaurant/
   - title: "Archive"
     url: /year-archive/
   - title: "Sitemap"

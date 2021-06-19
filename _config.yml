@@ -108,12 +108,18 @@ author:
     - label: "A'Tuin"
       icon: "fas fa-fw fa-link"
       url: https://tymyrddin.wiki/
+    - label: "Restaurant"
+      icon: "fas fa-fw fa-link"
+      url: https://gnabgib.herokuapp.com/
     - label: "Cooking"
       icon: "fas fa-fw fa-link"
       url: https://nowaste.recipes/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tymyrddin"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://gitlab.com/tymyrddin"
 
 # Site Footer
 footer:
