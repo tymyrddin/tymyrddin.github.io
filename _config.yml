@@ -108,6 +108,9 @@ author:
     - label: "A'Tuin"
       icon: "fas fa-fw fa-link"
       url: https://tymyrddin.wiki/
+    - label: "Milliways"
+      icon: "fas fa-fw fa-link"
+      url: https://tymyrddin.gitlab.io/
     - label: "Cooking"
       icon: "fas fa-fw fa-link"
       url: https://nowaste.recipes/
