@@ -19,7 +19,7 @@ Stigma and discrimination are related but not the same. Stigma is defined by Gof
 
 ## Example: Neanderthals
 
-The stigmatisation of Neanderthals in scientific circles held for a long time. Now we know they were better adapted to life in Europe at the time, with a significant artistic culture, and that the Neanderthals deserve our greatest respect, as they managed to survive living in small, isolated clans, sometimes in very harsh climates, for over 200,000 years. We still have to show we can even do that.
+The stigmatisation of Neanderthals in scientific circles held for a long time. Now we know they were better adapted to life in Europe at the time, with a significant artistic culture, and that the Neanderthals deserve our greatest respect, as they managed to survive living in small, isolated clans, sometimes in very harsh climates, for over 200,000 years. We still have to show we can even do that. Oh right, be careful with the word "clan".
 
 ## Example: Fylfot
 
