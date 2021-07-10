@@ -8,7 +8,7 @@ tags:
   - Cognitive
   - Headset
 ---
-Note that these have to do with physiological and anatomical differences, are generalisations, and often do not take into account differences that appear and disappear in cultures with higher or lower levels of gender-related egalitarianism (and which may actually give us some big surprises).
+Note that these have to do with physiological and anatomical differences, are generalisations, and often do not take into account differences that appear and disappear in cultures with higher or lower levels of gender-related egalitarianism ([and which may actually give us some big surprises](https://www.metadechoc.fr/shocking-12-odile-fillod)).
 
 ## Corpus callosum
 
