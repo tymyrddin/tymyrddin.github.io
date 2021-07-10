@@ -33,7 +33,7 @@ Some second-generation immigrants were involved in the terror attacks in major E
 
 In addition to the terror attacks, economic restructuring and growing poverty have also resulted in the rise of right-wing nationalists in Germany again. 
 
-Studying the stigmatisation of minorities and immigrant groups and the [destigmatisation strategies of minorities](https://duckduckgo.com/?q=destigmatisation+strategies+of+minorities&t=ffnt&ia=web) can be very revealing and sometimes uplifting.
+Studying the stigmatisation of minorities and immigrant groups, and the [destigmatisation strategies of minorities](https://duckduckgo.com/?q=destigmatisation+strategies+of+minorities&t=ffnt&ia=web), can be very revealing and sometimes uplifting.
 
 
 
