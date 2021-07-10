@@ -17,7 +17,7 @@ Stigmatisation is often considered taboo and associated with generalised and ste
 
 Stigma and discrimination are related but not the same. Stigma is defined by Goffman as an "attribute that is deeply discrediting" and that reduces the bearer from "a whole and usual person to a tainted, discounted one". In his view, stigma commonly results from a transformation of the body, blemish of the individual character, or membership of a despised group. He emphasizes the relationship between an attribute and a stereotype. Building upon this definition, Link and Phelan define stigma as "stigma exists when a person is identified by a label that sets the person apart and links the person to undesirable stereotypes that result in unfair treatment and discrimination".
 
-## Common example: Neanderthals
+## Example: Neanderthals
 
 The stigmatisation of Neanderthals in scientific circles held for a long time. Now we know they were better adapted to life in Europe at the time, with a significant artistic culture, and that the Neanderthals deserve our greatest respect, as they managed to survive living in small, isolated clans, sometimes in very harsh climates, for over 200,000 years. We still have to show we can even do that.
 
