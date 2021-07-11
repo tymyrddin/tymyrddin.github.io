@@ -17,9 +17,9 @@ I am taking the time to investigate in order to refute "mass forming" actually h
 
 - [The rabbit hole of the screens](#the-rabbit-hole-of-the-screens)
 - [Media](#media)
-  - [Category 1](#category-1)
-  - [Category 2](#category-2)
-  - [Category 3](#category-3)
+  - [Category 1 news](#category-1-news)
+  - [Category 2 news](#category-2-news)
+  - [Category 3 news](#category-3-news)
 - [Lack of transparency](#lack-of-transparency)
 - [Visibility of alternative strategies](#visibility-of-alternative-strategies)
 - [Excuse me ?!?!?](#excuse-me-)
@@ -45,15 +45,15 @@ To choose what to publish in such difficult times, journalists often use a triag
 
 As a result of that, personal bias regarding what is a "conspiracy theory" plays a big role in the decision making in the media. Or, its source is considered to determine whether it falls in the third category, which could lead to authority fallacies, and to name calling wars.
 
-### Category 1
+### Category 1 news
 
 By the way, here is some category one news: _Most countries have Acts or Laws relating to "biosecurity" under which people with listed diseases may be subject to “human biosecurity control orders”. Control orders can require people, among other things, to provide their contact information and health details (including body samples for diagnosis), restrict their behaviour, undergo risk-minimisation interventions (including decontamination) and/or medical treatment, accept isolation from the community for specified periods._
 
-### Category 2
+### Category 2 news
 
 And here is some category two news: _"[Pandemics](2020-10-15-likelihood-of-pandemics.md) as a result of neo-liberal globalisation, and terrorist attacks as a result of militaristic or secret service interventions for plundering other nations (sorry, "for economically stabilising countries that have oil, minerals or other resources"), and all of the subsequent measures to fight what comes back to us are "the price of freedom", but having to wear a mask for 10 minutes in a shop is "tyranny"?"_ Gives to think, doesn't it?
 
-### Category 3
+### Category 3 news
 
 And some category three not-so-news: _An admission of uncertainty isn't a condemnation of science or a validation of a conspiracy theory. It is how science works. Science can prove a theory wrong, but it can never prove it right because there are ambiguities, the emergence of new evidence and the shifting of individual and collective perspectives._
 
