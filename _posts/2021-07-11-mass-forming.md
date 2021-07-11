@@ -85,7 +85,7 @@ Two, reasonably known (at least in my circles), are on red algae nasal spray and
 
 *Sorry, no content matched your search. Please try again.*
 
-I have not been able to refute the Mass forming theory (yet). Stay tuned for updates on ambiguities, the emergence of new evidence and the shifting of individual and collective perspectives. Probably no need to hold on to your hats though.
+I have not been able to refute the Mass forming theory (yet). For now uncertainty rules. Stay tuned for updates on ambiguities, the emergence of new evidence and the shifting of individual and collective perspectives. Probably no need to hold on to your hats though.
 
 
 
