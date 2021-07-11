@@ -80,7 +80,7 @@ If I were to find messages and articles on other scientific views and alternativ
 
 Two, reasonably known (at least in my circles), are on red algae nasal spray and on vitamine D.
 
-* Vitamin D is not only a vitamin, but also a hormone which supports the immune system. Several studies concluded Vitamin D deficiency is significantly associated with increased risk for COVID-19, but a new New Cornell-led research found little to no evidence of a link between a person’s normal blood levels of vitamin D and risk of getting COVID-19, or the severity of an infection. Still, have any of these studies been mentioned?
+* Vitamin D3 is not only a vitamin, but also a hormone which supports the immune system. Several studies concluded Vitamin D deficiency is significantly associated with increased risk for COVID-19, but a new New Cornell-led research found little to no evidence of a link between a person’s normal blood levels of vitamin D and risk of getting COVID-19, or the severity of an infection. Still, have any of these studies been mentioned?
 * Carrageenans or carrageenins are a family of natural linear sulfated polysaccharides that are extracted from red edible seaweeds. In a nasal spray, this [could be a safe and effective treatment that could prevent transmission of COVID-19](https://www.clinicaltrials.gov/ct2/show/NCT04521322). Maybe these are mentioned?
 
 *Sorry, no content matched your search. Please try again.*
