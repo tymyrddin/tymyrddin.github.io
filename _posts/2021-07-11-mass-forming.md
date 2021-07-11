@@ -22,7 +22,6 @@ I am taking the time to investigate in order to refute "mass forming" actually h
   - [Category 3 news](#category-3-news)
 - [Lack of transparency](#lack-of-transparency)
 - [Visibility of alternative strategies](#visibility-of-alternative-strategies)
-- [Excuse me ?!?!?](#excuse-me-)
 
 ## The rabbit hole of the screens
 
@@ -88,8 +87,6 @@ Two, reasonably known (at least in my circles), are on red algae nasal spray and
 
 I have not been able to refute the Mass forming theory (yet). Stay tuned for updates on ambiguities, the emergence of new evidence and the shifting of individual and collective perspectives. Probably no need to hold on to your hats though.
 
-## Excuse me ?!?!?
 
-* [Calling in the army for the vaccine rollout and every other emergency shows how ill-prepared we are](https://theconversation.com/calling-in-the-army-for-the-vaccine-rollout-and-every-other-emergency-shows-how-ill-prepared-we-are-162247) 
 
 
