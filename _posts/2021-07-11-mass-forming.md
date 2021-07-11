@@ -72,7 +72,7 @@ I did find a message:
 
 *Due to technical issues with TESSy data processing, several of ECDC’s routine surveillance outputs on COVID-19 are delayed or may contain incomplete data. ECDC is working to resolve this issue as quickly as possible and will post the updated data and outputs as soon as they become available.*
 
-I'll keep trying. Hopefully this report will be available somewhere soon. 
+I'll keep trying. Hopefully this report will be available somewhere soon. And then not only verify that number, but also look at where the data came from, and how it was gathered.
 
 ## Visibility of alternative strategies
 
