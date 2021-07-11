@@ -58,11 +58,11 @@ And some category three not-so-news: _An admission of uncertainty isn't a condem
 
 ## Lack of transparency
 
-_"Up until the third of july some 17300 vaccine-related deaths (in EU-countries) were reported at EudraVigilance from the EMA (european medicines agency), together with 1,7 million adverse reactions to the vaccines, half of which severe (strokes, heart-inflammation etc). On EudraVigilance these numbers are split up in numerous side-effect-per-brandname, In this way you have to do a lot of counting to get the total number. There is underreporting and estimates are that this number represents between 1 to 10% of the actual number of cases, which is still rising."_
+> _"Up until the third of july some 17300 vaccine-related deaths (in EU-countries) were reported at EudraVigilance from the EMA (european medicines agency), together with 1,7 million adverse reactions to the vaccines, half of which severe (strokes, heart-inflammation etc). On EudraVigilance these numbers are split up in numerous side-effect-per-brandname, In this way you have to do a lot of counting to get the total number. There is underreporting and estimates are that this number represents between 1 to 10% of the actual number of cases, which is still rising."_
 
 When I tried verifying this data I came to the [EudraVigilance European database of suspected adverse drug reaction reports](https://www.adrreports.eu/en), where I read: 
 
-<span style="color:red">NEW!</span> To consult the reports for COVID-19 vaccines, follow this [link](https://www.adrreports.eu/en/disclaimer.html), then click on the letter 'C' and scroll down until "COVID-19".
+> **<span style="color:red">NEW!</span> To consult the reports for COVID-19 vaccines, follow this [link](https://www.adrreports.eu/en/disclaimer.html), then click on the letter 'C' and scroll down until "COVID-19".**
 
 And when I did that I first got to read and accept a disclaimer, after which a list came up, which did not contain the item "COVID-19" under "C" (or anywhere else).
 
@@ -70,7 +70,7 @@ So then I tried the blue COVID-19 message button on the frontpage. It took me to
 
 I did find a message:
 
-*Due to technical issues with TESSy data processing, several of ECDC’s routine surveillance outputs on COVID-19 are delayed or may contain incomplete data. ECDC is working to resolve this issue as quickly as possible and will post the updated data and outputs as soon as they become available.*
+> **Due to technical issues with TESSy data processing, several of ECDC’s routine surveillance outputs on COVID-19 are delayed or may contain incomplete data. ECDC is working to resolve this issue as quickly as possible and will post the updated data and outputs as soon as they become available.**
 
 I'll keep trying. Hopefully this report will be available somewhere soon. And then not only verify that number, but also look at where the data came from, and how it was gathered.
 
@@ -83,7 +83,7 @@ Two, reasonably known (at least in my circles), are on red algae nasal spray and
 * Vitamin D3 is not only a vitamin, but also a hormone which supports the immune system. Several studies concluded Vitamin D deficiency is significantly associated with increased risk for COVID-19, but a new New Cornell-led research found little to no evidence of a link between a person’s normal blood levels of vitamin D and risk of getting COVID-19, or the severity of an infection. Still, have any of these studies been mentioned?
 * Carrageenans or carrageenins are a family of natural linear sulfated polysaccharides that are extracted from red edible seaweeds. In a nasal spray, this [could be a safe and effective treatment that could prevent transmission of COVID-19](https://www.clinicaltrials.gov/ct2/show/NCT04521322). Maybe these are mentioned?
 
-*Sorry, no content matched your search. Please try again.*
+> **Sorry, no content matched your search. Please try again.**
 
 I have not been able to refute the Mass forming theory (yet). For now uncertainty rules. Stay tuned for updates on ambiguities, the emergence of new evidence and the shifting of individual and collective perspectives. Probably no need to hold on to your hats though.
 
