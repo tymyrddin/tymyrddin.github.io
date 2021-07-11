@@ -31,7 +31,7 @@ Lockdowns measures have had many effects, and the two that stand out for me that
 * The increasingly pervasive diffusion of digital technologies causes (among other things) missing elements of physical presence in one-on-one and group discussions by which people experience loss of some experience of the senses, which in turn causes loss of some social dimensions from being an identity, from life, and thereby causing mental health problems. 
 * With everybody behind screens and/or in lockdown, the streets are increasingly empty, speeding up the continued economic crash of smaller physical retailers while increasing economic boost of large online retailers.
 
-Neither of these two examples is new. Covid and the measures taken has merely exacerbated these issues that make more vulnerable to a single story while becoming remarkably indifferent to reason, information or other views on stories, and also to human suffering outside the tiny focus of their own story.
+Neither of these two examples is new. Covid and the measures taken has merely exacerbated these issues that make more vulnerable to a single story while becoming remarkably indifferent to reason, information or other views on stories, and also to human suffering outside the tiny focus of our own story.
 
 ## Media
 
@@ -67,7 +67,7 @@ When I tried verifying this data I came to the [EudraVigilance European database
 
 And when I did that I first got to read and accept a disclaimer, after which a list came up, which did not contain the item "COVID-19" under "C" (or anywhere else).
 
-So then I tried the blue COVID-19 message button on the frontpage. It took me to a page [COVID-19 important messages](https://www.adrreports.eu/en/covid19_message.html) where under the heading "Warning for cases with a fatal outcome" I found a link to the [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu) where I found no report that can verify the statement above.
+So then I tried the blue COVID-19 message button on the frontpage. It took me to a page [COVID-19 important messages](https://www.adrreports.eu/en/covid19_message.html) where under the heading "Warning for cases with a fatal outcome" I found a link to the [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu) where I also found no report that can verify the statement above.
 
 I did find a message:
 
@@ -81,7 +81,7 @@ If I were to find messages and articles on other scientific views and alternativ
 
 Two, reasonably known (at least in my circles), are on red algae nasal spray and on vitamine D.
 
-* Vitamin D is not only a vitamin, but also a hormone which supports the immune system. Several research studies indicate it may help prevent and even be used to treat COVID infections. Several studies concluded Vitamin D deficiency is significantly associated with increased risk for COVID-19, but a new New Cornell-led research found little to no evidence of a link between a person’s normal blood levels of vitamin D and risk of getting COVID-19, or the severity of an infection. Still, have any of these studies been mentioned?
+* Vitamin D is not only a vitamin, but also a hormone which supports the immune system. Several studies concluded Vitamin D deficiency is significantly associated with increased risk for COVID-19, but a new New Cornell-led research found little to no evidence of a link between a person’s normal blood levels of vitamin D and risk of getting COVID-19, or the severity of an infection. Still, have any of these studies been mentioned?
 * Carrageenans or carrageenins are a family of natural linear sulfated polysaccharides that are extracted from red edible seaweeds. In a nasal spray, this [could be a safe and effective treatment that could prevent transmission of COVID-19](https://www.clinicaltrials.gov/ct2/show/NCT04521322). Maybe these are mentioned?
 
 *Sorry, no content matched your search. Please try again.*
