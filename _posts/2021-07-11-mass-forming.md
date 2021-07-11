@@ -50,7 +50,7 @@ By the way, here is some category one news: _Most countries have Acts or Laws re
 
 ### Category 2 news
 
-And here is some category two news: _"[Pandemics](2020-10-15-likelihood-of-pandemics.md) as a result of neo-liberal globalisation, and terrorist attacks as a result of militaristic or secret service interventions for plundering other nations (sorry, "for economically stabilising countries that have oil, minerals or other resources"), and all of the subsequent measures to protect us from what comes back to us are "the price of freedom", but having to wear a mask for 10 minutes in a shop is "tyranny"?"_ Gives to think, doesn't it?
+And here is some category two news: _"[Pandemics]({{ site.url }}{{ site.baseurl }}/cause-and-effect/likelihood-of-pandemics.md) as a result of neo-liberal globalisation, and terrorist attacks as a result of militaristic or secret service interventions for plundering other nations (sorry, "for economically stabilising countries that have oil, minerals or other resources"), and all of the subsequent measures to protect us from what comes back to us are "the price of freedom", but having to wear a mask for 10 minutes in a shop is "tyranny"?"_ Gives to think, doesn't it?
 
 ### Category 3 news
 
