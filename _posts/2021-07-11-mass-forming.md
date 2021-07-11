@@ -91,7 +91,5 @@ I have not been able to refute the Mass forming theory (yet). Stay tuned for upd
 ## Excuse me ?!?!?
 
 * [Calling in the army for the vaccine rollout and every other emergency shows how ill-prepared we are](https://theconversation.com/calling-in-the-army-for-the-vaccine-rollout-and-every-other-emergency-shows-how-ill-prepared-we-are-162247) 
-* [Mutant variations and the danger of lockdowns (pdf)](https://dryburgh.com/wp-content/uploads/2021/03/Mutant-variations-and-the-danger-of-lockdowns-By-Jemma-Moran-March-2-2021.pdf)
-* [Open Letter to the WHO, Geert Vanden Bossche](https://dryburgh.com/geert-vanden-bossche-open-letter-to-who-halt-all-covid-19-mass-vaccination/)
 
 
