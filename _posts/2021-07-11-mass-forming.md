@@ -15,6 +15,15 @@ COVID comes with effects, COVID lockdowns come with effects, COVID containment m
 
 I am taking the time to investigate in order to refute "mass forming" actually happening.
 
+- [The rabbit hole of the screens](#the-rabbit-hole-of-the-screens)
+- [Media](#media)
+  - [Category 1](#category-1)
+  - [Category 2](#category-2)
+  - [Category 3](#category-3)
+- [Lack of transparency](#lack-of-transparency)
+- [Visibility of alternative strategies](#visibility-of-alternative-strategies)
+- [Excuse me ?!?!?](#excuse-me-)
+
 ## The rabbit hole of the screens
 
 Lockdowns measures have had many effects, and the two that stand out for me that have not been in our best interest in this context are:
