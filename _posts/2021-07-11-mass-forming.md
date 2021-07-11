@@ -50,15 +50,15 @@ By the way, here is some category one news: _Most countries have Acts or Laws re
 
 ### Category 2 news
 
-And here is some category two news: _"[Pandemics](2020-10-15-likelihood-of-pandemics.md) as a result of neo-liberal globalisation, and terrorist attacks as a result of militaristic or secret service interventions for plundering other nations (sorry, "for economically stabilising countries that have oil, minerals or other resources"), and all of the subsequent measures to fight what comes back to us are "the price of freedom", but having to wear a mask for 10 minutes in a shop is "tyranny"?"_ Gives to think, doesn't it?
+And here is some category two news: _"[Pandemics](2020-10-15-likelihood-of-pandemics.md) as a result of neo-liberal globalisation, and terrorist attacks as a result of militaristic or secret service interventions for plundering other nations (sorry, "for economically stabilising countries that have oil, minerals or other resources"), and all of the subsequent measures to protect us from what comes back to us are "the price of freedom", but having to wear a mask for 10 minutes in a shop is "tyranny"?"_ Gives to think, doesn't it?
 
 ### Category 3 news
 
-And some category three not-so-news: _An admission of uncertainty isn't a condemnation of science or a validation of a conspiracy theory. It is how science works. Science can prove a theory wrong, but it can never prove it right because there are ambiguities, the emergence of new evidence and the shifting of individual and collective perspectives._
+And some category three not-so-news: _An admission of uncertainty isn't a condemnation of science or a validation of a conspiracy theory. It is how science works. Science can prove a theory wrong, but it can never prove it right because there are ambiguities, the emergence of new evidence and in the case of "mass forming" theory, the shifting of individual and collective perspectives._
 
 ## Lack of transparency
 
-"Up until the third of july some 17300 vaccine-related deaths (in EU-countries) were reported at EudraVigilance from the EMA (european medicines agency), together with 1,7 million adverse reactions to the vaccines, half of which severe (strokes, heart-inflammation etc). On EudraVigilance these numbers are split up in numerous side-effect-per-brandname, In this way you have to do a lot of counting to get the total number. There is underreporting and estimates are that this number represents between 1 to 10% of the actual number of cases, which is still rising."
+_"Up until the third of july some 17300 vaccine-related deaths (in EU-countries) were reported at EudraVigilance from the EMA (european medicines agency), together with 1,7 million adverse reactions to the vaccines, half of which severe (strokes, heart-inflammation etc). On EudraVigilance these numbers are split up in numerous side-effect-per-brandname, In this way you have to do a lot of counting to get the total number. There is underreporting and estimates are that this number represents between 1 to 10% of the actual number of cases, which is still rising."_
 
 When I tried verifying this data I came to the [EudraVigilance European database of suspected adverse drug reaction reports](https://www.adrreports.eu/en), where I read: 
 
