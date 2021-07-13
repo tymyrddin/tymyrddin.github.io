@@ -30,6 +30,6 @@ The internet is heterarchical in its overall design, and hierarchical in its det
     * The DNS hierarchy consists of root level, top level domains, second level domains, sub-domains, and hosts, in that order.
 * ["Consumer" computers are grazed for information]({{ site.url }}{{ site.baseurl }}/scenario-planning/panopticon) about its users by the “predators” in the hierarchy.
 * The internet does not have built-in mechanisms to promote redundancy for durability, availability, or performance purposes. One daemon serves one copy. Everything else (CDNs, forward/reverse proxies, failover) is some kind of optimisation tacked on afterwards.
-* Users have to depend on hosts providing [secure access]({{ site.url }}{{ site.baseurl }}/scenario-planning/internet-insecurity-trends), which for providers has often been an afterthought if thought of at all, in an environment that can not be secured from attacks on the routing level like [BGP hijacking](https://tymyrddin.gitbook.io/orchard/trees/network-attacks/Hijack-BGP.md) because trust is a flawed concept.
+* Users have to depend on hosts providing [secure access]({{ site.url }}{{ site.baseurl }}/scenario-planning/internet-insecurity-trends), which for providers has often been an afterthought if thought of at all, in an environment that can not be secured from attacks on the routing level like [BGP hijacking](https://tymyrddin.gitbook.io/orchard/snapping-us-some-dark-matter/network-attacks/hijack-bgp) because trust is a flawed concept.
 
 
