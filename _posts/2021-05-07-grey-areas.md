@@ -58,12 +58,12 @@ Sounds awesome, but what is really happening and possible in this grey area?
 
 A user’s browser, a tool to interact with the internet, is supposed to be sacred. FLoC turns it into a real-time tracking tool collecting the most sensitive information about an individual user’s browsing habits without the user being able to circumvent or opt out of this data collection.
 
-And when the FLoC data set is big enough, [deanonymisation will become easy](https://github.com/tymyrddin/orchard/tree/main/threat-modelling/DA-threat-model). For example, cohorts of users sharing the same location data, shop in the same neighbourhood, are active in the same time zone, [can be easily be grouped together](https://github.com/tymyrddin/orchard/blob/main/threat-modelling/DA-threat-model/attack-vectors/Classification-analysis.md) by demographics, and if the data is combined with other tracking mechanisms such as social media analytics or data sets purchased from [data brokers](https://github.com/tymyrddin/orchard/blob/main/threat-modelling/DA-threat-model/adversaries/Data-brokers.md), fingerprinting users based on age, class, ethnicity, political parties becomes trivial.
+And when the FLoC data set is big enough, [deanonymisation will become easy](https://github.com/tymyrddin/orchard/tree/main/threat-modelling/DA-threat-model). For example, cohorts of users sharing the same location data, shop in the same neighbourhood, are active in the same time zone, [can be easily be grouped together](https://tymyrddin.gitbook.io/orchard/threat-modelling/DA-threat-model/attack-vectors/Classification-analysis.md) by demographics, and if the data is combined with other tracking mechanisms such as social media analytics or data sets purchased from [data brokers](https://tymyrddin.gitbook.io/orchard/threat-modelling/DA-threat-model/adversaries/Data-brokers.md), fingerprinting users based on age, class, ethnicity, political parties becomes trivial.
 
 [Google announced](https://developer.chrome.com/blog/privacy-sandbox-update-2021-jan/) that in Chrome version 89 they will forcibly enable and trial their FLoC data-collection initiative without the consent of users or webmasters. 
 
 Our options are reduced to “You either have old tracking or new tracking”?
-Not entirely, because [users](https://github.com/tymyrddin/orchard/blob/main/mitigations/data/browsing/FLoC.md) and [webserver adminstrators and webmasters](https://github.com/tymyrddin/orchard/blob/main/mitigations/data/webapplication/FloCed-sites.md) can jump through hoops, again. 
+Not entirely, because [users](https://tymyrddin.gitbook.io/orchard/mitigations/data/browsing/FLoC.md) and [webserver adminstrators and webmasters](https://tymyrddin.gitbook.io/orchard/mitigations/data/webapplication/FloCed-sites.md) can jump through hoops, again. 
 
 It is annoying, very annoying, these constant attacks on our privacy. How about no tracking, period.
 
