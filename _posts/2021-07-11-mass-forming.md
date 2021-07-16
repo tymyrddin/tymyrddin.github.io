@@ -91,12 +91,12 @@ Two, reasonably known (at least in my circles), are on red algae nasal spray and
 
 The COVID-19 outbreak in March of 2020 brought about a sense of fear and anxiety around the globe. When policymakers across the globe reacted with "lock downs" to help limit the spread of COVID-19, they took a leap into the unknown. They knew little about COVID-19 itself, and almost nothing about how lockdowns would affect people and society. Now, more than one year later we know a little more:
 
-* Massive spikes in suicide rates and mental health crises due to increased emotional stress. Being cut off from friends, family, and many other things that give life meaning proved too much for many already struggling.
+* Being cut off from friends, family, and many other things that give life meaning proved too much for many already struggling. The increased emotional stress can lead to suicide and mental health crises.
 * Trapping people at home and cutting them off from outside support is a sure recipe for domestic violence.
-* Not only that, it is also a recipe for increased substance abuse, an exacerbation of an already-existing crisis, which can be measured in the increased number of overdoses.
+* Not only that, it is also a recipe for increased substance abuse and overdoses.
 * Most importantly, the breakdown of local economies is causing a worldwide hunger that is pushing people to the brink of starvation.
 
-The latter of course, could become part of an opportunistic single story where the richest people in the world buy as much of the land in the world as they can, to "feed the hungry" and allow their products for developing "sustainable" local small farms, to be bought for an "affordable price".
+The latter of course, could become part of an opportunistic single story where the richest people in the world buy as much of the land in the world as they can, to "feed the hungry" and allow their products for "developing sustainable local small farms", to be bought for an "affordable price".
 
 Such centralisation is doomed to fail. 
 
