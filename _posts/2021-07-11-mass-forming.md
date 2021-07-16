@@ -102,7 +102,7 @@ Such centralisation is doomed to fail.
 
 > "If we can agree that the economic problem of society is mainly one of rapid adaptation to changes in the particular circumstances of time and place, it would seem to follow that the ultimate decisions must be left to the people who are familiar with these circumstances, who know directly of the relevant changes and of the resources immediately available to meet them." ~ [The Use of Knowledge in Society V, Hayek](https://fee.org/articles/the-use-of-knowledge-in-society)
 
-Personally, whether this opportunistic centralisation scenario will play out or not, it may be a good idea to start local agricultural projects and prevent further land grabbing, but hey.
+Personally, whether this opportunistic centralisation scenario will play out or not, it may be a good idea to start some more local agricultural projects and prevent further land grabbing, but hey.
 
 ## Conclusions for now
 
