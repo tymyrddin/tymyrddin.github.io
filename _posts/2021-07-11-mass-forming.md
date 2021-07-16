@@ -76,6 +76,8 @@ I did find a message:
 
 I'll keep trying. Hopefully this report will be available somewhere soon. And then not only verify that number, but also look at where the data came from, and how it was gathered.
 
+Update July 16, 2021, reliable source found on [healthimpactnews](https://healthimpactnews.com/2021/17503-dead-1-7-million-injured-50-serious-reported-in-european-unions-database-of-adverse-drug-reactions-for-covid-19-shots/)
+
 ## Visibility of alternative strategies
 
 If I were to find messages and articles on other scientific views and alternative strategies on official websites like the one I just found above, the [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu), then the "Mass forming" narrative stands on swampy ground.
@@ -89,9 +91,9 @@ Two, reasonably known (at least in my circles), are on red algae nasal spray and
 
 ## Possible single story
 
-The COVID-19 outbreak in March of 2020 brought about a sense of fear and anxiety around the globe. When policymakers across the globe reacted with "lock downs" to help limit the spread of COVID-19, they took a "leap into the unknown". Assumption: They knew little about COVID-19 itself, and almost nothing about how lockdowns could affect people and society. 
+The COVID-19 outbreak in March of 2020 brought about a sense of fear and anxiety around the globe. When policymakers across the globe reacted with "lock downs" to help limit the spread of COVID-19, they took a "leap into the unknown" (Assumption: They knew little about COVID-19 itself, and almost nothing about how lockdowns could affect people and society). 
 
-Now, more than one year later we know a little more, which can not be denied:
+Now, more than one year later, we all know some effects that can not be denied:
 
 * Being cut off from friends, family, and many other things that give life meaning proved too much for many already struggling. The increased emotional stress can lead to suicide and mental health crises.
 * Trapping people at home and cutting them off from outside support is a sure recipe for domestic violence.
