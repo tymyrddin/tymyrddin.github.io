@@ -11,7 +11,7 @@ tags:
 
 COVID comes with effects, COVID lockdowns come with effects, COVID containment measures by governments come with effects ... and some related very complex issues.
 
-[Mathias Desmet](https://dissident.one/2021/01/21/mattias-desmet-professor-klinische-psychologie-coronamaatregelen-onthullen-totalitaire-trekken/), a clinical psychologist from the Netherlands has posed that decades of propaganda, and politicised (weaponised) science (modern man's object of worship), along with calming pretty nature documentaries has caused a slumbering but large amount of stress and fear and an experienced lack of meaning in society, paving the way for "mass-forming": a crowd (or nation or...) becomes susceptible to a single story (with subsequent roads of behaviours and solutions) to be appointed as the object of fear), causing people to follow measures that go against their own wellbeing while they become remarkably indifferent to reason, information or other views on the story, and also to human suffering outside the tiny focus of the story.
+[Mathias Desmet](https://dissident.one/2021/01/21/mattias-desmet-professor-klinische-psychologie-coronamaatregelen-onthullen-totalitaire-trekken/), a clinical psychologist from the Netherlands has posed that decades of propaganda, and politicised (weaponised) science (modern man's object of worship), along with calming pretty nature documentaries has caused a slumbering but large amount of stress and fear and an experienced lack of meaning in society, paving the way for "mass-forming": a crowd (or nation or...) becomes susceptible to a single story (with subsequent roads of behaviours and solutions to be appointed as the object of fear), causing people to follow measures that go against their own wellbeing while they become remarkably indifferent to reason, information or other views on the story, and also to human suffering outside the tiny focus of the story.
 
 I am taking the time to investigate in order to refute "mass forming" actually happening.
 
@@ -22,6 +22,8 @@ I am taking the time to investigate in order to refute "mass forming" actually h
   - [Category 3 news](#category-3-news)
 - [Lack of transparency](#lack-of-transparency)
 - [Visibility of alternative strategies](#visibility-of-alternative-strategies)
+- [Possible single story](#possible-single-story)
+- [Conclusions for now](#conclusions-for-now)
 
 ## The rabbit hole of the screens
 
@@ -46,11 +48,11 @@ As a result of that, personal bias regarding what is a "conspiracy theory" plays
 
 ### Category 1 news
 
-By the way, here is some category one news: _Most countries have Acts or Laws relating to "biosecurity" under which people with listed diseases may be subject to “human biosecurity control orders”. Control orders can require people, among other things, to provide their contact information and health details (including body samples for diagnosis), restrict their behaviour, undergo risk-minimisation interventions (including decontamination) and/or medical treatment, accept isolation from the community for specified periods._
+By the way, here is some category one news: _Most countries have Acts or Laws relating to "biosecurity" under which people with listed diseases may be subject to “human biosecurity control orders”. Control orders can require people, among other things, to provide their contact information and health details (including body samples for diagnosis), restrict their behaviour, undergo risk-minimisation interventions (including decontamination) and/or medical treatment, and accept isolation from the community for specified periods._
 
 ### Category 2 news
 
-And here is some category two news: _"[Pandemics]({{ site.url }}{{ site.baseurl }}/cause-and-effect/likelihood-of-pandemics) as a result of market globalisation, and terrorist attacks as a result of [interventions for opportunistically plundering other nations]({{ site.url }}{{ site.baseurl }}/scenario-planning/opportunistic-scenario/) (sorry, "for stabilising countries that have oil, minerals or other resources"), and all of the subsequent measures to protect us from what comes back to us are the price we all pay for the economic enrichment of a few (sorry, "the price of freedom"), but having to wear a mask for 10 minutes in a shop is "tyranny"?"_ Gives to think, doesn't it?
+And here is some category two news: _"[Pandemics]({{ site.url }}{{ site.baseurl }}/cause-and-effect/likelihood-of-pandemics) as a result of market globalisation, and terrorist attacks as a result of [interventions for opportunistically plundering other nations]({{ site.url }}{{ site.baseurl }}/scenario-planning/opportunistic-scenario/) (sorry, "for stabilising countries that have oil, minerals or other resources"), and all of the subsequent measures to protect us from what comes back to us are the price we all pay for the economic enrichment of a few (sorry, "the price of freedom"), but having to wear a mask for 10 minutes in a shop is "tyranny"?"_ Quite entertaining that last bit, isn't it?
 
 ### Category 3 news
 
@@ -84,6 +86,21 @@ Two, reasonably known (at least in my circles), are on red algae nasal spray and
 * Carrageenans or carrageenins are a family of natural linear sulfated polysaccharides that are extracted from red edible seaweeds. In a nasal spray, this [could be a safe and effective treatment that could prevent transmission of COVID-19](https://www.clinicaltrials.gov/ct2/show/NCT04521322). Maybe these are mentioned?
 
 > **Sorry, no content matched your search. Please try again.**
+
+## Possible single story
+
+The COVID-19 outbreak in March of 2020 brought about a sense of fear and anxiety around the globe. When policymakers across the globe reacted with "lock downs" to help limit the spread of COVID-19, they took a leap into the unknown. They knew little about COVID-19 itself, and almost nothing about how lockdowns would affect people and society. Now, more than one year later we know a little more:
+
+* Massive spikes in suicide rates and mental health crises due to increased emotional stress. Being cut off from friends, family, and many other things that give life meaning proved too much for many already struggling.
+* Trapping people at home and cutting them off from outside support is a sure recipe for domestic violence.
+* Not only that, it is also a recipe for increased substance abuse, an exacerbation of an already-existing crisis, which can be measured in the increased number of overdoses.
+* Most importantly, the breakdown of local economies is causing a worldwide hunger that is pushing people to the brink of starvation.
+
+The latter of course, could become part of an opportunistic single story where the richest people in the world buy as much of the land in the world as they can, to "feed the hungry" and allow their products for developing "sustainable" local small farms, to be bought for an "affordable price".
+
+Personally, whether true or not, it may be a good idea to start local projects and prevent land grabbing, but hey.
+
+## Conclusions for now
 
 I have not been able to refute the Mass forming theory (yet). For now uncertainty rules. Stay tuned for updates on ambiguities, the emergence of new evidence and the shifting of individual and collective perspectives. Probably no need to hold on to your hats though.
 
