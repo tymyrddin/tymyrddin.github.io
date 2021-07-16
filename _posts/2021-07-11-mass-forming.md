@@ -89,7 +89,9 @@ Two, reasonably known (at least in my circles), are on red algae nasal spray and
 
 ## Possible single story
 
-The COVID-19 outbreak in March of 2020 brought about a sense of fear and anxiety around the globe. When policymakers across the globe reacted with "lock downs" to help limit the spread of COVID-19, they took a leap into the unknown. They knew little about COVID-19 itself, and almost nothing about how lockdowns would affect people and society. Now, more than one year later we know a little more:
+The COVID-19 outbreak in March of 2020 brought about a sense of fear and anxiety around the globe. When policymakers across the globe reacted with "lock downs" to help limit the spread of COVID-19, they took a "leap into the unknown". Assumption: They knew little about COVID-19 itself, and almost nothing about how lockdowns could affect people and society. 
+
+Now, more than one year later we know a little more, which can not be denied:
 
 * Being cut off from friends, family, and many other things that give life meaning proved too much for many already struggling. The increased emotional stress can lead to suicide and mental health crises.
 * Trapping people at home and cutting them off from outside support is a sure recipe for domestic violence.
