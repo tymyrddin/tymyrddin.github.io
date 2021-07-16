@@ -96,7 +96,7 @@ The COVID-19 outbreak in March of 2020 brought about a sense of fear and anxiety
 * Not only that, it is also a recipe for increased substance abuse and overdoses.
 * Most importantly, the breakdown of local economies is causing a worldwide hunger that is pushing people to the brink of starvation.
 
-The latter of course, could become part of an opportunistic single story where the richest people in the world buy as much of the land in the world as they can, to "feed the hungry" and allow their products for "developing sustainable local small farms", to be bought for an "affordable price".
+The latter of course, could become part of an opportunistic single story where the richest people in the world buy as much of the land in the world as they can, to "feed the hungry" and allow their products for "developing sustainable local small farms" (on the land they have not bought), to be available for an "affordable price".
 
 Such centralisation is doomed to fail. 
 
