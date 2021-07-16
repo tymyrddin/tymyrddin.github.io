@@ -106,7 +106,7 @@ Personally, whether this opportunistic centralisation scenario will play out or 
 
 ## Conclusions for now
 
-I have not been able to refute the Mass forming theory (yet). For now uncertainty rules. Stay tuned for updates on ambiguities, the emergence of new evidence and the shifting of individual and collective perspectives. Probably no need to hold on to your hats though.
+I have not been able to refute the "Mass forming" theory (yet). For now uncertainty rules. Stay tuned for updates on ambiguities, the emergence of new evidence and the shifting of individual and collective perspectives. Probably no need to hold on to your hats though.
 
 
 
