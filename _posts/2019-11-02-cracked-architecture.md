@@ -17,5 +17,5 @@ _To put it bluntly, metadata is hidden data that can fuck you over. Fuck you ove
 
 Surveillance and censorship go hand in hand, what else would surveillance be for other than to keep subjects obedient.
 
-* Surveillance is carried out by just about everybody, parents, teachers, neighbours, organised private groups, corporations and governments, and we are not helpless, we can [avoid surveillance as best as we can](https://tymyrddin.gitbook.io/orchard/munching-galaxies/data-protection-aka-infosec/avoiding-surveillance).
-* Likewise, censorship can be carried out by everybody as well. [And we can try to circumvent censorship](https://tymyrddin.gitbook.io/orchard/munching-galaxies/data-protection-aka-infosec/circumventing-censorship) as long as we also protect ourselves from prying eyes on what we are doing.
+* Surveillance is carried out by just about everybody, parents, teachers, neighbours, organised private groups, corporations and governments, and we are not helpless, we can [avoid surveillance as best as we can](https://tymyrddin.github.io/orchard/mitigations/data/Avoiding-surveillance/).
+* Likewise, censorship can be carried out by everybody as well. [And we can try to circumvent censorship](https://tymyrddin.github.io/orchard/mitigations/data/Circumventing-censorship/) as long as we also protect ourselves from prying eyes on what we are doing.

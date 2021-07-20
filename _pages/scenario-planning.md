@@ -58,7 +58,7 @@ For the purpose of finding more predetermined elements easily, we can research p
 
 ## Resources
 
-For listing more driving forces for a particular organisation and context, explore for example, [systematic hacking](https://tymyrddin.gitbook.io/orchard), [digital forensics](https://tymyrddin.wiki/forensics/start), [adversary-centric threat modelling](https://tymyrddin.gitbook.io/orchard/terraforming-threat-modelling), [attack patterns](https://tymyrddin.gitbook.io/orchard/snapping-us-some-dark-matter), [linguistic patterns]({{ site.url }}{{ site.baseurl }}/tags/#linguistics), and research into current [digital trends]({{ site.url }}{{ site.baseurl }}/tags/#trends). 
+For listing more driving forces for a particular organisation and context, explore for example, [systematic hacking](https://tymyrddin.github.io/orchard), [digital forensics](https://tymyrddin.wiki/forensics/start), [adversary-centric threat modelling](https://tymyrddin.github.io/orchard/threat-modelling), [attack patterns](https://tymyrddin.github.io/orchard/trees), [linguistic patterns]({{ site.url }}{{ site.baseurl }}/tags/#linguistics), and research into current [digital trends]({{ site.url }}{{ site.baseurl }}/tags/#trends). 
 
 ## Scenario logics
 
