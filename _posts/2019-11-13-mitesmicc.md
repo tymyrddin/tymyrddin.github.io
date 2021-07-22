@@ -20,7 +20,7 @@ What if, ever since early advanced "civilisations", the used pretext is still de
 
 >_The more complex communities become, the more differentiated the creation and loss of property becomes. And an alliance is formed that determines the fate of the world from then on: That of wealth and political power. As inseparable siblings, wealth and office rush from century to century. This is how biographies such as those of the Emperor Augustus and many of his successors on the Roman imperial throne came into being._ 
 
-What if the biggest bad wolf is us believing we are "free" (to post our information (and shadow information)) using obsolescence-ready dishwasher-safe 5G-accelerated technology? 
+What if the biggest bad wolf is us believing we are "free" (to post our information (and shadow information)) using obsolescence-ready dishwasher-safe 5G-Gen6-accelerated technology? 
 
 [![XKCD phone gen6]({{ site.url }}{{ site.baseurl }}/assets/images/xkcd_phone_6_en.png#center)](http://www.xkcd.com/1889/) 
 
