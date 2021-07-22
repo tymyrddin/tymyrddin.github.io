@@ -13,7 +13,7 @@ tags:
 
 From the Middle East to Eastern Europe, there seems to be no shortage of engineered crises on the geopolitical chessboard these days? 
 
-Thanks to scientific and technological advances, information has never been so voluminous, and so accessible, to so many people. ~ [Terror, climate chaos, financial crisis are the costs of ‘doing business’, Nafeez Ahmed, 2015](https://www.middleeasteye.net/opinion/terror-climate-chaos-financial-crisis-are-costs-doing-business
+Thanks to scientific and technological advances, information has never been so voluminous, and so accessible, to so many people. ~ [Terror, climate chaos, financial crisis are the costs of ‘doing business’, Nafeez Ahmed, 2015](https://www.middleeasteye.net/opinion/terror-climate-chaos-financial-crisis-are-costs-doing-business)
 
 And the epistemological gap between our perceptions of the world and how we are affecting it remains as wide as ever. Sometimes, the gap is manufactured for political convenience. Senior US military commanders, for instance, have supposedly deliberately massaged intelligence to promote an image of victory in the war on the Islamic State (IS) while, according to the Daily Beast, more than 50 intelligence analysts working out of the U.S. military’s Central Command formally complained that their reports on ISIS and al Qaeda’s branch in Syria were being inappropriately altered by senior officials. [50 Spies Say ISIS Intelligence Was Cooked](https://www.thedailybeast.com/exclusive-50-spies-say-isis-intelligence-was-cooked)
 
