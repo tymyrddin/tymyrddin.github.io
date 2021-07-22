@@ -22,7 +22,7 @@ What if it is [much, much older than that?]({{ site.url }}{{ site.baseurl }}/sce
 
 What if, ever since early advanced "civilisations", the used pretext is still defence (from some enemy), but "the complex" has adapted over the ages to, again and again, opportunistically use new forms of control to further its own interests? 
 
-What if the biggest bad wolf is us believing we are "free" (to post our information (and shadow information) using obsolescence-ready dishwasher-safe 5G-Gen6-accelerated technology)? 
+What if the biggest bad wolf is us [believing](https://tymyrddin.wiki/theatre/mindsets) we are "free" (to post our information (and shadow information) using obsolescence-ready dishwasher-safe 5G-Gen6-accelerated technology)? 
 
 [![XKCD phone gen6]({{ site.url }}{{ site.baseurl }}/assets/images/xkcd_phone_6_en.png#center)](http://www.xkcd.com/1889/) 
 
