@@ -16,7 +16,7 @@ It can also be defined as _an informal and changing coalition of groups with ves
 
 What if Noam Chomsky's suggestion is right on the dot, that "military–industrial complex" is a misnomer because the phenomenon in question is "not specifically military"? What if it is "the industrial system operating under one or another pretext where defence was a pretext for a long time)"?
 
-What if it is [much, much older than that?]({{ site.url }}{{ site.baseurl }}/scenario-planning/who-owns-what)?
+What if it is [much, much older than that?]({{ site.url }}{{ site.baseurl }}/scenario-planning/who-owns-what)
 
 >_The more complex communities become, the more differentiated the creation and loss of property becomes. And an alliance is formed that determines the fate of the world from then on: That of wealth and political power. As inseparable siblings, wealth and office rush from century to century._ 
 
